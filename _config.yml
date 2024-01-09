@@ -1,5 +1,5 @@
 url: "https://freudenberggroup.github.io"
-baseurl: "data-privacy-webpages"
+baseurl: "/data-privacy-webpages"
 
 title: "" # the name of your site, e.g. ACME Corp.
 plugins:
