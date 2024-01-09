@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "HR Global"
-lang: en
+title: "Privacyio Statementio"
+lang: es
 translation_reference: "hr_global"
 category: hr_systems
 ---
 
-# Application process at Freudenberg
+# Application process at Freudenberg (ES)
 
 The Freudenberg Group appreciates your visit to our job portal and your interest in the companies of the Freudenberg Group.
 

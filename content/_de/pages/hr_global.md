@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Datenschutzerklärung"
+title: "HR Global"
 lang: de
-language: "German"
 translation_reference: "hr_global"
+category: hr_systems
 ---
 
 # Bewerbungsverfahren bei Freudenberg

@@ -1,0 +1,75 @@
+#translations
+- language: ar
+  title: العربية
+
+- language: cs
+  title: Čeština
+
+- language: da
+  title: Dansk
+
+- language: de
+  title: Deutsch
+
+- language: en
+  title: English
+
+- language: es
+  title: Español
+
+- language: et
+  title: Eesti
+
+- language: fi
+  title: Suomi
+
+- language: el
+  title: Ελληνικά
+
+- language: hu
+  title: Magyar
+
+- language: it
+  title: Italiano
+
+- language: ja
+  title: 日本語
+
+- language: ko
+  title: 한국어
+
+- language: nl
+  title: Nederlands
+
+- language: no
+  title: Norsk
+
+- language: pl
+  title: Polski
+
+- language: pt
+  title: Português
+
+- language: ro
+  title: Română
+
+- language: ru
+  title: Русский
+
+- language: sk
+  title: Slovenčina
+
+- language: sl
+  title: Slovenščina
+
+- language: sv
+  title: Svenska
+
+- language: th
+  title: ไทย
+
+- language: tr
+  title: Türkçe
+
+- language: zh
+  title: 中文

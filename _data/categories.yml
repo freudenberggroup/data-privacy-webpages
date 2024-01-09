@@ -1,0 +1,80 @@
+hr_systems:
+  ar: أنظمة الموارد البشرية
+  cs: Systémy HR
+  da: HR-systemer
+  de: HR Systeme
+  en: HR Systems
+  es: Sistemas de RRHH
+  et: HR-süsteemid
+  fi: HR-järjestelmät
+  el: Συστήματα HR
+  hu: HR rendszerek
+  it: Sistemi HR
+  ja: HRシステム
+  ko: HR 시스템
+  nl: HR-systemen
+  no: HR-systemer
+  pl: Systemy HR
+  pt: Sistemas de RH
+  ro: Sisteme HR
+  ru: Системы управления персоналом
+  sk: Systémy HR
+  sl: Sistemi HR
+  sv: HR-system
+  th: ระบบ HR
+  tr: İK sistemleri
+  zh: 人力资源系统
+
+websites:
+  ar: المواقع الإلكترونية
+  cs: Webové stránky
+  da: Websteder
+  de: Webseiten
+  en: Websites
+  es: Sitios web
+  et: Veebisaidid
+  fi: Verkkosivustot
+  el: Διαδικτυακές τοποθεσίες
+  hu: Webhelyek
+  it: Siti web
+  ja: ウェブサイト
+  ko: 웹사이트
+  nl: Websites
+  no: Nettsteder
+  pl: Strony internetowe
+  pt: Sites
+  ro: Site-uri web
+  ru: Веб-сайты
+  sk: Webové stránky
+  sl: Spletne strani
+  sv: Webbplatser
+  th: เว็บไซต์
+  tr: Web siteleri
+  zh: 网站
+
+newsletters:
+  ar: النشرات الإخبارية
+  cs: Zpravodaje
+  da: Nyhedsbreve
+  de: Newsletter
+  en: Newsletters
+  es: Boletines
+  et: Uudiskirjad
+  fi: Uutiskirjeet
+  el: Ενημερωτικά δελτία
+  hu: Hírlevelek
+  it: Newsletter
+  ja: ニュースレター
+  ko: 뉴스레터
+  nl: Nieuwsbrieven
+  no: Nyhetsbrev
+  pl: Biuletyny
+  pt: Boletins informativos
+  ro: Buletine informative
+  ru: Информационные бюллетени
+  sk: Informačné bulletiny
+  sl: E-novice
+  sv: Nyhetsbrev
+  th: จดหมายข่าว
+  tr: Bültenler
+  zh: 通讯

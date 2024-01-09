@@ -1,7 +1,7 @@
 url: "https://freudenberggroup.github.io"
 baseurl: "/data-privacy-webpages"
 
-title: "" # the name of your site, e.g. ACME Corp.
+title: "Freudenberg Group"
 plugins:
   - jekyll-postcss
 
@@ -12,6 +12,15 @@ language_default: en
 
 collections_dir: content
 collections:
+  ar:
+    output: true
+    permalink: /:collection/:slug
+  es:
+    output: true
+    permalink: /:collection/:slug
+  da:
+    output: true
+    permalink: /:collection/:slug
   de:
     output: true
     permalink: /:collection/:slug
