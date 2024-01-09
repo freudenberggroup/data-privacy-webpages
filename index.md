@@ -1,8 +1,9 @@
 ---
 layout: default
 title: "Happy Jekylling!"
+language: "German"
 ---
 
-## You're ready to go!
+## Overview!
 
 Start developing your Jekyll website.

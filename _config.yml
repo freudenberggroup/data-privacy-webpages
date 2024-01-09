@@ -7,3 +7,17 @@ plugins:
 
 postcss:
   cache: false
+
+language_default: en
+
+collections_dir: content
+collections:
+  de:
+    output: true
+    permalink: /:collection/:slug
+  en:
+    output: true
+    permalink: /:collection/:slug
+  zh:
+    output: true
+    permalink: /:collection/:slug

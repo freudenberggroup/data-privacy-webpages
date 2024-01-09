@@ -1,10 +1,12 @@
-* * *
+---
+layout: default
+title: "Datenschutzerklärung"
+lang: de
+language: "German"
+translation_reference: "hr_global"
+---
 
-**Datenschutzerklärung**
-
-**Bewerbungsverfahren bei Freudenberg**
-
-* * *
+# Bewerbungsverfahren bei Freudenberg
 
 Die Unternehmensgruppe Freudenberg freut sich über Ihren Besuch auf unserem Jobportal sowie über Ihr Interesse an den Unternehmen der Freudenberg Gruppe.
 
