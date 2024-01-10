@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "数据保护声明"
+title: "科德宝集团招聘"
 lang: zh
 translation_reference: "hr_global"
 category: hr_systems
