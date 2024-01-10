@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Datenschutzerklärung"
+title: "Brevo"
 lang: de
 translation_reference: "brevo"
 category: newsletters
