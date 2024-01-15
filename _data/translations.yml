@@ -23,6 +23,9 @@
 - language: fi
   title: Suomi
 
+- language: fr
+  title: Français
+
 - language: el
   title: Ελληνικά
 
@@ -41,7 +44,7 @@
 - language: nl
   title: Nederlands
 
-- language: no
+- language: "no"
   title: Norsk
 
 - language: pl
@@ -56,11 +59,11 @@
 - language: ru
   title: Русский
 
-- language: sk
-  title: Slovenčina
-
-- language: sl
+- language: si
   title: Slovenščina
+
+- language: sk
+  title: Slovaški
 
 - language: sv
   title: Svenska

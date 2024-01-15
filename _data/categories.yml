@@ -19,8 +19,8 @@ hr_systems:
   pt: Sistemas de RH
   ro: Sisteme HR
   ru: Системы управления персоналом
+  si: HR sistemi
   sk: Systémy HR
-  sl: Sistemi HR
   sv: HR-system
   th: ระบบ HR
   tr: İK sistemleri
@@ -47,8 +47,8 @@ websites:
   pt: Sites
   ro: Site-uri web
   ru: Веб-сайты
+  si: Spletne strani
   sk: Webové stránky
-  sl: Spletne strani
   sv: Webbplatser
   th: เว็บไซต์
   tr: Web siteleri
@@ -66,7 +66,7 @@ newsletters:
   fi: Uutiskirjeet
   fr: Bulletins d'information
   hu: Hírlevelek
-  it: Newsletter
+  it: Notiziario
   ja: ニュースレター
   ko: 뉴스레터
   nl: Nieuwsbrieven
@@ -75,8 +75,8 @@ newsletters:
   pt: Boletins informativos
   ro: Buletine informative
   ru: Информационные бюллетени
+  si: Newsletter
   sk: Informačné bulletiny
-  sl: E-novice
   sv: Nyhetsbrev
   th: จดหมายข่าว
   tr: Bültenler

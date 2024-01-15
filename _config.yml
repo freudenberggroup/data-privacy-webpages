@@ -15,7 +15,7 @@ collections:
   ar:
     output: true
     permalink: /:collection/:slug
-  es:
+  cs:
     output: true
     permalink: /:collection/:slug
   da:
@@ -24,7 +24,70 @@ collections:
   de:
     output: true
     permalink: /:collection/:slug
+  es:
+    output: true
+    permalink: /:collection/:slug
+  el:
+    output: true
+    permalink: /:collection/:slug
   en:
+    output: true
+    permalink: /:collection/:slug
+  es:
+    output: true
+    permalink: /:collection/:slug
+  et:
+    output: true
+    permalink: /:collection/:slug
+  fi:
+    output: true
+    permalink: /:collection/:slug
+  fr:
+    output: true
+    permalink: /:collection/:slug
+  hu:
+    output: true
+    permalink: /:collection/:slug
+  it:
+    output: true
+    permalink: /:collection/:slug
+  ja:
+    output: true
+    permalink: /:collection/:slug
+  "no":
+    output: true
+    permalink: /:collection/:slug
+  ko:
+    output: true
+    permalink: /:collection/:slug
+  nl:
+    output: true
+    permalink: /:collection/:slug
+  pl:
+    output: true
+    permalink: /:collection/:slug
+  pt:
+    output: true
+    permalink: /:collection/:slug
+  ro:
+    output: true
+    permalink: /:collection/:slug
+  ru:
+    output: true
+    permalink: /:collection/:slug
+  si:
+    output: true
+    permalink: /:collection/:slug
+  sk:
+    output: true
+    permalink: /:collection/:slug
+  sv:
+    output: true
+    permalink: /:collection/:slug
+  th:
+    output: true
+    permalink: /:collection/:slug
+  tr:
     output: true
     permalink: /:collection/:slug
   zh:
