@@ -6,140 +6,145 @@ translation_reference: "hr_global"
 category: hr_systems
 ---
 
-# Application process at Freudenberg
+# Pályázati eljárás a Freudenberg Csoportnál
 
-The Freudenberg Group appreciates your visit to our job portal and your interest in the companies of the Freudenberg Group.
+A Freudenberg Vállalatcsoportnak nagy örömére szolgál, hogy álláshirdetési oldalainkat meglátogatja, és megköszöni a Freudenberg Csoport vállalatai iránti érdeklődését.
 
-In this privacy statement, we provide you with the legally required information on the processing of your personal data and on your rights based on the applicable data protection provisions – in particular the EU General Data Protection Regulation ("**GDPR**") and the German Federal Data Protection Act (_Bundesdatenschutzgesetz_ – "**BDSG**").
+Ebben az adatvédelmi tájékoztatóban ismertetjük a személyes adatai kezelésével és joga-ival kapcsolatos jogszabályban előírt információkat, figyelemmel az alkalmazandó adat-védelmi jogi előírásokra - különös tekintettel az EU Általános Adatvédelmi Rendeletére (**„GDPR“**), és a a német Szövetségi adatvédelmi törvényre (**„BDSG“**).
 
-This privacy statement relates to the processing of personal data for the purposes of the application process, both for external applications and for applications from employees who are already employed by a Freudenberg company ("**Internal Applications**").
+Ez az adatvédelmi tájékoztató a személyes adatok pályázati eljárás céljából történő keze-lésére vonatkozik, mégpedig mind külső pályázatokra, mind azoknak a foglalkoz-tatottaknak a pályázatára, akik már valamely Freudenberg vállalatnál alkalmazásban állnak (**"belső pályázatok"**).
 
-**A. Who is responsible for the processing of personal data?**
+**A. Ki felel a személyes adatok kezeléséért?**
 
-The controller under data protection law for the processing of your personal data is Freudenberg & Co. KG, which is responsible for central applicant management for all companies of the Freudenberg Group and, in this context, processes all applications received via the application channels provided centrally by the Freudenberg Group.
+Adatvédelmi jogi értelemben a személyes adatai kezeléséért a Freudenberg & Co. KG (Freudenberg & Co. Betéti társaság) felelős (adatkezelő), amely központilag irányítja a Freudenberg Csoport valamennyi vállalatához érkező pályázati el-járásokat, és ezzel összefüggésben feldolgoz minden, a Freudenberg Csoport részéről központilag rendelkezésre állított pályázati utakon beérkezett pályázatot.
 
-Freudenberg & Co. KG ("**Freudenberg**") can be reached by mail (Hoehnerweg 2-4, D-69469 Weinheim, Germany) or by e-mail (info@freudenberg.com).
+A Freudenberg & Co. KG társasághoz (**"Freudenberg"**) fordulhat postai úton (Hoehnerweg 2-4, D-69469 Weinheim, Deutschland), vagy e-mailben (in-fo@freudenberg.com).
 
-Where this data protection information refers to "we" or "us", this refers in each case to the aforementioned company.
+Amennyiben a jelen adatvédelmi tájékoztató a „mi“ vagy „nekünk“ kifejezéseket használja, ezek mindenkor a fent nevezett társaságot jelentik.
 
-You can reach Freudenberg's data protection officer as follows: activeMind.legal Rechtsanwaltsgesellschaft m.b.H. – Data Protection Officer Freudenberg & Co. KG, Potsdamer Straße 3, 80802 München, Germany, e-mail: dataprotection-support@freudenberg.com.
+A Freudenberg adatvédelmi tisztviselőjének elérhetősége a következő: activeMind.legal Rechtsanwaltsgesellschaft m.b.H . Datenschutzbeauftragter (adat-védelmi tisztviselő) Freudenberg & Co. KG, Potsdamer Straße 3, 80802 München, Deutschland, , e-mail: dataprotection-support@freudenberg.com.
 
-In addition to Freudenberg, other Freudenberg Group companies are also involved in the application process. This refers primarily to the company that has advertised a vacancy, to which you are making an unsolicited application for a position or which has a vacancy that matches your application ("Freudenberg Employer"). Please refer to Section E below for more information.
+A pályázati eljárás folyamatába a továbbiakban a Freudenberg társaság mellett a Freudenberg Csoport egyéb vállalatai is bekapcsolódnak. Ezek mindenekelőtt azok a társaságok, amelyek egy betöltendő állást hirdettek meg, vagy amelynél Ön kez-deményezett egy állásra irányuló pályázatot, vagy amely az Ön pályázatához illő szabad állást tud felkínálni ("Freudenberg- munkaadó "). Az ezzel kapcsolatos to-vábbi információkat az E. pont alatt találja meg.
 
-**B. What personal data is processed for the application process?**
+**B. Mely személyes adatokat kezeljük a pályázati eljárás érdekében?**
 
-In order to process your application, we need to process personal data. This regularly involves so-called master and history data, which we refer to collectively as **Application Data**.
+Pályázatának feldolgozása szükségessé teszi személyes adatainak a kezelését. Ennek során rendszerint megkülönböztetjük az ún. törzsadatokat és a folyamatos adatokat, amelyeket együttesen **pályázati adatoknak** nevezünk.
 
-* By master data we mean basic data about you and the application process conducted, in particular
-    * all information that you provide to us during the application process or that we request from you (e.g. name, address, telephone number, e-mail address, date of birth, marital status, nationality, religious denomination, education, language skills, previous employment with other employers, reference contacts); as well as
-    * such data that we collect in connection with your possible hiring (such as, in particular, details of your possible position, the possible organizational integration into our company, the possible duration of the assignment and the proposed salary).
+* A törzsadatok alatt az Ön személyét és az elvégzett pályázati eljárást érintő al-apvető adatokat értjük, különösen
 
-* We define historical data to mean personal data that is collected in the course of your application process and that goes beyond a mere change in your master data, in particular
-    * information about the interviews held with you (esp. date, place, participants);
-    * information about any services we may provide, such as reimbursement of travel expenses;
-    * information that you provide to us in the course of your application process – either actively or in response to a request from us – and that goes beyond the master data mentioned above. This concerns, in particular, information on remuneration/fees in the context of previous employment with other employers;
-    * other personal data from you or, if applicable, from third parties that we receive from you in the course of the application process. Third party personal data includes, for example, the name, age and nature of the relationship with persons who may accompany you while you are working for us abroad.
-
-Application Data also expressly includes special types of personal data, in particular data relating to your nationality, your health (e.g. a cancellation of an interview due to illness), any trade union membership you may have indicated, your religion or any disability you may have.
-
-_Internal Applications: If you apply for a position within the Freudenberg Group as an employee of a Freudenberg Group company and submit your application to us via the system provided for this purpose (currently Workday), you may provide us with additional information via the system._
-
-We usually receive the aforementioned personal data directly from you. In certain cases, Application Data may also include personal data that we collect from third parties in compliance with the applicable legal provisions (usually on your initiative, after informing you in advance or, where applicable, with your consent or approval); such as information that we receive from your previous employer(s), training organizations or so-called reference contacts.
-
-_Internal Applications: In case of Internal Applications, we may give you the opportunity to enable us to contact persons at your current Freudenberg Employer, e.g. by providing such reference contacts. In this case, the information received from these contacts will also be included in your master/history data._
-
-Please note that the amount of Application Data may vary depending on the position you are applying for: Different Freudenberg employers may be obliged to comply with different (employment) law requirements; this may have an impact on the nature and scope of the processing of personal data in application processes. For this reason, you may be provided with supplementary information on the processing of personal data during the application process, both by us and by the relevant Freudenberg Employer.
-
-**C. Are you obliged to provide personal data?**
-
-The provision of the Application Data is necessary for conducting the application process and the possible resulting conclusion of an employment contract between you and us.
-
-Should this not be the case with regard to some of the data, we will expressly point this out to you when collecting the respective data.
-
-Without the provision of the Application Data, we cannot conduct the application process with you and, therefore, cannot conclude an employment contract with you.
-
-If we collect additional personal data from you, this will also generally only be done if the provision of this information is required by law or contract or is necessary for conducting the application process. We will inform you – e.g. by marking individual requested data – if its provision is voluntary.
-
-If you send us additional information without us having requested it from you and without it being necessary for the application process, we will not use this information for the purposes of the application process, but must nevertheless store it with your other Application Data for technical reasons and for verification purposes.
-
-**D. On what legal basis is your personal data processed?**
-
-We process your Application Data for our own applications for positions at Freudenberg on the basis of Article 6(1)(b) GDPR, and otherwise on behalf of the respective Freudenberg Employer who processes Application Data on the basis of Article 6(1)(b) GDPR or a comparable legal basis under the applicable law in countries outside the EU/EEA, namely on the basis of Article 6(1)(f) GDPR to safeguard Freudenberg Group's legitimate interest in an efficient group-wide application process.
-
-We also process Application Data to comply with legal obligations by which we are bound; this is done on the basis of Article 6(1)(c) GDPR. These legal obligations include, in particular, the notifications to social insurance carriers and (tax) authorities that are prescribed for us, the audits that may be prescribed for us (e.g. against so-called "sanctions lists") and the fulfillment of existing record-keeping obligations for certain information.
-
-To the extent necessary, we also process your data beyond conducting the application procedure and the fulfillment of legal obligations in order to protect our legitimate interests or the interests of third parties; this is done on the basis of Article 6(1)(f) GDPR. Our legitimate interests include, among other things:
-
-* group-wide processes for the internal administration of Application Data;
-* the assertion of legal claims and the defense in legal disputes;
-* the prevention and investigation of criminal offences such as so-called "application fraud";
-* ensuring the security of the IT systems we use;
-* the further development, expansion and administration of the IT systems we use, including test operations;
-* the management and further development of our business activities, including risk management.
+* mindazokat az információkat, amelyeket Ön a pályázati eljárás során ad meg részünkre, illetve amelyek megadására mi kérjük fel (pl. név, lakcím, telefonszám, e-mail cím, születési idő, családi állapot, állam-polgárság, vallási felekezet, a szakmai képzését, nyelvtudását ill. egyéb munkaadóknál folytatott korábbi foglalkoztatottságát érintő adatok, re-ferencia elérhetősége); valamint
+* azokat az adatokat, amelyeket a jövőbeli lehetséges foglalkoztatásával összefüggésben veszünk fel (így különösen a lehetséges állását, a vállalatunkhoz történő lehetséges szervezeti bekapcsolódását, lehetséges foglalkoztatásának tartamát és a javasolt fizetést érintő ada-tokat).
 
 
-To the extent the Application Data contains special types of personal data (such as health data, data relating to religion and data relating to your racial and ethnic origin), we process these for our own applications for the purposes of the obligations incumbent upon us under employment law and social security law to the extent provided for by law; this is done on the basis of Article 9(2)(b) GDPR; otherwise, we do this on behalf of the respective Freudenberg Employer.
+* A folyamatos adatok keretében olyan személyes adatokat kezelünk, amelyeket a pályázati eljárás folyamán rögzítünk, és amelyek a törzsadatai egyszerű módosításán túlra irányulnak, különösen
 
-Where we give you the opportunity to give your consent in the course of the application process (e.g. in connection with applicant pools), we process the personal data covered by the consent exclusively for the purposes stated in the consent declaration. This is done on the basis of Article 6(1)(a) GDPR. Where consent relates to the processing of special types of personal data (such as health data), the processing is based on Article 9(2)(a) GDPR.
+* az Önnel folytatott állásinterjúval kapcsolatos információkat (elsősor-ban hely, dátum, résztvevők);
+* az általunk teljesített szolgáltatásokkal kapcsolatos információkat, mint pl. az Önnek megtérített utazási költségek;
+* az Ön által a pályázati eljárás folyamán – akár aktívan, akár felkérésünkre – számunkra rendelkezésre bocsátott információkat, a-melyek a fent leírt törzsadatok keretén túlra irányulnak. Ide tartoznak különösképpen a más munkaadóknál végzett korábbi foglalkoz-tatottsága keretében kapott javadalmazásával/honoráriumával kapcsola-tos adatok;
+* további, Önt, vagy adott esetben harmadik feleket érintő személyes a-datokat, amelyek a pályázati eljárás folyamán jutnak Önnel kapcsolat-ban a birtokunkba. Harmadik feleket érintő személyes adatok alá esnek például azon személyek neve, kora, illetve az ezekhez a személyekhez fűződő viszonyának jellege, akiket Ön egy lehetséges külföldi tevéke-nysége során megbízásunkból elkísér.
 
-Please note that
+A pályázati adatokhoz tartoznak kifejezetten a személyes adatok különleges fajtái is, különösen az állampolgárságára, egészségi állapotára ( pl. egy állásinterjú be-tegség miatti lemondása esetén), az esetleges szakszervezeti tagságára, vallási hovatartozására, vagy adott esetben fogyatékosságára vonatkozóan adott nyilatko-zatai.
 
-* the granting of consent is always voluntary and neither the granting nor the subsequent withdrawal of consent has negative consequences for conducting your application process;
-* that not granting consent or its subsequent withdrawal may nevertheless entail consequences if we are then no longer able to carry out certain data processing operations; we will inform you of such consequences before granting consent, and
-* that you may withdraw any consent given at any time with effect for the future, e.g. by notifying us (or the Freudenberg company or companies named in the consent);
-* that even in the event of withdrawal of consent, we may be entitled to continue the processing in question – possibly to a reduced extent – on the basis of a statutory permission.
+_Belső pályázatok: amennyiben Ön a Freudenberg Csoport egy vállalatának foglalkoztatottjaként pályázik egy Freudenberg Csoporton belüli állásra és pályá-zatát az erre rendelkezésre bocsátott programon keresztül (jelenleg ez a Workday) küldi meg számunkra, a programban adott esetben megadhat részünkre egyéb kiegészítő információkat is._
 
-**E. Who receives your personal data?**
+Az előzőekben leírt személyes adatokat rendszerint közvetlenül Öntől kapjuk meg. A pályázati adatokhoz bizonyos esetekben olyan személyes adatok is tartoz-hatnak, amelyeket társaságunk a mindenkor idevágó jegszabályi előírások figyelembe vétele mellett (rendszerint az Ön kezdeményezésére, vagy az Ön előzetes értesítésével, vagy adott esetben az Ön hozzájárulásával vagy enge-délyével) harmadik személyektől kap; ezek pl. az előző munkaadójától/munkaadóitól, szakképző intézményeitől, vagy az ún. referencia-kapcsolati személyektől kapott információk.
 
-Your personal data will generally be processed within Freudenberg. Depending on the type of personal data, only certain departments / organizational units will have access to your personal data. In particular, this includes employees at Freudenberg who are involved in the application process.
+_Belső pályázatok: belső pályázatok esetén lehetőséget tudunk Önnek adni arra, hogy lehetővé tegye az eddigi Freudenberg-munkaadója kapcsolattartó személyével való kapcsolatfelvételt, pl. az ezirányú referencia-kapcsolati személyek megnevezésével. Ebben az esetben az ezektől a kapcsolattartó személyektől kapott információk is a törzs-/folyamatos adatok részét fogják képezni._
 
-We will also forward your Application Data to the Freudenberg Employer(s) who need to know the Application Data in order to conduct the further application process.
+Kérjük vegye figyelembe, hogy a pályázati adatok terjedelme ahhoz képest, hogy mely állásra pályázik, eltérő lehet: a különböző Freudenberg-munkaadók eltérő (munka)jogi követelmények betartására lehetnek kötelezve, amely befolyásolhatja a személyes adatok kezelésének jellegét és terjedelmét a pályázati eljárás során. Ebből az okból lehetnek a pályázati eljárás során mind a részünkről, mind a kérdéses Freudenberg-munkaadó részéről személyes adatok kezelésével kapcsola-tos kiegészítő információk az Ön rendelkezésére bocsátva.
 
-By means of a role and authorization concept, access within our company is limited to those functions and to that extent which are necessary for the respective purpose of processing.
+**C. Köteles a személyes adatai rendelkezésre bocsátására?**
 
-In addition, we may also transfer Application Data to other third parties outside our company to the extent permitted by law. These external recipients include, in particular:
+A pályázati adatok rendelkezésre bocsátása szükséges a pályázati eljárás kivi-telezéséhez, és adott esetben ennek eredményeként a vállalatunk és az Ön közötti munkaszerződés megkötéséhez.
 
-* the service providers commissioned by us in connection with the application process, who provide services to us on a separate contractual basis, which may also include the processing of personal data, as well as the subcontractors of our service providers engaged with our consent, as well as
-* non-public and public bodies, to the extent we are obliged to transfer your personal data due to legal obligations.
+Amennyiben a szükségesség egyes adatok tekintetében nem állna fenn, ezen ada-tok felvételénél erre kifejezetten felhívjuk a figyelmét.
 
-**F. Is personal data transferred to recipients outside the EU/EEA?**
+A pályázati adatok rendelkezésre bocsátása hiányában nem áll módunkban a pál-yázati eljárást lefolytatni és ennek következményeként Önnel munkaszerződést kötni.
 
-Yes, due to the global structure of the Freudenberg Group, it may also be necessary to transfer personal data to recipients in so-called "third countries". "Third countries" are countries outside the European Union or the Agreement on the European Economic Area where a level of data protection comparable to that in the European Union cannot be readily assumed.
+Amennyiben a fentieken túl veszünk fel Öntől személyes adatot, erre rendszerint csak akkor kerül sor, ha a kérdéses információ rendelkezésre bocsátását törvény vagy szerződés írja elő, vagy az a pályázati eljárás kivitelezéséhez szükséges. Min-dig tájékoztatjuk arról – pl. az egyes kért adat megjelölésével -, amennyiben azok rendelkezésre bocsátása önkéntes alapon történik.
 
-However, before such a transfer, we always check whether it is already permitted on the basis of a legal provision (e.g. on the basis of Article 49 GDPR). Furthermore, prior to such a transfer, we ensure that the required adequate level of data protection is guaranteed in the respective third country or at the recipient in the third country. This can result, in particular, from a so-called "adequacy decision" of the European Commission, which establishes an adequate level of data protection for a specific third country as a whole. Alternatively, we can also base the data transfer on the so-called "EU standard contractual clauses" agreed with a recipient.
+Abban az esetben, ha Ön olyan kiegészítő jellegű információkat ad meg számunkra, amelyekre nem mi kértük fel, illetve amelyek nem szükségesek a pál-yázati eljáráshoz, azokat az információkat nem fogjuk a pályázati eljárás céljából felhasználni, mindazonáltal technikai okokból illetve igazolás céljából azokat az egyéb pályázati adatokkal együtt kell majd tárolnunk.
 
-We are happy to provide you with further information on the appropriate and adequate safeguards to ensure an adequate level of data protection upon request.
+**D. Milyen jogi alapon kezeljük a személyes adatait?**
 
-**G. Storage period**
+A pályázati adatok általunk történő kezelése a Freudenberg társaság állásaira megküldött saját pályázatok esetében a GDPR 6. cikk (1) bekezdés b) pontján alapul, egyébként pedig azon Freudenberg-munkaadó megbízásából történik, ame-ly a pályázati adatokat a GDPR 6. cikk (1) bekezdés b) pontján, vagy az EU-n/ EGT-n kívüli országok alkalmazandó joga szerinti hasonló jogszabályon alapulva kezeli. A megbízás alapján történő adatkezelés jogi alapja a GDPR 6. cikk (1) bekezdés f) pontja, a Freudenberg Csoport hatékony, a csoport egészére kiterjedő pályázati folyamatához fűződő jogos érdekeinek érvényesítése céljával.
 
-Generally, we store your personal data as long as we have a legitimate interest in such storage and your interests in the discontinuation of the storage do not outweigh our interests.
+Pályázati adatokat kezelünk a ránk vonatkozó jogi kötelezettségek teljesítése érdekében is; ennek jogi alapja a GDPR 6. cikk (1) bekezdés c) pontja. E jogi kö-telezettségekhez tartoznak különösen a számunkra előírt bejelentési kötelezettség a társadalombiztosítási vagy (adó)hatóságok felé, a számunkra esetlegesen előírt ellenőrzési kötelezettség (pl. az ún. szankciós listákban), illetve a bizonyos in-formációkat érintő megőrzési kötelezettség.
 
-As a rule, your Application Data will be stored at least until the end of the application process. In the event of a rejection, the data will furthermore be stored for a period of six months or in accordance with the prescribed periods in the country of the respective Freudenberg Employer after receipt of the rejection letter.
+Amennyiben szükséges, adatait kezeljük a pályázati eljárás kivitelezésén és a jogi kötelezettségek teljesítésén túl a jogos érdekeink, vagy egy harmadik fél jogos érdekeinek érvényesítéséhez is; ennek jogi alapja a GDPR 6. cikk (1) bekezdés f) pontja. Jogos érdekeinkhez tartoznak többek között
 
-When concluding an employment contract, we will provide you with a separate privacy statement for employees if and to the extent required by the law applicable to the respective Freudenberg Employer.
-
-**H. Your rights**
-
-As a data subject, you have the following rights:
-
-* ­right to information on the personal data stored about you, Article 15 GDPR;
-* ­right to rectification of inaccurate or incomplete data, Article 16 GDPR;
-* ­right to erasure of personal data, Article 17 GDPR;
-* ­right to restriction of processing, Article 18 GDPR;
-* ­right to data portability, Article 20 GDPR, and
-* ­**right to object to the processing of personal data concerning you, Article 21 GDPR.**
+* a pályázati adatok belső igazgatásához az egész vállalatcsoportban alkalmazott eljárások;
+* jogi igények érvényesítése és védelem a jogi viták során;
+* bűncselekmények, mint pl. az ún. "pályázati csalás" megakadályozása és feld-erítése;
+* az általunk alkalmazott informatikai rendszerek biztonságának garantálása;
+* az általunk alkalmazott informatikai rendszerek fejlesztése, bővítése és admin-isztrációja, beleértve a tesztüzemet is;
+* vállalataink üzleti tevékenységének irányítása és fejlesztése, beleértve a kockázatkezelést is.
 
 
-To exercise these rights, you can contact us at any time – e.g. via one of the contact channels indicated at the beginning of this data protection information.
+Jos työnhakutiedot sisältävät tiettyjä erityisen tyyppisiä henkilötietoja (kuten tietoja terveydentilasta, uskonnosta, rotutaustasta tai etnisestä taustasta), käsittelemme niitä meidän hakemustemme kohdalla työ- ja sosiaaliturvaoikeudellisten velvoitteidemme vuoksi lain edellyttämässä laajuudessa; tämä perustuu tietosuoja-asetuksen 9 artiklan 2 kohdan b) alakohtaan; muutoin käsittelemme näitä tietoja kulloisenkin Freudenberg-työnantajayhtiön toimeksiannosta.
 
-If you have any questions regarding the processing of your data, you can also contact our data protection officer.
+Amennyiben a pályázati adatok a személyes adatok különleges fajtáit is tartalmaz-zák (mint pl. egészségügyi adatokat, a vallási hovatartozását, a faji és etnikai származását érintő adatokat), ezeket a saját pályázatok vonatkozásában a fo-glalkoztatást és a szociális biztonságot szabályozó jogi előírásokból fakadó kö-telezettségeink teljesítése érdekében kezeljük a törvényes kereteken belül; ennek jogi alapja a GDPR 9. cikk (2) bekezdés b) pontja; egyébként pedig a mindenkori Freudenberg-munkaadó megbízása alapján.
 
-You also have the right to lodge a complaint with a competent data protection supervisory authority, Article 77 GDPR.
+Amennyiben a pályázati eljárás folyamatában lehetőséget adunk Önnek, hogy személyes adatainak feldolgozásához hozzájárulását adja (pl. a pályázók egyes csoportjaival összefüggésben), abban az esetben a hozzájárulásban foglalt adatait kizárólag a hozzájárulásban megnevezett célra kezeljük; ennek jogi alapja a GDPR 6. cikk (1) bekezdés a) pontja. Amennyiben a hozzájárulás személyes adatok különleges fajtái (mint pl. egészségügyi adatok) kezelésére szól, az adatkezelés jogalapja a GDPR 9. cikk (2) bekezdés a) pontja.
 
-**I. Who can I contact if I have any questions?**
+Kérjük vegye figyelembe, hogy
 
-If you have any questions about your rights, the quickest way to reach us is via dataprotection-support@freudenberg.com.
+* hozzájárulásának számunkra szóló megadása mindenkor önkéntes, és sem a hozzájárulás megadása, sem annak későbbi visszavonása nem jár a pályázati eljárása lefolytatására nézve hátrányos következményekkel;
+* ­a hozzájárulás meg nem adása vagy annak későbbi visszavonása azonban kö-vetkezményekkel járhat, amennyiben bizonyos adatkezelési folyamatot emiatt nem áll módunkban kivitelezni; ezekről a következményekről a hozzájárulás megadása előtt tájékoztatjuk, és
+* ­a részünkre megadott hozzájárulását a jövőre nézve bármikor visszavonhatja, pl. egy számunkra (vagy a hozzájárulásban megnevezett Freudenberg társaság(ok)hoz) megküldött nyilatkozatával;
+* a hozzájárulás visszavonása esetén is jogunkban állhat, az érintett kezelést törvényi felhatalmazás alapján – adott esetben csökkentett terjedelemben –tovább folytatni.
 
-The contact details of Freudenberg & Co. KG can be found at the beginning of this privacy statement.
+**E. Ki férhet hozzá a személyes adataihoz?**
 
-We will provide you with the contact details of the relevant Freudenberg Employer(s) in the course of the application process.
+A személyes adatait alapvetően a Freudenberg társaságon belül kezeljük. A szemé-lyes adatok jellegétől függően csak bizonyos részlegek/ szervezeti egységek férhetnek hozzá a személyes adataihoz. Ezekhez tartoznak különösen a Freuden-berg társaságnál a pályázati eljárások lefolytatásával megbízott foglalkoztatottak.
+
+Ezen túl megküldjük a pályázati adatait annak/ azoknak a Freudenberg munkaadó(k)nak is, amely(ek)nek a pályázati eljárás további lefolytatásához szüksége van a pályázati adatok ismeretére.
+
+A hozzáférés vállalatunkon belül egy szerep- és jogosultsági terv alapján minden-kor azokra a tisztségekre és arra a mértékre korlátozódik, amely az adatkezelés meghatározott céljához szükséges.
+
+Mindezen túl a jogszabály által megengedett mértékben további, a vállalatunkon kívülálló harmadik személyeknek is továbbíthatjuk a pályázati adatait. E külső címzettekhez tartozhatnak különösen
+
+* ­azok a szolgáltatók, akik részünkre a pályázati eljárásokkal kapcsolatban külön szerződés alapján olyan szolgáltatást végeznek, amelyek a személyes adatok kezelését is magukban foglalhatják, valamint ezen szolgáltatók hozzájárulásunkkal kiválasztott alvállalkozói; továbbá
+* közjogi és nem közjogi hivatalok és helyek, amennyiben jogszabály alapján vagyunk kötelesek személyes adatai továbbítására.
+
+**F. Továbbítjuk a személyes adatait az EU-n / az EGT-n kívüli címzettek részére is?**
+
+Igen, tekintettel a Freudenberg Csoport globális szervezetére, szükségessé válhat adott esetben, hogy személyes adatait ún. „harmadik országok“ címzettei részére továbbítsuk. A „harmadik országok“ közé az Európai Unión (EU) vagy az Európai Gazdasági Térségről szóló Egyezményen (EGT) kívülálló államok tartoznak, a-melyekben nem indulhatunk ki minden további elővigyázatosság nélkül egy az Európai Unióéhoz hasonló adatvédelmi színvonalból.
+
+Az adatok ilyen esetekben való továbbítása előtt azonban minden esetben megvi-zsgáljuk, hogy a továbbítást első körben megengedi-e valamely jogszabály (pl. a GDPR 49. cikke). Egyéb esetekben az adatok továbbítása előtt biztosítjuk, hogy az adott harmadik országban, vagy a harmadik országbeli címzettnél garantálva legy-en a megfelelő adatvédelmi színvonal. Ez a helyzet állhat fenn különösen az Eu-rópai Bizottság ún. „megfelelőségi határozata“ alapján, amelyben a bizottság egy adott harmadik ország egészére vonatkozóan állapítja meg a megfelelő adatvédel-mi szintet. Alternatív lehetőségként a címzettekkel kötött megállapodással bi-ztosítjuk a megfelelő adatvédelmi szintet az ún. „EU-s Általános Szerződési Feltételek“ segítségével.
+
+A megfelelő adatvédelmi szint betartását biztosító alkalmas és megfelelő garan-ciákkal kapcsolatban kérésére szívesen bocsátunk további információkat a rendel-kezésére.
+
+**G. Az adatok megőrzésének időtartama**
+
+Személyes adatait alapvetően addig őrizzük meg, amíg jogos érdekünk fűződik azok megőrzéséhez, és az Ön adatmegőrzés megszüntetéséhez fűződő érdeke nem áll ezzel szemben túlsúlyban.
+
+Pályázati adatait rendszerint a pályázati eljárás végéig őrizzük meg. Pályázata si-kertelensége esetén az adatait ezen túl, az elutasító levél kézbesítésétől számított hat hónapig, vagy az adott Freudenberg-munkaadó országában előírt határidőnek megfelelő időtartamig őrizzük meg.
+
+Egy munkaszerződés megkötése esetén a foglalkoztatottakat érintő külön adat-védelmi tájékoztatót állítjuk a rendelkezésére, a mindenkori Freudenberg-munkaadóra érvényes jog által előirt esetekben és terjedelemben.
+
+**H. Jogai**
+
+Mint érintettnek jogában áll
+
+* ­az Önről tárolt személyes adatokhoz hozzáférni, GDPR 15. cikke;
+* ­­­­­a pontatlan vagy hiányos adatok helyesbítését kérni, GDPR 16. cikke;;
+* ­­­a személyes adatainak a törlését kérni, GDPR 17. cikke;
+* ­­­­az adatkezelés korlátozását kérni, GDPR 18. cikke;
+* ­­az adathordozhatósághoz való jogát érvényesíteni, GDPR 20. cikke, és
+* ­**­­­­­az Önt érintő személyes adatok kezelése ellen tiltakozni, GDPR 21. cikke.**
+
+
+E jogok gyakorlása érdekében fordulhat mindenkor hozzánk – pl. a jelen adat-védelmi tájékoztató elején megadott kapcsolati elérhetőségek egyikén.
+
+Adatai kezelésével kapcsolatos kérdésekkel adatvédelmi tisztviselőnkhöz is fordul-hat.
+
+A fentieken túl Önnek jogában áll a GDPR 77. cikke értelmében az illetékes adat-védelmi hatóságnál panaszt tenni.
+
+**I. Kihez fordulhatok a kérdéseimmel?**
+
+A jogait érintő kérdéseivel a leggyorsabban a dataprotection-support@freudenberg.com címen ér el minket.
+
+A Freudenberg & Co. KG elérhetőségét a jelen adatvédelmi tájékoztató elején ta-lálja meg.
+
+A mindenkori Freudenberg-munkaadó(k) elérhetőségét/ elérhetőségeit a pályázati eljárás folyamán bocsátjuk a rendekezésére.

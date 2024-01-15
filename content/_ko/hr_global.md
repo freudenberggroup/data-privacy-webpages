@@ -6,140 +6,143 @@ translation_reference: "hr_global"
 category: hr_systems
 ---
 
-# Application process at Freudenberg
+# Freudenberg 지원절차
 
-The Freudenberg Group appreciates your visit to our job portal and your interest in the companies of the Freudenberg Group.
+저희 Freudenberg 그룹에 관심을 가지고 취업포탈 사이트를 방문해 주셔서 감사드립니다.
 
-In this privacy statement, we provide you with the legally required information on the processing of your personal data and on your rights based on the applicable data protection provisions – in particular the EU General Data Protection Regulation ("**GDPR**") and the German Federal Data Protection Act (_Bundesdatenschutzgesetz_ – "**BDSG**").
+본 개인정보보호방침에는 개인정보와 EU 개인정보보호 기본규정 (**“DSGVO”**) 및 독일연방 개인정보보호법(**“BDSG”**)에 따라 적용되는 개인정보보호법 규정에 의거한 권리에 대한 정보가 들어있습니다.
 
-This privacy statement relates to the processing of personal data for the purposes of the application process, both for external applications and for applications from employees who are already employed by a Freudenberg company ("**Internal Applications**").
+본 개인정보보호방침은지원절차에 따르는 개인정보의 처리과정에 해당되며 이는 외부지원 및 Freudenberg 사(社) 직원의 내부지원에도 해당됩니다. (“내부지원").
 
-**A. Who is responsible for the processing of personal data?**
+**A. 개인정보 처리 및 관리는 누구의 관할인가요?**
 
-The controller under data protection law for the processing of your personal data is Freudenberg & Co. KG, which is responsible for central applicant management for all companies of the Freudenberg Group and, in this context, processes all applications received via the application channels provided centrally by the Freudenberg Group.
+개인정보 내용의 처리와 관련하여 정보보호법상의 책임은 Freudenberg 그룹의 모든 계열사를 위한 중앙지원시스템을 책임, 담당하고 있는 Freudenberg & Co. Kg에 있으며, 이와 함께 Freudenberg 그룹이 중앙관리하는 지원채널을 통해 접수된 지원서가 처리됩니다.
 
-Freudenberg & Co. KG ("**Freudenberg**") can be reached by mail (Hoehnerweg 2-4, D-69469 Weinheim, Germany) or by e-mail (info@freudenberg.com).
+Freudenberg & Co. KG (“Freudenberg”)에는 우편 (Hoehnerweg 2-4, D-69469 Weinheim, Deutschland) 또는 이메일(info@freudenberg.com)로 연락하실 수 있습니다.
 
-Where this data protection information refers to "we" or "us", this refers in each case to the aforementioned company.
+본 개인정보보호 안내문에 나온 “저희” 또는 “저희에게”는 각각 위에서 언급한 회사를 지칭합니다.
 
-You can reach Freudenberg's data protection officer as follows: activeMind.legal Rechtsanwaltsgesellschaft m.b.H. – Data Protection Officer Freudenberg & Co. KG, Potsdamer Straße 3, 80802 München, Germany, e-mail: dataprotection-support@freudenberg.com.
+Freudenberg 사의 개인정보보호와 관련한 업무처리 대행회사는 다음과 같습니다: activeMind.legal Rechtsanwaltsgesellschaft m.b.H. Datenschutzbeauftragter Freudenberg & Co. KG, Potsdamer Straße 3, 80802 München Deutschland, 이메일 dataprotection-support@freudenberg.com.
 
-In addition to Freudenberg, other Freudenberg Group companies are also involved in the application process. This refers primarily to the company that has advertised a vacancy, to which you are making an unsolicited application for a position or which has a vacancy that matches your application ("Freudenberg Employer"). Please refer to Section E below for more information.
+Freudenberg 사 외에도 Freudenberg 그룹의 다른 계열사에서도 마찬가지로 본 지원절차에 따라 진행됩니다. 이는 직원 채용공고를 내고 여러분이 스스로 지원한 회사 또는 여러분의 지원서에 맞는 자리가 있는 회사등에 모두 해당됩니다 (Freudenberg-고용주). 자세한 사항은 아래의 E 장에서 찾으실 수 있습니다.
 
-**B. What personal data is processed for the application process?**
+**B. 어떤 개인정보 내용이 지원절차에서 작업, 관리되나요?**
 
-In order to process your application, we need to process personal data. This regularly involves so-called master and history data, which we refer to collectively as **Application Data**.
+応募プロセスを進めるためには、個人情報を処理しなければなりません。そのデータとは、まとめて応募データと呼んでいる、原則的に収集する所謂マスターデータと履歴データです。
 
-* By master data we mean basic data about you and the application process conducted, in particular
-    * all information that you provide to us during the application process or that we request from you (e.g. name, address, telephone number, e-mail address, date of birth, marital status, nationality, religious denomination, education, language skills, previous employment with other employers, reference contacts); as well as
-    * such data that we collect in connection with your possible hiring (such as, in particular, details of your possible position, the possible organizational integration into our company, the possible duration of the assignment and the proposed salary).
+* 기본정보는 여러분 개인 및 진행된 지원절차에 대한 기본적인 정보를 뜻하며, 특히 다음과 같은 내용이 포함됩니다.
 
-* We define historical data to mean personal data that is collected in the course of your application process and that goes beyond a mere change in your master data, in particular
-    * information about the interviews held with you (esp. date, place, participants);
-    * information about any services we may provide, such as reimbursement of travel expenses;
-    * information that you provide to us in the course of your application process – either actively or in response to a request from us – and that goes beyond the master data mentioned above. This concerns, in particular, information on remuneration/fees in the context of previous employment with other employers;
-    * other personal data from you or, if applicable, from third parties that we receive from you in the course of the application process. Third party personal data includes, for example, the name, age and nature of the relationship with persons who may accompany you while you are working for us abroad.
-
-Application Data also expressly includes special types of personal data, in particular data relating to your nationality, your health (e.g. a cancellation of an interview due to illness), any trade union membership you may have indicated, your religion or any disability you may have.
-
-_Internal Applications: If you apply for a position within the Freudenberg Group as an employee of a Freudenberg Group company and submit your application to us via the system provided for this purpose (currently Workday), you may provide us with additional information via the system._
-
-We usually receive the aforementioned personal data directly from you. In certain cases, Application Data may also include personal data that we collect from third parties in compliance with the applicable legal provisions (usually on your initiative, after informing you in advance or, where applicable, with your consent or approval); such as information that we receive from your previous employer(s), training organizations or so-called reference contacts.
-
-_Internal Applications: In case of Internal Applications, we may give you the opportunity to enable us to contact persons at your current Freudenberg Employer, e.g. by providing such reference contacts. In this case, the information received from these contacts will also be included in your master/history data._
-
-Please note that the amount of Application Data may vary depending on the position you are applying for: Different Freudenberg employers may be obliged to comply with different (employment) law requirements; this may have an impact on the nature and scope of the processing of personal data in application processes. For this reason, you may be provided with supplementary information on the processing of personal data during the application process, both by us and by the relevant Freudenberg Employer.
-
-**C. Are you obliged to provide personal data?**
-
-The provision of the Application Data is necessary for conducting the application process and the possible resulting conclusion of an employment contract between you and us.
-
-Should this not be the case with regard to some of the data, we will expressly point this out to you when collecting the respective data.
-
-Without the provision of the Application Data, we cannot conduct the application process with you and, therefore, cannot conclude an employment contract with you.
-
-If we collect additional personal data from you, this will also generally only be done if the provision of this information is required by law or contract or is necessary for conducting the application process. We will inform you – e.g. by marking individual requested data – if its provision is voluntary.
-
-If you send us additional information without us having requested it from you and without it being necessary for the application process, we will not use this information for the purposes of the application process, but must nevertheless store it with your other Application Data for technical reasons and for verification purposes.
-
-**D. On what legal basis is your personal data processed?**
-
-We process your Application Data for our own applications for positions at Freudenberg on the basis of Article 6(1)(b) GDPR, and otherwise on behalf of the respective Freudenberg Employer who processes Application Data on the basis of Article 6(1)(b) GDPR or a comparable legal basis under the applicable law in countries outside the EU/EEA, namely on the basis of Article 6(1)(f) GDPR to safeguard Freudenberg Group's legitimate interest in an efficient group-wide application process.
-
-We also process Application Data to comply with legal obligations by which we are bound; this is done on the basis of Article 6(1)(c) GDPR. These legal obligations include, in particular, the notifications to social insurance carriers and (tax) authorities that are prescribed for us, the audits that may be prescribed for us (e.g. against so-called "sanctions lists") and the fulfillment of existing record-keeping obligations for certain information.
-
-To the extent necessary, we also process your data beyond conducting the application procedure and the fulfillment of legal obligations in order to protect our legitimate interests or the interests of third parties; this is done on the basis of Article 6(1)(f) GDPR. Our legitimate interests include, among other things:
-
-* group-wide processes for the internal administration of Application Data;
-* the assertion of legal claims and the defense in legal disputes;
-* the prevention and investigation of criminal offences such as so-called "application fraud";
-* ensuring the security of the IT systems we use;
-* the further development, expansion and administration of the IT systems we use, including test operations;
-* the management and further development of our business activities, including risk management.
+* 지원절차가 진행됨에 따라 여러분에게 전달받은 혹은 요구에 따라 전달받는 모든 정보 (예를 들어 이름, 주소, 전화번호, 이메일 주소, 생년월일, 가족관계, 국적, 종교, 학력, 언어능력, 타회사에서의 고용이력, 참조인 연락처); 및
+* 고용가능성을 전제로 하여 수집한 정보 (가능한 직위, 본 기업으로의 조직적인 통합, 가능한 근무기간 및 제안연봉).
 
 
-To the extent the Application Data contains special types of personal data (such as health data, data relating to religion and data relating to your racial and ethnic origin), we process these for our own applications for the purposes of the obligations incumbent upon us under employment law and social security law to the extent provided for by law; this is done on the basis of Article 9(2)(b) GDPR; otherwise, we do this on behalf of the respective Freudenberg Employer.
+* 진행정보는 지원절차가 진행되는 과정에서 얻어지는 개인정보로 단순한 기본정보의 변경 뿐 아니라
 
-Where we give you the opportunity to give your consent in the course of the application process (e.g. in connection with applicant pools), we process the personal data covered by the consent exclusively for the purposes stated in the consent declaration. This is done on the basis of Article 6(1)(a) GDPR. Where consent relates to the processing of special types of personal data (such as health data), the processing is based on Article 9(2)(a) GDPR.
+* 면접인터뷰시 얻는 정보 (특히, 날짜, 장소 참석자);
+* 면접을 위한 여행경비 환급 등과 같이 저희 회사로부터 제공받은 내용;
+* 지원절차의 과정에서 자발적으로 혹은 질문에 대한 응답으로 기본정보의 범위를 넘어서는 정보들. 이는 특히 다른 고용회사에서 이전 근무시기에 있었던 봉급/연봉에 대한 정보들에 해당합니다;
+* 지원절차 진행과정에서 얻은 여러분 본인 혹은 제3자에 대한 기타 신상정보; 제3자의 신상에 대한 정보로는 예를 들어 이름, 나이등과 외국에서 근무시에 함께 하게 될 수도 있는 사람들과의 관계등을 의미합니다.
 
-Please note that
+지원정보로는 개인신상에 관한 특이사항, 특히 국적, 건강상태 (건강상의 이유로 인한 채용면접의 거절등), 노조가입여부, 종교 또는 기타의 장애내용등이 포함됩니다.
 
-* the granting of consent is always voluntary and neither the granting nor the subsequent withdrawal of consent has negative consequences for conducting your application process;
-* that not granting consent or its subsequent withdrawal may nevertheless entail consequences if we are then no longer able to carry out certain data processing operations; we will inform you of such consequences before granting consent, and
-* that you may withdraw any consent given at any time with effect for the future, e.g. by notifying us (or the Freudenberg company or companies named in the consent);
-* that even in the event of withdrawal of consent, we may be entitled to continue the processing in question – possibly to a reduced extent – on the basis of a statutory permission.
+_내부지원: Freudenberg 그룹의 한 계열사에서 근무하는 직원으로 Freudenberg 그룹 내부의 자리에 지원하기 위해 마련된 시스템(현재 Workday)을 통해 자신의 지원서를 제출하는 경우, 시스템을 통해 정보를 추가,전달할 수 있습니다._
 
-**E. Who receives your personal data?**
+위에서 언급한 개인신상에 관한 정보는 지원자에게 직접 받게 됩니다. 특정 경우, 적용되는 각각의 법규정 (일반적으로 지원자의 자발적인 결정, 또는 이미 제출된 정보에 따라 혹은 지원자의 허락내지 동의에 따라 제3자에게 수집할 수 있는 신상정보도 지원정보에 포함됩니다; 이에는 지원자의 이전 고용주, 직업훈련소 또는 이른바 참조인 연락처 등과 같은 정보등을 그 예로 들 수 있습니다.
 
-Your personal data will generally be processed within Freudenberg. Depending on the type of personal data, only certain departments / organizational units will have access to your personal data. In particular, this includes employees at Freudenberg who are involved in the application process.
+_내부지원: 내부지원일 경우 현재까지 근무하고 있는 Freudenberg 회사에 있는 담당자와 커뮤니케이션을 할 수 있으며 이는 예를 들어 참조인 연락처를 기재하는 방법으로 이루어질 수 있습니다. 이러한 경우 담당자로부터 받은 정보 역시 지원자의 기본정보와 진행정보로 들어가게 됩니다._
 
-We will also forward your Application Data to the Freudenberg Employer(s) who need to know the Application Data in order to conduct the further application process.
+어떤 자리에 지원하는지에 따라 요구되는 지원서류의 양이 달라질 수 있습니다. Freudenberg 의 여러 계열회사마다 고용법에 따라 요구되는 의무사항이 다를 수 있으며 이는 채용과정에 따르는 개인정보처리의 방법과 범위에 영향을 미칠수 있습니다. 이러한 이유로 채용과정동안 저희측에서나 다른 Freudenberg 계열사측으로부터 전달받은 추가정보들은 개인정보의 처리를 위해 사용될 수 있습니다.
 
-By means of a role and authorization concept, access within our company is limited to those functions and to that extent which are necessary for the respective purpose of processing.
+**C. 개인정보를 제공해야 할 의무가 있나요?**
 
-In addition, we may also transfer Application Data to other third parties outside our company to the extent permitted by law. These external recipients include, in particular:
+지원을 위한 정보제공은 지원절차를 진행하고 진행결과 지원자와 회사간 근로계약서를 체결함에 있어 필수적으로 요구됩니다.
 
-* the service providers commissioned by us in connection with the application process, who provide services to us on a separate contractual basis, which may also include the processing of personal data, as well as the subcontractors of our service providers engaged with our consent, as well as
-* non-public and public bodies, to the extent we are obliged to transfer your personal data due to legal obligations.
+이에 해당하지 않는 특정정보가 있을 경우, 해당 정보수집에 있어 이를 분명하게 통보해 드립니다.
 
-**F. Is personal data transferred to recipients outside the EU/EEA?**
+この応募データを提供することなく、当グループは応募者と応募プロセスを進めず、従って応募者との雇用契約を締結することもできません。
 
-Yes, due to the global structure of the Freudenberg Group, it may also be necessary to transfer personal data to recipients in so-called "third countries". "Third countries" are countries outside the European Union or the Agreement on the European Economic Area where a level of data protection comparable to that in the European Union cannot be readily assumed.
+지원정보가 없으면 지원절차를 진행시킬 수 없고 그 결과 근로계약서 또한 체결할 수 없습니다.
 
-However, before such a transfer, we always check whether it is already permitted on the basis of a legal provision (e.g. on the basis of Article 49 GDPR). Furthermore, prior to such a transfer, we ensure that the required adequate level of data protection is guaranteed in the respective third country or at the recipient in the third country. This can result, in particular, from a so-called "adequacy decision" of the European Commission, which establishes an adequate level of data protection for a specific third country as a whole. Alternatively, we can also base the data transfer on the so-called "EU standard contractual clauses" agreed with a recipient.
+그 이상의 개인정보를 얻고자 할 경우, 이는 보통 이러한 정보의 제공이 법률상 또는 계약상 이미 규정되어 있거나 지원절차의 진행을 위해 꼭 필요한 경우에 제한됩니다. 정보제공이 선택사항일 경우, 요구되는 정보에 각 표식을 통해 이를 식별할 수 있도록 합니다.
 
-We are happy to provide you with further information on the appropriate and adequate safeguards to ensure an adequate level of data protection upon request.
+**D. 지원자의 개인정보는 어떠한 법적근거로 처리되나요?**
 
-**G. Storage period**
+Freudenberg에 송부된 여러분의 지원정보 처리는 저희 회사에서 DSGVO 6조1항b)를 토대로 이루어지며, 그 밖에 Freudenberg 각각의 계열사의 요구에 따르는데 이 때 DSGVO 6조1항b) 혹은 EU/EWR 외 국가들에 적용가능한 준거법에 의해 이에 상응하는 법적근거를 토대로 이루어지며, 이는 DSGVO 6조1항 f)를 토대로 Freudenberg 그룹안에서 지원과정이 효율적으로 이루어짐을 도모하려는 그룹의 합당한 목적하에 이루어집니다.
 
-Generally, we store your personal data as long as we have a legitimate interest in such storage and your interests in the discontinuation of the storage do not outweigh our interests.
+지원정보 처리는 저희가 지켜야 할 법적의무를 이행하기 위함에도 그 목적을 두고 있으며 이는 DSGVO 6조1항 c)에 근거합니다. 이러한 법적의무로는 사회보험기관 및 (세금)관청 신고, 규정상 정해진 시험 (이른바 “제재목록”) 및 특정정보에 대한 기존의 비밀유지 준수 등이 포함됩니다.
 
-As a rule, your Application Data will be stored at least until the end of the application process. In the event of a rejection, the data will furthermore be stored for a period of six months or in accordance with the prescribed periods in the country of the respective Freudenberg Employer after receipt of the rejection letter.
+필요한 경우, 지원과정의 진행과 법적 의무의 수행을 넘어 저희 회사와 제3자의 합당한 이해를 도모하기 위해 여러분의 정보를 처리하며 이는 DSG-VO 6조1항 f)에 근거합니다. 저희 회사의 합당한 이해의 도모라 함은 다음을 뜻합니다.
 
-When concluding an employment contract, we will provide you with a separate privacy statement for employees if and to the extent required by the law applicable to the respective Freudenberg Employer.
-
-**H. Your rights**
-
-As a data subject, you have the following rights:
-
-* ­right to information on the personal data stored about you, Article 15 GDPR;
-* ­right to rectification of inaccurate or incomplete data, Article 16 GDPR;
-* ­right to erasure of personal data, Article 17 GDPR;
-* ­right to restriction of processing, Article 18 GDPR;
-* ­right to data portability, Article 20 GDPR, and
-* ­**right to object to the processing of personal data concerning you, Article 21 GDPR.**
+* 지원정보에 대한 그룹전체적인 내부관리;
+* 법적 청구권의 주장 및 법적분쟁시 방어;
+* 소위 “지원사기”등의 범법행위 방지 및 명시;
+* 저희 회사 IT 시스템의 안전보장;
+* 시험운영을 포함한 저희 회사 IT 시스템의 개발, 확대 및 관리;
+* 리스크관리를 포함한 저희 회사 사업활동의 관리 및 개발
 
 
-To exercise these rights, you can contact us at any time – e.g. via one of the contact channels indicated at the beginning of this data protection information.
+지원정보가 특히 개인정보에 해당되는 내용일 경우 (건강, 종교, 인종 및 민족에 관련된 정보), 저희 회사는 이를 법이 정하는 범위안에서 노동법과 사회보장법이 정하고 있는 의무의 목적으로 처리하고 있습니다; 이는 DSGVO 9조2항 b)에 근거하며; 이 외에는 Freudenberg의 각 계열사의 요구에 따릅니다.
 
-If you have any questions regarding the processing of your data, you can also contact our data protection officer.
+지원절차가 진행됨에 따라 동의확인을 받아야 할 사안이 생길 경우 (예를 들어 지원자 목록과 관련하여), 동의의 범위내에 포함되는 개인정보는 동의서에 언급된 목적으로만 사용됩니다. 이는 DSGVO 6조 1항 a)에 근거하고 있습니다. 동의가 특히 개인정보 처리에 해당되는 내용일 경우 (건강상태 등) 이는 DSGVO 9조2항 a)에 근거합니다.
 
-You also have the right to lodge a complaint with a competent data protection supervisory authority, Article 77 GDPR.
+이 때 주의할 사항은,
 
-**I. Who can I contact if I have any questions?**
+* 동의의 여부는 항상 자유선택으로 이루어지며 이러한 동의나 동의의 취소가 지원과정이 진행되는 데에 있어 아무런 불이익을 가지고 오지 않는다는 사실입니다.
+* 동의나 동의의 취소를 하지 않음으로 인해 특정한 정보처리과정을 더이상 진행시킬 수 없는 경우 이에 상응하는 결과를 초래할 수 있게됩니다; 이러한 결과에 대해 동의 확인 전에 알려드리며,
+* ­동의확인을 하고 난 후에라도 언제든지, 예를 들어 저희측에 (혹은 동의시 언급된 Freudenberg 계열사) 통보하여 향후 진행에 대해 동의를 철회할 수 있습니다.
+* 저희측에서도 동의를 철회하였을 경우 해당 처리를 \- 필요시 축소된 범위로 \- 법적 허용에 근거하여 진행시킬 수 있습니다.
 
-If you have any questions about your rights, the quickest way to reach us is via dataprotection-support@freudenberg.com.
+**E. 누가 개인정보를 받게 되나요?**
 
-The contact details of Freudenberg & Co. KG can be found at the beginning of this privacy statement.
+지원자의 개인정보는 원칙상 Freudenberg 내부에서 작업처리됩니다. 개인정보의 종류와 상관없이 특정부서/조직만이 개인정보를 볼 수 있습니다. 이에는 특히 Freudenberg에서 지원절차 진행을 맡은 직원들이 포함됩니다.
 
-We will provide you with the contact details of the relevant Freudenberg Employer(s) in the course of the application process.
+여러분의 지원정보는 앞으로의 지원절차 진행을 위해 지원정보에 대해 알아야만 하는 Freudenberg 고용주에게 보내지게 됩니다.
+
+정보는 역할과 권한체계를 통해 회사 내부에서 각 목적에 부합하는 정보처리에 필요한 기능과 범위에 제한하여 사용됩니다.
+
+이 밖에도 저희 회사는 지원정보를 법이 정하는 범위내에서 저희 회사외부의 다른 제3자에게 전달할 수 있습니다. 제3자로는 특히
+
+* 개인정보 처리를 포함하여 별도로 체결된 계약을 바탕으로 지원절차와 관련된 업무를 위탁받은 업체 및 저희 회사의 동의하에 업체가 정한 하도급업체, 및
+* 법적인 의무를 토대로 개인정보를 전달해야하는 공기업 또는 사기업을 들 수 있습니다.
+
+**F. 개인정보는 EU/EWR 지역 밖으로도 전달되나요?**
+
+그렇습니다, Freudenberg 그룹의 세계적인 구조로 이른바 “제3국”으로의 개인정보의 전달이 불가피한 경우가 있습니다. “제3국”이라 함은 유럽공동체에 상응하는 정보보호제도를 갖추고 있는 유럽공동체나 유럽경제지역에 관한 조약의 영향권 밖에 있는 나라를 말합니다.
+
+그러나 정보전달이 이루어지기 전에 법적규정 (예를 들어 DSGVO 49조)에 합당한지 확인합니다. 그 밖에도 전달이 이루어지기 전에 각각의 제3국이나 제3국의 수신인에게 이에 요구되는 적합한 개인정보보호가 보장될 수 있는지 확인합니다. 이는 특히 유럽연합위원회의 이른바 “적합성 결정”에 따르는데, 적합한 개인정보보호가 어떤 제3국에서 보장될 수 있는지의 여부를 확인하는 결정입니다. 다른 방법으로는 이른바 수신인과 합의한 이른바 “EU 표준계약조항”에 따라 정보전달을 결정하기도 합니다.
+
+합당한 개인정보비밀유지를 위한 적합하고 합당한 보장에 대한 더 많은 정보는 요청하시면 받으실 수 있습니다.
+
+**G. 저장기간**
+
+지원자의 개인정보는 저희측의 타당한 이해와 지원자 여러분의 정보저장 중단에 대한 중대사유가 없을 경우에 한해 저장됩니다.
+
+대게 여러분의 지원정보는 적어도 지원과정이 종료될 때까지 저장됩니다. 지원이 거절된 경우 정보는 거절통보 이후 6개월 또는 Freudenberg 각 계열사가 위치한 나라에서 정하는 기간동안 계속 저장됩니다.
+
+근로계약서가 체결될 경우, 각 Freudenberg 계열사를 위해 적용할 수 있는 법에 따라 근로자를 위해 별도로 준비된 개인정보방침이 요구된다면 이를 제공합니다.
+
+**H. 여러분의 권리**
+
+­여러분은 당사자로서 다음과 같은 권리를 갖습니다.
+
+* ­­­DSGVO 15조 여러분에 대해 저장된 개인정보에 대한 정보문의
+* ­­­­­­­­DSGVO 16조 올바르지 않거나 완전하지 않은 정보에 대한 정정
+* ­DSGVO 17조 개인정보의 삭제
+* ­­DSGVO 18조 처리제한
+* ­­­­DSGVO 20조 정보전송
+* ­**­DSGVO 21조 여러분에 해당되는 개인정보의 처리에 대한 이의제기**
+
+
+앞의 권리들을 행사하기 위해서는 \- 예를 들어 본 개인정보보호안내의 첫 부분에 나온 연락처로 \- 저희에게 연락주시면 됩니다.
+
+정보처리와 관련하여 질문이 있으실 경우 저희 개인정보담당에 문의해 주시면 됩니다.
+
+DSGVO 77조에 의거 불만사항이 있으실 경우 개인정보보호 담당감독청에 접수하실 수 있습니다.
+
+**I. 질문이 있을 경우 누구에게 물어볼 수 있나요?**
+
+여러분 권리에 대해 질문사항이 있으실 경우 dataprotection-support@freudenberg.com로 연락주시면 가장 신속하게 진행됩니다.
+
+Freudenberg & Co. KG 의 연락처는 본 개인정보보호방침 처음 부분에서 찾으실 수 있습니다.
+
+Freudenberg의 각 고용계열사의 연락처는 지원절차의 진행과 함께 제공해 드립니다.

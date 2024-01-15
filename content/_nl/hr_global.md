@@ -6,140 +6,143 @@ translation_reference: "hr_global"
 category: hr_systems
 ---
 
-# Application process at Freudenberg
+# Sollicitatieprocedure bij Freudenberg
 
-The Freudenberg Group appreciates your visit to our job portal and your interest in the companies of the Freudenberg Group.
+Het Freudenberg-concern stelt uw bezoek aan ons Job Portal en uw belangstelling voor de onderneming van de Freudenberg Group op prijs.
 
-In this privacy statement, we provide you with the legally required information on the processing of your personal data and on your rights based on the applicable data protection provisions – in particular the EU General Data Protection Regulation ("**GDPR**") and the German Federal Data Protection Act (_Bundesdatenschutzgesetz_ – "**BDSG**").
+In deze privacyverklaring verstrekken wij u de wettelijk vereiste informatie over de verwerking van uw persoonsgegevens en over uw rechten op basis van de geldende bepalingen op het gebied van de gegevensbescherming - in het bijzonder de Algemene Verordening Gegevensbescherming van de EU (**"AVG"**) en de Duitse wet op de gegevensbescherming (Bundesdatenschutzgesetz (**"BDSG"**).
 
-This privacy statement relates to the processing of personal data for the purposes of the application process, both for external applications and for applications from employees who are already employed by a Freudenberg company ("**Internal Applications**").
+Deze privacyverklaring heeft betrekking op de verwerking van persoonsgegevens ten behoeve van de sollicitatieprocedure. Het betreft hier zowel externe sollicitaties als sollicitaties van werknemers die reeds in dienst zijn bij een bedrijf van Freudenberg ("interne sollicitaties").
 
-**A. Who is responsible for the processing of personal data?**
+**A. Wie is verantwoordelijk voor de verwerking van persoonsgegevens?**
 
-The controller under data protection law for the processing of your personal data is Freudenberg & Co. KG, which is responsible for central applicant management for all companies of the Freudenberg Group and, in this context, processes all applications received via the application channels provided centrally by the Freudenberg Group.
+Verantwoordelijk voor de verwerking van uw persoonsgegevens is de Freudenberg & Co. KG, die verantwoording draagt voor het centrale beheer van kandidaten voor alle bedrijven van de Freudenberg Group en in dit kader alle sollicitaties be-handelt die worden ontvangen via de sollicitatiekanalen die door de Freudenberg Group centraal ter beschikking worden gesteld.
 
-Freudenberg & Co. KG ("**Freudenberg**") can be reached by mail (Hoehnerweg 2-4, D-69469 Weinheim, Germany) or by e-mail (info@freudenberg.com).
+U bereikt de Freudenberg & Co. KG (**"Freudenberg"**) per post (Hoehnerweg 2-4, D-69469 Weinheim, Deutschland) of per e-mail (info@freudenberg.com).
 
-Where this data protection information refers to "we" or "us", this refers in each case to the aforementioned company.
+Voor zover in deze informatie over gegevensbescherming sprake is van "wij" of "ons” wordt daarmee steeds het voornoemde bedrijf bedoeld.
 
-You can reach Freudenberg's data protection officer as follows: activeMind.legal Rechtsanwaltsgesellschaft m.b.H. – Data Protection Officer Freudenberg & Co. KG, Potsdamer Straße 3, 80802 München, Germany, e-mail: dataprotection-support@freudenberg.com.
+De functionaris voor gegevensbescherming van Freudenberg kunt u als volgt bereiken: activeMind.legal Rechtsanwaltsgesellschaft m.b.H. – Datenschutzbeauftragter Freu-denberg & Co. KG, Potsdamer Straße 3, 80802 München, Duitsland, e-mail datapro-tection-support@freudenberg.com.
 
-In addition to Freudenberg, other Freudenberg Group companies are also involved in the application process. This refers primarily to the company that has advertised a vacancy, to which you are making an unsolicited application for a position or which has a vacancy that matches your application ("Freudenberg Employer"). Please refer to Section E below for more information.
+Naast Freudenberg zijn ook andere bedrijven van de Freudenberg Group bij de sollicitatieprocedure betrokken. Het gaat dan met name om dat bedrijf dat een vacature heeft, waarbij u open solliciteert, of dat een vacature heeft die aansluit bij uw sollicitatie ("Freudenberg-werkgever"). Voor meer informatie, zie de paragraaf E. hieronder.
 
-**B. What personal data is processed for the application process?**
+**B. Welke persoonsgegevens worden verwerkt voor de sollicitatieprocedure?**
 
-In order to process your application, we need to process personal data. This regularly involves so-called master and history data, which we refer to collectively as **Application Data**.
+Om uw sollicitatie te kunnen behandelen, moeten wij persoonsgegevens verwerken. Daarbij gaat het veelal om zogeheten stam- en historische gegevens, die wij gezamenlijk aanduiden als **sollicitatiegegevens**.
 
-* By master data we mean basic data about you and the application process conducted, in particular
-    * all information that you provide to us during the application process or that we request from you (e.g. name, address, telephone number, e-mail address, date of birth, marital status, nationality, religious denomination, education, language skills, previous employment with other employers, reference contacts); as well as
-    * such data that we collect in connection with your possible hiring (such as, in particular, details of your possible position, the possible organizational integration into our company, the possible duration of the assignment and the proposed salary).
+* Onder stamgegevens verstaan wij de belangrijkste informatie over u en de gevolgde sollicitatieprocedure, in het bijzonder
 
-* We define historical data to mean personal data that is collected in the course of your application process and that goes beyond a mere change in your master data, in particular
-    * information about the interviews held with you (esp. date, place, participants);
-    * information about any services we may provide, such as reimbursement of travel expenses;
-    * information that you provide to us in the course of your application process – either actively or in response to a request from us – and that goes beyond the master data mentioned above. This concerns, in particular, information on remuneration/fees in the context of previous employment with other employers;
-    * other personal data from you or, if applicable, from third parties that we receive from you in the course of the application process. Third party personal data includes, for example, the name, age and nature of the relationship with persons who may accompany you while you are working for us abroad.
-
-Application Data also expressly includes special types of personal data, in particular data relating to your nationality, your health (e.g. a cancellation of an interview due to illness), any trade union membership you may have indicated, your religion or any disability you may have.
-
-_Internal Applications: If you apply for a position within the Freudenberg Group as an employee of a Freudenberg Group company and submit your application to us via the system provided for this purpose (currently Workday), you may provide us with additional information via the system._
-
-We usually receive the aforementioned personal data directly from you. In certain cases, Application Data may also include personal data that we collect from third parties in compliance with the applicable legal provisions (usually on your initiative, after informing you in advance or, where applicable, with your consent or approval); such as information that we receive from your previous employer(s), training organizations or so-called reference contacts.
-
-_Internal Applications: In case of Internal Applications, we may give you the opportunity to enable us to contact persons at your current Freudenberg Employer, e.g. by providing such reference contacts. In this case, the information received from these contacts will also be included in your master/history data._
-
-Please note that the amount of Application Data may vary depending on the position you are applying for: Different Freudenberg employers may be obliged to comply with different (employment) law requirements; this may have an impact on the nature and scope of the processing of personal data in application processes. For this reason, you may be provided with supplementary information on the processing of personal data during the application process, both by us and by the relevant Freudenberg Employer.
-
-**C. Are you obliged to provide personal data?**
-
-The provision of the Application Data is necessary for conducting the application process and the possible resulting conclusion of an employment contract between you and us.
-
-Should this not be the case with regard to some of the data, we will expressly point this out to you when collecting the respective data.
-
-Without the provision of the Application Data, we cannot conduct the application process with you and, therefore, cannot conclude an employment contract with you.
-
-If we collect additional personal data from you, this will also generally only be done if the provision of this information is required by law or contract or is necessary for conducting the application process. We will inform you – e.g. by marking individual requested data – if its provision is voluntary.
-
-If you send us additional information without us having requested it from you and without it being necessary for the application process, we will not use this information for the purposes of the application process, but must nevertheless store it with your other Application Data for technical reasons and for verification purposes.
-
-**D. On what legal basis is your personal data processed?**
-
-We process your Application Data for our own applications for positions at Freudenberg on the basis of Article 6(1)(b) GDPR, and otherwise on behalf of the respective Freudenberg Employer who processes Application Data on the basis of Article 6(1)(b) GDPR or a comparable legal basis under the applicable law in countries outside the EU/EEA, namely on the basis of Article 6(1)(f) GDPR to safeguard Freudenberg Group's legitimate interest in an efficient group-wide application process.
-
-We also process Application Data to comply with legal obligations by which we are bound; this is done on the basis of Article 6(1)(c) GDPR. These legal obligations include, in particular, the notifications to social insurance carriers and (tax) authorities that are prescribed for us, the audits that may be prescribed for us (e.g. against so-called "sanctions lists") and the fulfillment of existing record-keeping obligations for certain information.
-
-To the extent necessary, we also process your data beyond conducting the application procedure and the fulfillment of legal obligations in order to protect our legitimate interests or the interests of third parties; this is done on the basis of Article 6(1)(f) GDPR. Our legitimate interests include, among other things:
-
-* group-wide processes for the internal administration of Application Data;
-* the assertion of legal claims and the defense in legal disputes;
-* the prevention and investigation of criminal offences such as so-called "application fraud";
-* ensuring the security of the IT systems we use;
-* the further development, expansion and administration of the IT systems we use, including test operations;
-* the management and further development of our business activities, including risk management.
+* alle informatie die u ons tijdens de sollicitatieprocedure verstrekt of om die wij u vragen (bijvoorbeeld naam, adres, telefoonnummer, e-mailadres, geboortedatum, burgerlijke staat, nationaliteit, geloofsovertuiging, opleiding, talenkennis, eerdere dienstbetrekkingen bij andere werkgevers, referenten); alsook
+* die gegevens die wij verzamelen in verband met uw eventuele tewerkstelling bij ons (zoals in het bijzonder gegevens over uw eventuele functie, de eventuele organisatorische integratie in onze onderneming, de eventuele duur van de tewerkstelling en het voorgestelde salaris).
 
 
-To the extent the Application Data contains special types of personal data (such as health data, data relating to religion and data relating to your racial and ethnic origin), we process these for our own applications for the purposes of the obligations incumbent upon us under employment law and social security law to the extent provided for by law; this is done on the basis of Article 9(2)(b) GDPR; otherwise, we do this on behalf of the respective Freudenberg Employer.
+* Onder historische gegevens verstaan wij persoonsgegevens die worden verzameld in de loop van uw sollicitatieprocedure en die verder gaan dan een wijziging in uw stamgegevens alleen, met name
 
-Where we give you the opportunity to give your consent in the course of the application process (e.g. in connection with applicant pools), we process the personal data covered by the consent exclusively for the purposes stated in the consent declaration. This is done on the basis of Article 6(1)(a) GDPR. Where consent relates to the processing of special types of personal data (such as health data), the processing is based on Article 9(2)(a) GDPR.
+* informatie over de gesprekken die met u zijn gevoerd (in het bijzonder datum, plaats, deelnemers);
+* informatie over eventueel door ons geboden secundaire arbeidsvoorwaarden, zoals bijv. vergoeding van reiskosten;
+* informatie die u ons in de loop van uw sollicitatieprocedure - zij het actief of in antwoord op een verzoek om informatie van ons - verstrekt en die verder gaat dan de hierboven vermelde stamgegevens. Het gaat hierbij in het bijzonder om informatie over de beloning/honorering in het kader van eerdere dienstbetrekkingen bij andere werkgevers;
+* andere persoonsgegevens van u of, in voorkomende gevallen, van derden die wij in de loop van de sollicitatieprocedure van u ontvangen. Persoonsgegevens van derden zijn bijvoorbeeld naam, leeftijd en aard van de relatie met personen die u kunnen vergezellen, terwijl u voor ons in het buitenland werkzaam bent.
 
-Please note that
+Er wordt met nadruk op gewezen dat ook bijzondere soorten persoonsgegevens deel uitmaken van de sollicitatiegegevens. Het betreft hier met name informatie over uw nationaliteit, uw gezondheid (bv. afgelasting van een sollicitatiegesprek wegens ziekte), een eventueel door u opgegeven vakbondslidmaatschap, uw godsdienst of mogelijke handicap.
 
-* the granting of consent is always voluntary and neither the granting nor the subsequent withdrawal of consent has negative consequences for conducting your application process;
-* that not granting consent or its subsequent withdrawal may nevertheless entail consequences if we are then no longer able to carry out certain data processing operations; we will inform you of such consequences before granting consent, and
-* that you may withdraw any consent given at any time with effect for the future, e.g. by notifying us (or the Freudenberg company or companies named in the consent);
-* that even in the event of withdrawal of consent, we may be entitled to continue the processing in question – possibly to a reduced extent – on the basis of a statutory permission.
+_Interne sollicitaties: solliciteert u als werknemer van een bedrijf van de Freudenberg Group naar een functie binnen de Freudenberg Group en dient u uw sollicitatie bij ons in via het daarvoor bestemde systeem (momenteel Workday), kunt u ons via dat systeem indien nodig aanvullende informatie verstrekken._
 
-**E. Who receives your personal data?**
+Die bovengenoemde persoonsgegevens ontvangen wij gewoonlijk rechtstreeks van u. In bepaalde gevallen kunnen de sollicitatiegegevens ook zulke persoonsgegevens omvatten die wij met inachtneming van de toepasselijke wettelijke bepalingen bij derden verzamelen (meestal op uw initiatief, na u vooraf te hebben geinformeerd of, zo nodig, met uw inwilliging of toestemming); zoals informatie die wij ontvangen van uw vorige werkgever(s), opleidingsplaatsen of zogenoemde referenten.
 
-Your personal data will generally be processed within Freudenberg. Depending on the type of personal data, only certain departments / organizational units will have access to your personal data. In particular, this includes employees at Freudenberg who are involved in the application process.
+_Interne sollicitaties: bij interne sollicitaties kunnen wij u in de gelegenheid stellen het ons mogelijk te maken om contact op te nemen met personen bij uw vorige Freudenberg-werkgever, bijvoorbeeld doordat u dergelijke referenten verstrekt. In dat geval wordt de van deze contacten ontvangen informatie ook in uw stam-/ historische gegevens opgenomen._
 
-We will also forward your Application Data to the Freudenberg Employer(s) who need to know the Application Data in order to conduct the further application process.
+Let wel, de hoeveelheid sollicitatiegegevens kan verschillen naargelang van de functie waarnaar u solliciteert: sommige Freudenberg-werkgevers kunnen verplicht zijn tot de naleving van andere (arbeids-)wettelijke vereisten; dit kan gevolgen hebben voor de aard en de reikwijdte van de verwerking van persoonsgegevens in sollicitatieprocedures. Om die reden kunt u zowel van ons als van de respectieve Freudenberg-werkgever tijdens de sollicitatieprocedure aanvullende informatie ontvangen over de verwerking van persoonsgegevens.
 
-By means of a role and authorization concept, access within our company is limited to those functions and to that extent which are necessary for the respective purpose of processing.
+**C. Bent u verplicht persoonsgegevens te verstrekken?**
 
-In addition, we may also transfer Application Data to other third parties outside our company to the extent permitted by law. These external recipients include, in particular:
+Het verstrekken van de sollicitatiegegevens is noodzakelijk voor de uitvoering van de sollicitatieprocedure en de daaruit eventueel voortvloeiende totstandkoming van een arbeidsovereenkomst tussen u en ons.
 
-* the service providers commissioned by us in connection with the application process, who provide services to us on a separate contractual basis, which may also include the processing of personal data, as well as the subcontractors of our service providers engaged with our consent, as well as
-* non-public and public bodies, to the extent we are obliged to transfer your personal data due to legal obligations.
+Mocht dit voor sommige gegevens niet gelden, zullen wij u daar uitdrukkelijk op wijzen bij het verzamelen van de betreffende gegevens.
 
-**F. Is personal data transferred to recipients outside the EU/EEA?**
+Als ons de sollicitatiegegevens niet verstrekt worden, kunnen wij de sollicitatie-procedure met u niet doorlopen en dus ook geen arbeidsovereenkomst met u sluiten.
 
-Yes, due to the global structure of the Freudenberg Group, it may also be necessary to transfer personal data to recipients in so-called "third countries". "Third countries" are countries outside the European Union or the Agreement on the European Economic Area where a level of data protection comparable to that in the European Union cannot be readily assumed.
+Als wij ook persoonsgegevens van u verzamelen, gebeurt ook dit in de regel alleen als de verstrekking van deze informatie wettelijk of contractueel verplicht of noodzakelijk is in het belang van de sollicitatieprocedure. Als de verstrekking van sommige gegevens vrijwillig is, informeren wij u dienaangaande. Bijv. door deze gegevens kenbaar te maken.
 
-However, before such a transfer, we always check whether it is already permitted on the basis of a legal provision (e.g. on the basis of Article 49 GDPR). Furthermore, prior to such a transfer, we ensure that the required adequate level of data protection is guaranteed in the respective third country or at the recipient in the third country. This can result, in particular, from a so-called "adequacy decision" of the European Commission, which establishes an adequate level of data protection for a specific third country as a whole. Alternatively, we can also base the data transfer on the so-called "EU standard contractual clauses" agreed with a recipient.
+Doet u ons ongevraagd aanvullende informatie toekomen en is deze informatie niet noodzakelijk voor de sollicitatieprocedure dan zullen wij deze informatie ook niet ten behoeve van de sollicitatieprocedure gebruiken; evenwel moeten wij deze informatie om technische redenen en voor controledoeleinden samen met uw andere sollicitatiegegevens opslaan.
 
-We are happy to provide you with further information on the appropriate and adequate safeguards to ensure an adequate level of data protection upon request.
+**D. Op welke rechtsgrondslag worden uw persoonsgegevens verwerkt?**
 
-**G. Storage period**
+Wij verwerken uw sollicitatiegegevens voor eigen sollicitaties naar functies bij Freudenberg op basis van artikel 6, lid 1, onder b), AVG, voor het overige op last van de respectieve Freudenberg-werkgever die sollicitatiegegevens verwerkt op ba-sis van artikel 6, lid 1, onder b), AVG, of een vergelijkbare rechtsgrondslag volgens het toepasselijke recht in landen buiten de EU/EER, te weten op basis van artikel 6, lid 1, onder f), AVG, om het rechtmatige belang van de Freudenberg Group bij een efficiënte sollicitatieprocedure voor de hele groep te waarborgen.
 
-Generally, we store your personal data as long as we have a legitimate interest in such storage and your interests in the discontinuation of the storage do not outweigh our interests.
+Wij verwerken sollicitatiegegevens ook om te voldoen aan wettelijke verplichtingen waaraan wij onderworpen zijn; dit gebeurt op basis van artikel 6, lid 1, onder c), AVG. Deze wettelijke verplichtingen omvatten met name de voor ons voorge-schreven kennisgevingen aan socialezekerheidsorganen en (belasting-)autoriteiten, de eventueel voor ons voorgeschreven audits (bijvoorbeeld aan de hand van zogeheten "sanctielijsten") en het nakomen van bestaande verplichtin-gen voor het bewaren van bepaalde informatie.
 
-As a rule, your Application Data will be stored at least until the end of the application process. In the event of a rejection, the data will furthermore be stored for a period of six months or in accordance with the prescribed periods in the country of the respective Freudenberg Employer after receipt of the rejection letter.
+Voor zover noodzakelijk verwerken wij uw gegevens behalve voor de uitvoering van de sollicitatieprocedure en ter vervulling van wettelijke verplichtingen ook voor de behartiging van onze gerechtvaardigde belangen of de belangen van der-den; dit gebeurt op grond van artikel 6, lid 1, onder f), AVG. Tot onze gerechtvaardigde belangen behoren bijvoorbeeld
 
-When concluding an employment contract, we will provide you with a separate privacy statement for employees if and to the extent required by the law applicable to the respective Freudenberg Employer.
-
-**H. Your rights**
-
-As a data subject, you have the following rights:
-
-* ­right to information on the personal data stored about you, Article 15 GDPR;
-* ­right to rectification of inaccurate or incomplete data, Article 16 GDPR;
-* ­right to erasure of personal data, Article 17 GDPR;
-* ­right to restriction of processing, Article 18 GDPR;
-* ­right to data portability, Article 20 GDPR, and
-* ­**right to object to the processing of personal data concerning you, Article 21 GDPR.**
+* processen van het gehele concern voor het interne beheer van sollicitatiegege-vens;
+* het instellen van rechtsvorderingen en het voeren van verweer in juridische geschillen;
+* het voorkomen en onderzoeken van strafbare feiten zoals bijvoorbeeld zgn. "sollicitatiefraude";
+* het waarborgen van de veiligheid van de door ons gebruikte IT-systemen;
+* de verdere ontwikkeling, uitbreiding en administratie van de door ons gebruik-te IT-systemen, met inbegrip van het uitvoeren van tests;
+* De aansturing en verdere ontwikkeling van onze bedrijfsuitoefening, met inbegrip van risicobeheer.
 
 
-To exercise these rights, you can contact us at any time – e.g. via one of the contact channels indicated at the beginning of this data protection information.
+Voor zover de sollicitatiegegevens bijzondere soorten persoonsgegevens bevatten (zoals gegevens over gezondheid, godsdienst, en gegevens waaruit uw ras of en etnische afkomst blijkt), verwerken wij deze voor onze eigen sollicitaties ten be-hoeve van de verplichtingen die op ons rusten uit hoofde van het arbeidsrecht en het socialezekerheidsrecht, voor zover dit bij wet is bepaald; dit gebeurt op basis van artikel 9, lid 2, onder b), AVG; voor het overige op last van de respectieve Freudenberg-werkgever.
 
-If you have any questions regarding the processing of your data, you can also contact our data protection officer.
+Voor zover wij u in de loop van de sollicitatieprocedure de mogelijkheid bieden toestemming te verlenen (bijv. in verband met een sollicitanten-pool), verwerken wij de persoonsgegevens waarop de toestemming betrekking heeft uitsluitend voor de doeleinden die in de toestemming worden vermeld. Dit gebeurt op grond van artikel 6, lid 1, onder a), AVG. Wanneer de toestemming betrekking heeft op de verwerking van bijzondere soorten persoonsgegevens (zoals gegevens die de gezondheid betreffen), is de verwerking gebaseerd op artikel 9, lid 2, onder a), AVG.
 
-You also have the right to lodge a complaint with a competent data protection supervisory authority, Article 77 GDPR.
+Er zij op gewezen dat
 
-**I. Who can I contact if I have any questions?**
+* het verlenen van toestemming altijd vrijwillig is en dat noch het verlenen noch het later intrekken van toestemming negatieve gevolgen heeft voor de uitvoering van uw sollicitatieprocedure;
+* dat het niet verlenen van toestemming of het later intrekken daarvan niettemin gevolgen kan hebben als wij dan niet langer in staat zullen zijn bepaalde gegevensverwerkingen uit te voeren; wij zullen u over deze gevolgen informe-ren voordat u toestemming verleent, en
+* ­dat u een gegeven toestemming te allen tijde met werking voor de toekomst kunt intrekken, bijvoorbeeld door ons (of in de toestemming genoemde Freudenberg bedrij(f)(ven) daarvan in kennis te stellen;
+* dat wij ook in geval van intrekking van de toestemming gerechtigd kunnen zijn de verwerking in kwestie - in voorkomend geval in beperkte mate - voort te zetten op grond van een wettelijke toestemming.
 
-If you have any questions about your rights, the quickest way to reach us is via dataprotection-support@freudenberg.com.
+**E. Wie ontvangt uw persoonsgegevens?**
 
-The contact details of Freudenberg & Co. KG can be found at the beginning of this privacy statement.
+In principe worden uw persoonsgegevens binnen Freudenberg verwerkt. Naar gelang het soort persoonsgegevens hebben alleen bepaalde afdelingen/organisatieeenheden toegang tot uw persoonsgegevens. Het gaat hier met name om de werk-nemers bij Freudenberg die zich bezighouden met de uitvoering van de sollicitatieprocedure.
 
-We will provide you with the contact details of the relevant Freudenberg Employer(s) in the course of the application process.
+Wij geven uw sollicitatiegegevens ook door aan de Freudenberg-werkgever(s) die van de sollicitatiegegevens op de hoogte moet(en) zijn om de verdere sollicitatie-procedure uit te voeren.
+
+Door middel van een concept van rollen en autorisatie wordt de toegang binnen ons bedrijf beperkt tot die functies en reikwijdte die vereist zijn voor het respectieve doel van de verwerking.
+
+Daarnaast kunnen wij ook sollicitatiegegevens doorgeven aan andere derden buiten ons bedrijf, voor zover de wet dat toestaat. Tot deze externe ontvangers behoren in het bijzonder
+
+* dienstverleners die wij belast hebben in het kader van de sollicitatieprocedure, die op een aparte contractuele basis voor ons diensten verrichten die ook de verwerking van persoonsgegevens kunnen inhouden, alsmede de onderaan-nemers van onze dienstverleners die met onze toestemming in dienst zijn genomen, alsmede
+* particuliere partijen en overheidsinstanties, voor zover wij op grond van wette-lijke verplichtingen verplicht zijn uw persoonsgegevens door te geven.
+
+**F. Worden persoonsgegevens doorgegeven aan ontvangers buiten de EU/EER?**
+
+Ja, op grond van de wereldwijde structuur van de Freudenberg Group kan het ook noodzakelijk zijn om persoonsgegevens door te geven aan ontvangers in zogenaamde "derde landen". "Derde landen" zijn landen buiten de Europese Unie of de Overeenkomst betreffende de Europese Economische Ruimte waar niet zonder meer kan worden uitgegaan van een niveau van gegevensbescherming dat vergelijkbaar is met dat in de Europese Unie.
+
+Voordat een dergelijke doorgifte plaatsvindt, controleren wij evenwel altijd of deze al is toegestaan op basis van een wettelijke bepaling (bijv. op basis van artikel 49, AVG). Wij verzekeren ons er voorafgaande aan een dergelijke doorgifte van dat het vereiste adequate niveau van gegevensbescherming in het betrokken derde land of bij de ontvanger in het derde land gewaarborgd is. Dit kan in het bijzonder blijken uit een zogeheten "adequaatheidsbesluit" van de Europese Commissie, waarin een passend niveau van gegevensbescherming voor een bepaald derde land als geheel wordt vastgesteld. Alternatief kunnen wij de gegevensoverdracht ook baseren op de zogeheten "standaardcontractbepalingen van de EU" die met een ontvanger zijn overeengekomen.
+
+Op verzoek verstrekken wij u graag nadere informatie over de passende en toereikende garanties om een adequaat niveau van gegevensbescherming te waarborgen.
+
+**G. Bewaartermijn**
+
+In principe bewaren wij uw persoonsgegevens zolang wij een gerechtvaardigd belang hebben bij deze bewaring en uw belang bij het niet voortzetten van de bewaring niet zwaarder weegt.
+
+In de regel worden uw sollicitatiegegevens ten minste tot het einde van de sollicitatieprocedure bewaard. In geval van afwijzing zullen de gegevens bovendien worden bewaard gedurende een periode van zes maanden of overeenkomstig de voorgeschreven termijnen in het land van de respectieve Freudenberg-werkgever na het doen toekomen van de afwijzingsbrief.
+
+Wanneer met u een arbeidsovereenkomst wordt aangegaan, verstrekken wij u een afzonderlijk privacybeleid voor werknemers, indien en voor zover dit wettelijke voorschrift is voor de respectieve Freudenberg-werkgever.
+
+**H. Uw rechten**
+
+­Als betrokkene heeft u het recht
+
+* ­­­­op informatie over de persoonsgegevens die op u betrekking hebben, artikel 15, AVG;
+* ­­­­­­­­­op rectificatie van onnauwkeurige of onvolledige gegevens, artikel 16, AVG;
+* ­­op verwijdering van persoonsgegevens, artikel 17, AVG;
+* ­op beperking van de verwerking, artikel 18, AVG;
+* ­­­­­op gegevensoverdraagbaarheid, artikel 20, AVG, en
+* ­**­­op het maken van bezwaar tegen de verwerking van de u betreffende persoonsgegevens, artikel 21, AVG.**
+
+
+Om deze rechten uit te oefenen, kunt u te allen tijde contact met ons opnemen - bv. via één van de kanalen om contact op te nemen die aan het begin van deze informatie over gegevensbescherming zijn aangegeven.
+
+Als u vragen hebt over de verwerking van uw gegevens, kunt u ook contact opnemen met onze functionaris voor gegevensbescherming.
+
+U hebt ook het recht om een klacht in te dienen bij een bevoegde toezichthoudende autoriteit voor gegevensbescherming, artikel 77, AVG.
+
+**I. Met wie kan ik contact opnemen als ik vragen heb?**
+
+Als u vragen hebt over uw rechten, kunt u ons het snelst bereiken via dataprotection-support@freudenberg.com.
+
+De contactgegevens van de Freudenberg & Co. KG kunt u vinden aan het begin van dit privacybeleid.
+
+De contactgegevens van de respectieve Freudenberg-werkgever(s) krijgt u van ons in de loop van de sollicitatieprocedure.

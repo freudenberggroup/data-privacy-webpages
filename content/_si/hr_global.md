@@ -6,140 +6,141 @@ translation_reference: "hr_global"
 category: hr_systems
 ---
 
-# Application process at Freudenberg
+# Prijavni postopek pri Freudenbergu
 
-The Freudenberg Group appreciates your visit to our job portal and your interest in the companies of the Freudenberg Group.
+Skupina Freudenberg se veseli vašega obiska na našem zaposlitvenem portalu in zanimanja za podjetje skupine Freudenberg.
 
-In this privacy statement, we provide you with the legally required information on the processing of your personal data and on your rights based on the applicable data protection provisions – in particular the EU General Data Protection Regulation ("**GDPR**") and the German Federal Data Protection Act (_Bundesdatenschutzgesetz_ – "**BDSG**").
+V tej izjavi o varstvu podatkov vam dajemo zakonsko predpisane informacije o obdelavi vaših osebnih podatkov in vaših pravicah na podlagi veljavnih predpisov o varstvu podatkov - zlasti Splošne uredbe EU o varstvu podatkov (**"GDPR"**) in Zveznega zakona o varstvu podatkov (**"BDSG"**).
 
-This privacy statement relates to the processing of personal data for the purposes of the application process, both for external applications and for applications from employees who are already employed by a Freudenberg company ("**Internal Applications**").
+Ta izjava o varstvu podatkov se nanaša na obdelavo osebnih podatkov v namen prijavnega postopka, tako za zunanje prijave kot tudi za prijave zaposlenih, ki so že zaposleni v eni izmed družb Freudenberg (**"interne prijave"**).
 
-**A. Who is responsible for the processing of personal data?**
+**A. Kdo je odgovoren za obdelavo osebnih podatkov?**
 
-The controller under data protection law for the processing of your personal data is Freudenberg & Co. KG, which is responsible for central applicant management for all companies of the Freudenberg Group and, in this context, processes all applications received via the application channels provided centrally by the Freudenberg Group.
+Freudenberg & Co. KG je odgovorna za obdelavo vaših osebnih podatkov v skladu z zakonodajo o varstvu podatkov, ki je odgovorna za centralno upravljanje prijavnih prosilcev za vsa podjetja v skupini Freudenberg in v tem okviru obdeluje vse prijave, prejete prek prijavnih kanalov, ki jih centralno zagotavlja skupina Freudenberg.
 
-Freudenberg & Co. KG ("**Freudenberg**") can be reached by mail (Hoehnerweg 2-4, D-69469 Weinheim, Germany) or by e-mail (info@freudenberg.com).
+Freudenberg & Co. KG (**"Freudenberg"**) lahko kontaktirate po pošti (Hoehnerweg 2-4, D-69469 Weinheim, Nemčija) ali po e-pošti (info@freudenberg.com).
 
-Where this data protection information refers to "we" or "us", this refers in each case to the aforementioned company.
+Kolikor smo v teh informacijah o varstvu podatkov omenjeni "mi" ali "nas", se to nanaša na omenjeno družbo.
 
-You can reach Freudenberg's data protection officer as follows: activeMind.legal Rechtsanwaltsgesellschaft m.b.H. – Data Protection Officer Freudenberg & Co. KG, Potsdamer Straße 3, 80802 München, Germany, e-mail: dataprotection-support@freudenberg.com.
+S pooblaščeno osebo za varstvo podatkov Freudenberga lahko stopite v stik kot sledi: active-Mind.legal Rechtsanwaltsgesellschaft m.b.H.– Pooblaščena oseba za varstvo podatkov Freudenberg & Co. KG, Potsdamer Straße 3, 80802 München, Nemčija, telefon +49 2202 28 941-0, e-pošta dataprotection-support@freudenberg.com.
 
-In addition to Freudenberg, other Freudenberg Group companies are also involved in the application process. This refers primarily to the company that has advertised a vacancy, to which you are making an unsolicited application for a position or which has a vacancy that matches your application ("Freudenberg Employer"). Please refer to Section E below for more information.
+V nadaljni postopek prijave so poleg Freudenberga vključena tudi druge družbe v skupini Freudenberg. To je predvsem družba, ki je objavila prosto delovno mesto, na katerega se inciativno prijavljate za razpis ali ki ima prosto delovno mesto, ki ustreza vaši prijavi ("delodajalec iz Freudenberga"). Za več informacij glejte razdelek E. spodaj.
 
-**B. What personal data is processed for the application process?**
+**B. Kateri osebni podatki se obdelujejo za postopek prijave?**
 
-In order to process your application, we need to process personal data. This regularly involves so-called master and history data, which we refer to collectively as **Application Data**.
+Da bi lahko obdelali vašo prijavo, moramo obdelati vaše osebne podatke. To so običajno tako imenovani glavni in procesni podatki, ki jih imenujemo **prijavni podatki.**
 
-* By master data we mean basic data about you and the application process conducted, in particular
-    * all information that you provide to us during the application process or that we request from you (e.g. name, address, telephone number, e-mail address, date of birth, marital status, nationality, religious denomination, education, language skills, previous employment with other employers, reference contacts); as well as
-    * such data that we collect in connection with your possible hiring (such as, in particular, details of your possible position, the possible organizational integration into our company, the possible duration of the assignment and the proposed salary).
+* Za glavne podatke smatramo osnovne podatke o vas in zlasti opravljenem prijavnem postopku, še posebej
 
-* We define historical data to mean personal data that is collected in the course of your application process and that goes beyond a mere change in your master data, in particular
-    * information about the interviews held with you (esp. date, place, participants);
-    * information about any services we may provide, such as reimbursement of travel expenses;
-    * information that you provide to us in the course of your application process – either actively or in response to a request from us – and that goes beyond the master data mentioned above. This concerns, in particular, information on remuneration/fees in the context of previous employment with other employers;
-    * other personal data from you or, if applicable, from third parties that we receive from you in the course of the application process. Third party personal data includes, for example, the name, age and nature of the relationship with persons who may accompany you while you are working for us abroad.
-
-Application Data also expressly includes special types of personal data, in particular data relating to your nationality, your health (e.g. a cancellation of an interview due to illness), any trade union membership you may have indicated, your religion or any disability you may have.
-
-_Internal Applications: If you apply for a position within the Freudenberg Group as an employee of a Freudenberg Group company and submit your application to us via the system provided for this purpose (currently Workday), you may provide us with additional information via the system._
-
-We usually receive the aforementioned personal data directly from you. In certain cases, Application Data may also include personal data that we collect from third parties in compliance with the applicable legal provisions (usually on your initiative, after informing you in advance or, where applicable, with your consent or approval); such as information that we receive from your previous employer(s), training organizations or so-called reference contacts.
-
-_Internal Applications: In case of Internal Applications, we may give you the opportunity to enable us to contact persons at your current Freudenberg Employer, e.g. by providing such reference contacts. In this case, the information received from these contacts will also be included in your master/history data._
-
-Please note that the amount of Application Data may vary depending on the position you are applying for: Different Freudenberg employers may be obliged to comply with different (employment) law requirements; this may have an impact on the nature and scope of the processing of personal data in application processes. For this reason, you may be provided with supplementary information on the processing of personal data during the application process, both by us and by the relevant Freudenberg Employer.
-
-**C. Are you obliged to provide personal data?**
-
-The provision of the Application Data is necessary for conducting the application process and the possible resulting conclusion of an employment contract between you and us.
-
-Should this not be the case with regard to some of the data, we will expressly point this out to you when collecting the respective data.
-
-Without the provision of the Application Data, we cannot conduct the application process with you and, therefore, cannot conclude an employment contract with you.
-
-If we collect additional personal data from you, this will also generally only be done if the provision of this information is required by law or contract or is necessary for conducting the application process. We will inform you – e.g. by marking individual requested data – if its provision is voluntary.
-
-If you send us additional information without us having requested it from you and without it being necessary for the application process, we will not use this information for the purposes of the application process, but must nevertheless store it with your other Application Data for technical reasons and for verification purposes.
-
-**D. On what legal basis is your personal data processed?**
-
-We process your Application Data for our own applications for positions at Freudenberg on the basis of Article 6(1)(b) GDPR, and otherwise on behalf of the respective Freudenberg Employer who processes Application Data on the basis of Article 6(1)(b) GDPR or a comparable legal basis under the applicable law in countries outside the EU/EEA, namely on the basis of Article 6(1)(f) GDPR to safeguard Freudenberg Group's legitimate interest in an efficient group-wide application process.
-
-We also process Application Data to comply with legal obligations by which we are bound; this is done on the basis of Article 6(1)(c) GDPR. These legal obligations include, in particular, the notifications to social insurance carriers and (tax) authorities that are prescribed for us, the audits that may be prescribed for us (e.g. against so-called "sanctions lists") and the fulfillment of existing record-keeping obligations for certain information.
-
-To the extent necessary, we also process your data beyond conducting the application procedure and the fulfillment of legal obligations in order to protect our legitimate interests or the interests of third parties; this is done on the basis of Article 6(1)(f) GDPR. Our legitimate interests include, among other things:
-
-* group-wide processes for the internal administration of Application Data;
-* the assertion of legal claims and the defense in legal disputes;
-* the prevention and investigation of criminal offences such as so-called "application fraud";
-* ensuring the security of the IT systems we use;
-* the further development, expansion and administration of the IT systems we use, including test operations;
-* the management and further development of our business activities, including risk management.
+* vse informacije, ki nam jih posredujete med prijavnim postopkom ali ki jih zahtevamo od vas (npr. ime, naslov, telefonska številka, e-poštni naslov, datum rojstva, zakonski stan, državljanstvo, veroizpoved, izobrazba, jezikovno znanje, predhodna zaposlitev pri drugih delodajalcih, reference); kot tudi
+* podatke, ki jih zbiramo v zvezi z vašo morebitno zaposlitvijo pri nas (kot so zlasti podatki o vašem možnem položaju, morebitni organizacijski integraciji v naše podjetje, možnem trajanju razporeditve in predlagani plači).
 
 
-To the extent the Application Data contains special types of personal data (such as health data, data relating to religion and data relating to your racial and ethnic origin), we process these for our own applications for the purposes of the obligations incumbent upon us under employment law and social security law to the extent provided for by law; this is done on the basis of Article 9(2)(b) GDPR; otherwise, we do this on behalf of the respective Freudenberg Employer.
+* \- Kot procesne podatke razumemo osebne podatke, ki nastanejo med postopkom prijave in presegajo zgolj spreminjanje vaših glavnih podatkov, zlasti
 
-Where we give you the opportunity to give your consent in the course of the application process (e.g. in connection with applicant pools), we process the personal data covered by the consent exclusively for the purposes stated in the consent declaration. This is done on the basis of Article 6(1)(a) GDPR. Where consent relates to the processing of special types of personal data (such as health data), the processing is based on Article 9(2)(a) GDPR.
+* informacije o delovnih razgovorih z vami (zlasti datum, kraj, udeleženci);
+* informacije o kakršnih koli storitvah, ki smo jih morda opravili, na primer povračilo potnih stroškov;
+* informacije, ki nam jih posredujete med postopkom prijave - bodisi aktivno bodisi kot odziv na našo zahtevo - in presegajo zgoraj omenjene glavne podatke. To velja zlasti za informacije o prejemkih/honorarjih v okviru prejšnje zaposlitve pri drugih delodajalcih;
+* nadaljnje osebne podatke o vas ali, če je potrebno, o tretjih osebah, ki jih od vas prejmemo med postopkom prijave. Osebni podatki tretjih oseb vključujejo na primer ime, starost in vrsto odnosa z ljudmi, ki vas bodo morebiti spremljali med službo za nas v tujini.
 
-Please note that
+Podatki o prijavi izrecno vključujejo tudi posebne vrste osebnih podatkov, zlasti informacije v zvezi z vašo narodnostjo, zdravjem (npr. zavrnitev razgovora za službo zaradi bolezni), morebitno navedeno članstvo v sindikatu, vašo vero ali kakršno koli invalidnost.
 
-* the granting of consent is always voluntary and neither the granting nor the subsequent withdrawal of consent has negative consequences for conducting your application process;
-* that not granting consent or its subsequent withdrawal may nevertheless entail consequences if we are then no longer able to carry out certain data processing operations; we will inform you of such consequences before granting consent, and
-* that you may withdraw any consent given at any time with effect for the future, e.g. by notifying us (or the Freudenberg company or companies named in the consent);
-* that even in the event of withdrawal of consent, we may be entitled to continue the processing in question – possibly to a reduced extent – on the basis of a statutory permission.
+_Interne prijave: Če se kot zaposleni v podjetju v skupini Freudenberg prijavite na delovno mesto v skupini Freudenberg in nam pošljete svojo prijavo s sistemom, ki je predviden v ta namen (trenutno v Workday), nam lahko po potrebi prek sistema pošljete dodatne informacije._
 
-**E. Who receives your personal data?**
+Zgoraj omenjene osebne podatke običajno prejmemo neposredno od vas. V nekaterih primerih lahko podatki o prijavi vključujejo tudi osebne podatke, ki jih zbiramo o tretjih osebah v skladu z veljavnimi zakonskimi določbami (običajno na vašo pobudo, potem ko ste bili vnaprej obveščeni ali, če je primerno, z vašim dovoljenjem ali soglasjem); na primer informacije, ki jih dobimo od vaših predhodnih delodajalcev, centrov za usposabljanje ali tako imenovanih referenčnih kontaktov.
 
-Your personal data will generally be processed within Freudenberg. Depending on the type of personal data, only certain departments / organizational units will have access to your personal data. In particular, this includes employees at Freudenberg who are involved in the application process.
+_Interne prijave: V primeru internih prijav vam lahko damo priložnost, da se obrnete na kontaktne osebe pri predhodnem delodajalcu v Freudenbergu, npr. z navedbo takšnih referenčnih kontaktov. V tem primeru se bodo informacije, ki jih prejmemo s strani teh kontaktnih osebe, stekale v vaše glavne/procesne podatke._
 
-We will also forward your Application Data to the Freudenberg Employer(s) who need to know the Application Data in order to conduct the further application process.
+Upoštevajte, da se lahko obseg prijavnih podatkov razlikuje glede na delovno mesto, na katerega se prijavljate: različni delodajalci v Freudenbergu bodo morda morali upoštevati različne (delovne) zakonske zahteve; to lahko vpliva na vrsto in obseg obdelave osebnih podatkov v prijavnih postopkih. Iz tega razloga vam lahko mi kot zadevni delodajalec v Freudenbergu med postopkom prijave zagotovi dodatne informacije o obdelavi osebnih podatkov.
 
-By means of a role and authorization concept, access within our company is limited to those functions and to that extent which are necessary for the respective purpose of processing.
+**C. Ste dolžni posredovati osebne podatke?**
 
-In addition, we may also transfer Application Data to other third parties outside our company to the extent permitted by law. These external recipients include, in particular:
+Navedba prijavnih podatkov je potrebna za izvedbo prijavnega postopka in sklenitev pogodbe o zaposlitvi med vami in nami.
 
-* the service providers commissioned by us in connection with the application process, who provide services to us on a separate contractual basis, which may also include the processing of personal data, as well as the subcontractors of our service providers engaged with our consent, as well as
-* non-public and public bodies, to the extent we are obliged to transfer your personal data due to legal obligations.
+Če to ne velja za posamezne podatke, vas bomo na to pri zbiranju ustreznih podatkov izrecno opozorili.
 
-**F. Is personal data transferred to recipients outside the EU/EEA?**
+Če zbiramo osebne podatke o vas, ki presegajo ta okvir, se to običajno zgodi le, če zagotavljanje teh podatkov zahteva zakon ali pogodba ali je to potrebno za izvajanje prijavnega postopka. Obveščali vas bomo – npr. z označevanjem posameznih zahtevanih podatkov - če je njihovo razkritje prostovoljno.
 
-Yes, due to the global structure of the Freudenberg Group, it may also be necessary to transfer personal data to recipients in so-called "third countries". "Third countries" are countries outside the European Union or the Agreement on the European Economic Area where a level of data protection comparable to that in the European Union cannot be readily assumed.
+Če nam posredujete dodatne podatke, ne da bi jih od vas zahtevali in ne da bi bile potrebni za postopek prijave, teh podatkov ne bomo uporabili za namene prijavnega postopka, vendar jih moramo zaradi tehničnih razlogov in zaradi preverjanja vseeno shraniti skupaj z vašimi preostalimi prijavnimi podatki.
 
-However, before such a transfer, we always check whether it is already permitted on the basis of a legal provision (e.g. on the basis of Article 49 GDPR). Furthermore, prior to such a transfer, we ensure that the required adequate level of data protection is guaranteed in the respective third country or at the recipient in the third country. This can result, in particular, from a so-called "adequacy decision" of the European Commission, which establishes an adequate level of data protection for a specific third country as a whole. Alternatively, we can also base the data transfer on the so-called "EU standard contractual clauses" agreed with a recipient.
+**D. Na kateri pravni podlagi obdelujemo vaše osebne podatke?**
 
-We are happy to provide you with further information on the appropriate and adequate safeguards to ensure an adequate level of data protection upon request.
+Obdelava vaših prijavnih podatkov za vaše lastne prijave na delovna mesta v Freudenbergu poteka na podlagi 1b odstavka 6. člena GDPR, sicer pa poteka obdelava prijavnih podatkov v imenu zadevnega delodajalca v Freudenbergu na podlagi 1b odstavka 6. člena GDPR ali na primerljivi pravni podlagi v skladu z veljavno zakonodajo v državah zunaj EU/EGP na podlagi prvega odstavka 6. člena GDPR, da se zaščiti zakoniti interes skupine Freudenberg v učinkovitem postopku prijave v celotni skupini.
 
-**G. Storage period**
+Prijavne podatke obdelujemo tudi za izpolnjevanje zakonskih obveznosti, ki smo jim zavezani; to se izvaja na podlagi 1c odstavka 6. člena GDPR. Te zakonske obveznosti vključujejo zlasti poročila, ki jih moramo predložiti agencijam za socialno varnost in (davčnim) organom, preglede, ki jih bomo morda morali opraviti (npr. glede tako imenovanih "seznamov sankcij"), in izpolnitev obstoječe obveze hranjenja za nekatere informacije.
 
-Generally, we store your personal data as long as we have a legitimate interest in such storage and your interests in the discontinuation of the storage do not outweigh our interests.
+Po potrebi obdelujemo vaše podatke poleg izvajanja prijavnega postopka in izpolnjevanja zakonskih obveznosti, tudi za zaščito naših zakonitih interesov ali interesov tretjih oseb; to se stori na podlagi člena 1f odstavka 6. člena GDPR. Naši legitimni interesi vključujejo na primer
 
-As a rule, your Application Data will be stored at least until the end of the application process. In the event of a rejection, the data will furthermore be stored for a period of six months or in accordance with the prescribed periods in the country of the respective Freudenberg Employer after receipt of the rejection letter.
-
-When concluding an employment contract, we will provide you with a separate privacy statement for employees if and to the extent required by the law applicable to the respective Freudenberg Employer.
-
-**H. Your rights**
-
-As a data subject, you have the following rights:
-
-* ­right to information on the personal data stored about you, Article 15 GDPR;
-* ­right to rectification of inaccurate or incomplete data, Article 16 GDPR;
-* ­right to erasure of personal data, Article 17 GDPR;
-* ­right to restriction of processing, Article 18 GDPR;
-* ­right to data portability, Article 20 GDPR, and
-* ­**right to object to the processing of personal data concerning you, Article 21 GDPR.**
+* skupinski procesi za interno upravljanje aplikacijskih podatkov;
+* uveljavljanje pravnih zahtevkov in obramba v pravnih sporih;
+* preprečevanje in preiskovanje kaznivih dejanj, kot so npr. tako imenovana "prevara pri prijavi";
+* zagotavljanje varnosti informacijskih sistemov, ki jih uporabljamo;
+* nadaljnji razvoj, razširitev in upravljanje informacijskih sistemov, ki jih uporabljamo, vključno s preizkusnimi operacijami;
+* upravljanje in nadaljnji razvoj naših poslovnih dejavnosti, vključno z obvladovanjem tveganj.
 
 
-To exercise these rights, you can contact us at any time – e.g. via one of the contact channels indicated at the beginning of this data protection information.
+Če vsebujejo prijavni podatki posebne vrste osebnih podatkov (kot so zdravstveni podatki, verski podatki in podatki o vašem rasnem in etničnem poreklu), jih obdelujemo za lastne prijave v namen izvajanja obveznosti, ki jih imamo po delovnopravni in zakonodaji socialnega varstva, ki jih določa zakon; to se stori na podlagi 2a odstavka 9. člena GDPR; sicer v imenu zadevnega delodajalca v Freudenbergu.
 
-If you have any questions regarding the processing of your data, you can also contact our data protection officer.
+V kolikor vam damo možnost, da med postopkom prijave dodelite soglasje (npr. v povezavi s skupinami prosilcev), potem vaše osebne podatke, ki so vključeni v soglasje, obdelujemo izključno za namene, ki so navedeni v soglasju. To se naredi na podlagi 1a odstavka 6. člena GDPR. Če se soglasje nanaša na obdelavo posebnih vrst osebnih podatkov (na primer zdravstvenih podatkov), poteka obdelava podatkov na podlagi 2a odstavka 9. člena GDPR.
 
-You also have the right to lodge a complaint with a competent data protection supervisory authority, Article 77 GDPR.
+Prosimo, upoštevajte
 
-**I. Who can I contact if I have any questions?**
+* dodelitev soglasja je vedno prostovoljna in niti odobritev niti kaznejši preklic soglasja nimata negativnih posledic na potek vašega prijavnega postopka;
+* da je lahko neododelitev soglasja ali njen kasnejši preklic kljub temu povezana s posledicami, če po tem ne bomo več mogli izvajati nekaterih postopkov obdelave podatkov; o teh posledicah vas bomo obvestili pred privolitvijo in
+* da lahko svojo privolitev kadar koli prekličete z učinkom za naprej, npr. tako, da nas o tem obvestite (ali podjetja Freudenberga, navedena v soglasju);
+* tudi če je vaša privolitev umaknjena, smo lahko upravičeni do nadaljevanja ustrezne obdelave podatkov - po možnosti v manjši meri - na podlagi zakonitega dovoljenja.
 
-If you have any questions about your rights, the quickest way to reach us is via dataprotection-support@freudenberg.com.
+**E. Kdo bo prejel vaše osebne podatke?**
 
-The contact details of Freudenberg & Co. KG can be found at the beginning of this privacy statement.
+Vaši osebni podatki se običajno obdelujejo v Freudenbergu. Dostop do vaših osebnih podatkov imajo glede na vrsto osebnih podatkov le določeni oddelki/organizacijske enote. To vključuje zlasti zaposlene v Freudenbergu, ki izvajajo prijavne postopke.
 
-We will provide you with the contact details of the relevant Freudenberg Employer(s) in the course of the application process.
+Vaše prijavne podatke posredujemo tudi delodajalcu (delodajalcem) iz Freudenberga, ki mora (-jo) biti seznanjen (-i) s podatki za prijavo, da lahko izvede (-jo) nadaljnji prijavni postopek.
+
+S konceptom vloge in pooblastila je dostop do vaših podatkov znotraj našega podjetja omejen na tiste funkcije in obseg, ki sta potrebna za posamezen namen obdelave.
+
+Poleg tega lahko podatke o prijavi prenesemo tudi drugim tretjim osebam zunaj našega podjetja v obsegu, ki ga dovoljuje zakon. Ti zunanji prejemniki vključujejo zlasti
+
+* ponudnike storitev, ki smo jih pooblastili v zvezi s prijavnim postopkom, ki za nas opra-vljajo storitve na ločeni pogodbeni podlagi, ki lahko vključuje tudi obdelavo osebnih podatkov, pa tudi podizvajalci naših ponudnikov storitev, ki so sodelovali z našim soglasjem, tako dobro, kot
+* nejavne in javne organe, v kolikor smo jim zaradi zakonskih obveznosti dolžni posredovati vaše osebne podatke.
+
+**F. Ali se osebni podatki prenašajo prejemnikom zunaj EU/EGP?**
+
+Da, zaradi globalne strukture skupine Freudenberg bo morda treba tudi osebne podatke prenašati prejemnikom v tako imenovanih "tretjih državah". "Tretje države" so države zunaj Evropske unije ali Sporazuma o Evropskem gospodarskem prostoru, pri katerih ni mogoče preprosto domnevati ravni varstva podatkov, primerljive s tisto v Evropski uniji.
+
+Pred takim prenosom pa vedno preverimo, ali je to na podlagi zakonske določbe že dovoljeno (npr. na podlagi 49. člena GDPR). Poleg tega pred takim prenosom zagotovimo, da je potrebna ustrezna raven varstva podatkov zagotovljena v zadevni tretji državi ali pri prejemniku v tretji državi. To je lahko zlasti posledica tako imenovane "odločbe o ustreznosti"Evropske komisije, s katero se na splošno določi ustrezna raven varstva podatkov za določeno tretjo državo. Lahko pa tudi prenos podatkov utemeljimo na tako imenovanih "standardnih pogodbenih klavzulah EU", dogovorjenih s prejemnikom.
+
+Z veseljem vam bomo na zahtevo posredovali dodatne informacije o primernih in ustreznih garancijah za vzdrževanje ustrezne ravni varstva podatkov.
+
+**G. Obdobje hranjenja**
+
+Vaše osebne podatke običajno hranimo, če imamo legitimen interes za to hranjenje in če vaši interesi, da ne nadaljujete s hranjenjem, ne odtehtajo vaših interesov.
+
+Podatki o prijavi bodo praviloma shranjeni vsaj do konca prijavnega postopka. V primeru zavrnitve se bodo podatki hranili tudi še šest mesecev po prejemu zavrnilnega pisma ali v skladu s predpisanimi roki v državi zadevnega delodajalca v Freudenbergu.
+
+Ob sklenitvi pogodbe o zaposlitvi vam bomo posredovali ločeno izjavo o varstvu podatkov za zaposlene, če in v kolikor to zahteva zakonodaja, ki velja za zadevnega delodajalca v Freudenbergu.
+
+**H. Vaše pravice**
+
+Kot posameznik, na katerega se nanašajo osebni podatki, imate pravico
+
+* ­­­­­do informacij o osebnih podatkih, shranjenih o vas, 15. člen GDPR;
+* ­­­­­­­­­­­popraviti napačne ali nepopolne podatke, 16. člen GDPR;
+* do izbrisa osebnih podatkov 17. člen GDPR;
+* do omejitve obdelave, 18. člen GDPR;
+* ­­­­­­­do prenosljivosti podatkov, 20. člen GDPR in
+* ­**da nasprotujete obdelavi vaših osebnih podatkov, 21. člen GDPR.**
+
+
+Za uveljavljanje teh pravic nas lahko stopite z nami v stik kadar koli - npr. prek enega od kontaktnih kanalov, določenih na začetku teh informacij o varstvu podatkov.
+
+Če imate kakršna koli vprašanja glede obdelave vaših podatkov, se lahko obrnete tudi na našega uradnika za varstvo podatkov.
+
+Prav tako ste upravičeni do pritožbe pri pristojnem nadzornem organu za varstvo podatkov, 77. člen GDPR.
+
+**I. Na koga se lahko obrnem, če imam kakršna koli vprašanja?**
+
+Če imate kakršna koli vprašanja o svojih pravicah, se najhitreje obrnite na nas preko dataprotection-support@freudenberg.com.
+
+Kontaktne podatke za podjetje Freudenberg & Co. KG najdete na začetku te izjave o varstvu podatkov.
+
+Med prijavnim postopkom vam bomo posredovali kontaktne podatke zadevnih delodajalcev v Freudenbergu.

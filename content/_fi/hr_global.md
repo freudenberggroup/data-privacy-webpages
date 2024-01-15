@@ -6,140 +6,143 @@ translation_reference: "hr_global"
 category: hr_systems
 ---
 
-# Application process at Freudenberg
+# Työnhakumenettely Freudenbergillä
 
-The Freudenberg Group appreciates your visit to our job portal and your interest in the companies of the Freudenberg Group.
+Freudenberg-konsernia ilahduttaa, että tulit rekrytointisivuillemme ja että olet kiinnostunut Freudenberg-konsernin yhtiöistä.
 
-In this privacy statement, we provide you with the legally required information on the processing of your personal data and on your rights based on the applicable data protection provisions – in particular the EU General Data Protection Regulation ("**GDPR**") and the German Federal Data Protection Act (_Bundesdatenschutzgesetz_ – "**BDSG**").
+Tässä tietosuojaselosteessa annamme lain edellyttämän informaation henkilötietojesi käsittelystä sekä sovellettaviin tietosuojamääräyksiin – eritoten EU:n yleiseen tietosuoja-asetukseen ja Saksan tietosuojalakiin Bundesdatenschutzgesetz (**BDSG**) – perustuvista oikeuksistasi.
 
-This privacy statement relates to the processing of personal data for the purposes of the application process, both for external applications and for applications from employees who are already employed by a Freudenberg company ("**Internal Applications**").
+Tämä tietosuojaseloste koskee henkilötietojen käsittelyä työnhakumenettelytarkoituksissa ja kattaa sekä konsernin ulkopuolelta tulevat hakemukset että jo jonkin Freudenberg-yhtiön palveluksessa olevien työntekijöiden hakemukset (**"sisäiset hakemukset"**).
 
-**A. Who is responsible for the processing of personal data?**
+**A. Kuka on vastuussa henkilötietojen käsittelystä?**
 
-The controller under data protection law for the processing of your personal data is Freudenberg & Co. KG, which is responsible for central applicant management for all companies of the Freudenberg Group and, in this context, processes all applications received via the application channels provided centrally by the Freudenberg Group.
+Henkilötietojesi käsittelystä vastuussa oleva tietosuojalainsäädännön mukainen rekisterinpitäjä on Freudenberg & Co. KG, joka vastaa keskitetysti kaikkien Freudenberg-konsernin yhtiöiden työnhakijahallinnasta ja käsittelee kaikki hakemukset, jotka tulevat Freudenberg-konsernin keskistetysti tarjoamien hakukanavien kautta.
 
-Freudenberg & Co. KG ("**Freudenberg**") can be reached by mail (Hoehnerweg 2-4, D-69469 Weinheim, Germany) or by e-mail (info@freudenberg.com).
+Freudenberg & Co. KG:hen (**"Freudenberg"**) voi ottaa yhteyttä postitse (Höhnerweg 2-4, D-69469 Weinheim, Saksa) tai sähköpostitse (info@freudenberg.com).
 
-Where this data protection information refers to "we" or "us", this refers in each case to the aforementioned company.
+Kun tässä tietosuojainformaatiossa viitataan "meihin", tarkoitetaan edellä mainittua yhtiötä.
 
-You can reach Freudenberg's data protection officer as follows: activeMind.legal Rechtsanwaltsgesellschaft m.b.H. – Data Protection Officer Freudenberg & Co. KG, Potsdamer Straße 3, 80802 München, Germany, e-mail: dataprotection-support@freudenberg.com.
+Freudenbergin tietosuojavastaavan yhteysosoite on: activeMind.legal Rechtsanwaltsgesellschaft m.b.H.– Datenschutzbeauftragter Freudenberg & Co. KG, Potsdamer Straße 3, 80802 München, Saksa, s-posti data-protection-support@freudenberg.com.
 
-In addition to Freudenberg, other Freudenberg Group companies are also involved in the application process. This refers primarily to the company that has advertised a vacancy, to which you are making an unsolicited application for a position or which has a vacancy that matches your application ("Freudenberg Employer"). Please refer to Section E below for more information.
+Työnhakumenettelyn edetessä mukana on Freudenbergin lisäksi myös muita Freudenberg-konsernin yhtiöitä. Näitä ovat etenkin yhtiö, joka on ilmoittanut avoimesta työpaikasta, johon olet lähettänyt avoimen työhakemuksen tai jolla on sinun hakemukseesi sopiva avoin paikka ("Freudenberg-työnantaja"). Lisätietoja on jäljempänä kohdassa E.
 
-**B. What personal data is processed for the application process?**
+**B. Mitä henkilötietoja käsitellään työnhakumenettelyn yhteydessä?**
 
-In order to process your application, we need to process personal data. This regularly involves so-called master and history data, which we refer to collectively as **Application Data**.
+Jotta voimme käsitellä hakemuksesi, meidän on käsiteltävä henkilötietoja. Näitä ovat säännönmukaisesti niin kutsutut perus- ja historiatiedot, joita nimitämme kokonaisuutena **työnhakutiedoiksi**.
 
-* By master data we mean basic data about you and the application process conducted, in particular
-    * all information that you provide to us during the application process or that we request from you (e.g. name, address, telephone number, e-mail address, date of birth, marital status, nationality, religious denomination, education, language skills, previous employment with other employers, reference contacts); as well as
-    * such data that we collect in connection with your possible hiring (such as, in particular, details of your possible position, the possible organizational integration into our company, the possible duration of the assignment and the proposed salary).
+* Perustietoja ovat meille keskeiset tiedot sinusta henkilönä sekä työnhakumenettelystä, etenkin
 
-* We define historical data to mean personal data that is collected in the course of your application process and that goes beyond a mere change in your master data, in particular
-    * information about the interviews held with you (esp. date, place, participants);
-    * information about any services we may provide, such as reimbursement of travel expenses;
-    * information that you provide to us in the course of your application process – either actively or in response to a request from us – and that goes beyond the master data mentioned above. This concerns, in particular, information on remuneration/fees in the context of previous employment with other employers;
-    * other personal data from you or, if applicable, from third parties that we receive from you in the course of the application process. Third party personal data includes, for example, the name, age and nature of the relationship with persons who may accompany you while you are working for us abroad.
-
-Application Data also expressly includes special types of personal data, in particular data relating to your nationality, your health (e.g. a cancellation of an interview due to illness), any trade union membership you may have indicated, your religion or any disability you may have.
-
-_Internal Applications: If you apply for a position within the Freudenberg Group as an employee of a Freudenberg Group company and submit your application to us via the system provided for this purpose (currently Workday), you may provide us with additional information via the system._
-
-We usually receive the aforementioned personal data directly from you. In certain cases, Application Data may also include personal data that we collect from third parties in compliance with the applicable legal provisions (usually on your initiative, after informing you in advance or, where applicable, with your consent or approval); such as information that we receive from your previous employer(s), training organizations or so-called reference contacts.
-
-_Internal Applications: In case of Internal Applications, we may give you the opportunity to enable us to contact persons at your current Freudenberg Employer, e.g. by providing such reference contacts. In this case, the information received from these contacts will also be included in your master/history data._
-
-Please note that the amount of Application Data may vary depending on the position you are applying for: Different Freudenberg employers may be obliged to comply with different (employment) law requirements; this may have an impact on the nature and scope of the processing of personal data in application processes. For this reason, you may be provided with supplementary information on the processing of personal data during the application process, both by us and by the relevant Freudenberg Employer.
-
-**C. Are you obliged to provide personal data?**
-
-The provision of the Application Data is necessary for conducting the application process and the possible resulting conclusion of an employment contract between you and us.
-
-Should this not be the case with regard to some of the data, we will expressly point this out to you when collecting the respective data.
-
-Without the provision of the Application Data, we cannot conduct the application process with you and, therefore, cannot conclude an employment contract with you.
-
-If we collect additional personal data from you, this will also generally only be done if the provision of this information is required by law or contract or is necessary for conducting the application process. We will inform you – e.g. by marking individual requested data – if its provision is voluntary.
-
-If you send us additional information without us having requested it from you and without it being necessary for the application process, we will not use this information for the purposes of the application process, but must nevertheless store it with your other Application Data for technical reasons and for verification purposes.
-
-**D. On what legal basis is your personal data processed?**
-
-We process your Application Data for our own applications for positions at Freudenberg on the basis of Article 6(1)(b) GDPR, and otherwise on behalf of the respective Freudenberg Employer who processes Application Data on the basis of Article 6(1)(b) GDPR or a comparable legal basis under the applicable law in countries outside the EU/EEA, namely on the basis of Article 6(1)(f) GDPR to safeguard Freudenberg Group's legitimate interest in an efficient group-wide application process.
-
-We also process Application Data to comply with legal obligations by which we are bound; this is done on the basis of Article 6(1)(c) GDPR. These legal obligations include, in particular, the notifications to social insurance carriers and (tax) authorities that are prescribed for us, the audits that may be prescribed for us (e.g. against so-called "sanctions lists") and the fulfillment of existing record-keeping obligations for certain information.
-
-To the extent necessary, we also process your data beyond conducting the application procedure and the fulfillment of legal obligations in order to protect our legitimate interests or the interests of third parties; this is done on the basis of Article 6(1)(f) GDPR. Our legitimate interests include, among other things:
-
-* group-wide processes for the internal administration of Application Data;
-* the assertion of legal claims and the defense in legal disputes;
-* the prevention and investigation of criminal offences such as so-called "application fraud";
-* ensuring the security of the IT systems we use;
-* the further development, expansion and administration of the IT systems we use, including test operations;
-* the management and further development of our business activities, including risk management.
+* kaikki tiedot, jotka annat meille tai joita me kysymme työnhakumenettelyn yhteydessä (esim. nimi, osoite, puhelinnumero, sähköpostiosoite, syntymäaika, siviilisääty, kansalaisuus, uskonto, koulutus, kielitaito, aiemmat työsuhteet muiden työnantajien palveluksessa, suosittelijoiden yhteystiedot); sekä
+* ne tiedot, joita kirjaamme, jos palkkaamme sinut palvelukseemme (kuten erityisesti tiedot mahdollisesta asemastasi, organisatorisesta suhteesta yritykseemme, palvelusopimuksen pituudesta ja esitetystä palkasta).
 
 
-To the extent the Application Data contains special types of personal data (such as health data, data relating to religion and data relating to your racial and ethnic origin), we process these for our own applications for the purposes of the obligations incumbent upon us under employment law and social security law to the extent provided for by law; this is done on the basis of Article 9(2)(b) GDPR; otherwise, we do this on behalf of the respective Freudenberg Employer.
+* Historiatiedoilla tarkoitamme henkilötietoja, jotka kertyvät työnhakumenettelyn aikana ja jotka eivät liity pelkkään perustietojesi muuttamiseen, erityisesti
 
-Where we give you the opportunity to give your consent in the course of the application process (e.g. in connection with applicant pools), we process the personal data covered by the consent exclusively for the purposes stated in the consent declaration. This is done on the basis of Article 6(1)(a) GDPR. Where consent relates to the processing of special types of personal data (such as health data), the processing is based on Article 9(2)(a) GDPR.
+* tiedot kanssasi käymistämme työhaastatteluista (etenkin päivämäärä, paikka ja osallistujat);
+* tiedot mahdollisista suorituksistamme, kuten esimerkiksi matkakulujen korvauksista;
+* tiedot, joita annat meille – joko oma-aloitteisesti tai meidän pyynnöstämme – työnhakumenettelyn puitteissa ja jotka eivät kuulu edellä mainittujen perustietojen piiriin. Tämä koskee erityisesti palkkaukseen liittyviä tietoja aiemmista työsuhteista muilla työnantajilla;
+* muut henkilötiedot itsestäsi tai mahdollisesti kolmansista henkilöistä, joita saamme sinulta työnhakumenettelyn yhteydessä. Kolmansien osapuolien henkilötietoja ovat esimerkiksi sellaisten henkilöiden nimi ja ikä sekä näiden henkilöiden suhde sinuun, jotka mahdollisesti lähtevät mukaan, kun työskentelet meidän palveluksessamme ulkomailla.
 
-Please note that
+Työnhakutietoihin kuuluvat nimenomaisesti myös erityisen tyypin henkilötiedot, etenkin tiedot kansalaisuudesta, terveydentilasta (esim. työhaastattelun peruminen sairauden vuoksi), mahdollisesta ilmoitetusta ammattiliittoon kuulumisesta, uskonnosta tai mahdollisesta vammaisuudesta.
 
-* the granting of consent is always voluntary and neither the granting nor the subsequent withdrawal of consent has negative consequences for conducting your application process;
-* that not granting consent or its subsequent withdrawal may nevertheless entail consequences if we are then no longer able to carry out certain data processing operations; we will inform you of such consequences before granting consent, and
-* that you may withdraw any consent given at any time with effect for the future, e.g. by notifying us (or the Freudenberg company or companies named in the consent);
-* that even in the event of withdrawal of consent, we may be entitled to continue the processing in question – possibly to a reduced extent – on the basis of a statutory permission.
+_Sisäiset hakemukset: Jos Freudenberg-konsernin jonkin yhtiön työntekijänä haet työpaikkaa Freudenberg-konsernin sisällä ja lähetät hakemuksesi siihen tarkoitetun järjestelmän (tätä nykyä Workday) kautta, voit antaa tämän järjestelmän kautta myös täydentäviä tietoja._
 
-**E. Who receives your personal data?**
+Saamme edellä mainitut henkilötiedot yleensä suoraan sinulta itseltäsi. Tietyissä tapauksissa työnhakutietoihin saattaa kuulua myös sellaisia henkilötietoja, joita sovellettavien lakien salliessa pyydämme kolmansilta osapuolilta (yleensä sinun esityksestäsi, aiemmin antamiesi tietojen perusteella tai mahdollisesti sinun suostumuksellasi); kuten esimerkiksi tietoja, jotka saamme aiemmilta työnantajiltasi, oppilaitoksilta tai suosittelijoilta.
 
-Your personal data will generally be processed within Freudenberg. Depending on the type of personal data, only certain departments / organizational units will have access to your personal data. In particular, this includes employees at Freudenberg who are involved in the application process.
+_Sisäiset hakemukset: Sisäisissä hakemuksissa voit tarjota meille mahdollisuutta ottaa yhteyttä aiemman Freudenberg-työnantajayhtiösi yhteyshenkilöihin ja mainita suosittelijoita. Tässä tapauksessa myös näiltä yhteyshenkilöiltä saamamme tiedot menevät perus- ja historiatietoihisi._
 
-We will also forward your Application Data to the Freudenberg Employer(s) who need to know the Application Data in order to conduct the further application process.
+Huomaa, että työnhakutietojen laajuus saattaa vaihdella sen mukaan, mitä paikkaa haet: eri Freudenberg-yhtiöt saattavat työnantajina olla velvollisia noudattamaan erilaisia (työ)oikeudellisia vaatimuksia. Tällä voi olla vaikutusta työnhakumenettelyn yhteydessä tapahtuvan henkilötietojen käsittelyn tyyppiin ja laajuuteen. Siksi sekä me saatamme että kyseinen Freudenberg-työnantajayhtiö saattaa antaa sinulle työnhakumenettelyn aikana täydentäviä tietoja henkilötietojen käsittelystä.
 
-By means of a role and authorization concept, access within our company is limited to those functions and to that extent which are necessary for the respective purpose of processing.
+**C. Voiko sinut velvoittaa antamaan henkilötietoja?**
 
-In addition, we may also transfer Application Data to other third parties outside our company to the extent permitted by law. These external recipients include, in particular:
+Työnhakutietojen antaminen on välttämätöntä työnhakumenettelyn suorittamiselle ja siitä mahdollisesti seuraavan työsopimuksen tekemiselle.
 
-* the service providers commissioned by us in connection with the application process, who provide services to us on a separate contractual basis, which may also include the processing of personal data, as well as the subcontractors of our service providers engaged with our consent, as well as
-* non-public and public bodies, to the extent we are obliged to transfer your personal data due to legal obligations.
+Jos tämä ei päde joidenkin tiettyjen tietojen osalta, mainitsemme siitä nimenomaisesti kyseisiä tietoja kerätessämme.
 
-**F. Is personal data transferred to recipients outside the EU/EEA?**
+Ellet anna työnhakutietoja, emme voi käydä läpi työnhakumenettelyä emmekä tehdä työsopimusta kanssasi.
 
-Yes, due to the global structure of the Freudenberg Group, it may also be necessary to transfer personal data to recipients in so-called "third countries". "Third countries" are countries outside the European Union or the Agreement on the European Economic Area where a level of data protection comparable to that in the European Union cannot be readily assumed.
+Jos keräämme muita henkilötietoja sinusta, teemme sen yleensä vain silloin, kun näiden tietojen antamiseen on lakisääteinen tai sopimuksellinen velvoite tai kun se on tarpeen työnhakumenettelyn suorittamiseksi. Ilmoitamme, milloin tietojen antaminen on vapaaehtoista – esim. merkitsemällä yksittäiset pyydetyt tiedot.
 
-However, before such a transfer, we always check whether it is already permitted on the basis of a legal provision (e.g. on the basis of Article 49 GDPR). Furthermore, prior to such a transfer, we ensure that the required adequate level of data protection is guaranteed in the respective third country or at the recipient in the third country. This can result, in particular, from a so-called "adequacy decision" of the European Commission, which establishes an adequate level of data protection for a specific third country as a whole. Alternatively, we can also base the data transfer on the so-called "EU standard contractual clauses" agreed with a recipient.
+Jos annat meille täydentäviä tietoja ilman, että olisimme pyytäneet niitä ja että ne olisivat tarpeen työnhakumenettelyn kannalta, emme käytä tällaisia tietoja työnhakumenettelyssä, mutta meidän on teknisistä syistä ja toteennäyttötarkoituksissa tallennettava ne muiden työnhakutietojesi ohella.
 
-We are happy to provide you with further information on the appropriate and adequate safeguards to ensure an adequate level of data protection upon request.
+**D. Millä oikeusperusteella henkilötietoja käsitellään?**
 
-**G. Storage period**
+Freudenbergin työpaikkoja koskevien hakemusten osalta käsittelemme työnhakutietoja EU:n yleisen tietosuoja-asetuksen 6 artiklan 1 kohdan b) alakohdan nojalla ja muutoin aina sen Freudenberg-työnantajayhtiön puolesta, joka käsittelee työnhakutietoja tietosuoja-asetuksen 6 artiklan 1 kohdan b) alakohdan nojalla tai EU:n/ETA:n ulkopuolisissa maissa sovellettavalla muulla vastaavalla oikeusperusteella. Tällöin tietoja käsitellään tietosuoja-asetuksen 6 artiklan 1 kohdan f) alakohdan nojalla, jotta toteutetaan Freudenberg-yhtymän konserninlaajuisen, tehokkaan työnhakumenettelyn oikeutettu etu.
 
-Generally, we store your personal data as long as we have a legitimate interest in such storage and your interests in the discontinuation of the storage do not outweigh our interests.
+Käsittelemme työnhakutietoja myös oikeudellisten velvoitteidemme täyttämiseksi; tämä tapahtuu tietosuoja-asetuksen 6 artiklan 1 kohdan c) alakohdan perusteella. Tällaisia oikeudellisia velvoitteita ovat erityisesti pakolliset ilmoitukset sosiaalivakuutuslaitoksille ja (vero)viranomaisille, mahdolliset pakolliset tarkastukset (esim. nk. sanktioluetteloihin vertaaminen) ja tiettyjen tietojen säilytysvelvollisuus.
 
-As a rule, your Application Data will be stored at least until the end of the application process. In the event of a rejection, the data will furthermore be stored for a period of six months or in accordance with the prescribed periods in the country of the respective Freudenberg Employer after receipt of the rejection letter.
+Jos se on tarpeen, käsittelemme henkilötietojasi työnhakumenettelyn ja oikeudellisten velvoitteiden täyttämisen lisäksi myös oikeutettujen etujemme tai kolmansien osapuolien etujen toteuttamiseksi; tällöin käsittelyn peruste on tietosuoja-asetuksen 6 artiklan 1 kohdan f) alakohta. Oikeutettuihin etuihimme kuuluvat muun muassa
 
-When concluding an employment contract, we will provide you with a separate privacy statement for employees if and to the extent required by the law applicable to the respective Freudenberg Employer.
-
-**H. Your rights**
-
-As a data subject, you have the following rights:
-
-* ­right to information on the personal data stored about you, Article 15 GDPR;
-* ­right to rectification of inaccurate or incomplete data, Article 16 GDPR;
-* ­right to erasure of personal data, Article 17 GDPR;
-* ­right to restriction of processing, Article 18 GDPR;
-* ­right to data portability, Article 20 GDPR, and
-* ­**right to object to the processing of personal data concerning you, Article 21 GDPR.**
+* konserninlaajuiset prosessit työnhakutietojen sisäiseen hallintaan;
+* oikeusvaateiden laatiminen ja puolustaminen oikeusriidoissa;
+* rikosten, kuten esim. työnhakupetosten, estäminen ja niiden tutkinta;
+* IT-järjestelmiemme turvallisuuden varmistaminen;
+* IT-järjestelmiemme edelleenkehittäminen, laajentaminen ja hallinta sekä testikäyttö;
+* liiketoimintamme ohjaus ja edelleenkehittäminen sekä riskienhallinta.
 
 
-To exercise these rights, you can contact us at any time – e.g. via one of the contact channels indicated at the beginning of this data protection information.
+Jos työnhakutiedot sisältävät tiettyjä erityisen tyyppisiä henkilötietoja (kuten tietoja terveydentilasta, uskonnosta, rotutaustasta tai etnisestä taustasta), käsittelemme niitä meidän hakemustemme kohdalla työ- ja sosiaaliturvaoikeudellisten velvoitteidemme vuoksi lain edellyttämässä laajuudessa; tämä perustuu tietosuoja-asetuksen 9 artiklan 2 kohdan b) alakohtaan; muutoin käsittelemme näitä tietoja kulloisenkin Freudenberg-työnantajayhtiön toimeksiannosta.
 
-If you have any questions regarding the processing of your data, you can also contact our data protection officer.
+Jos tarjoamme sinulle työnhakumenettelyssä mahdollisuuden suostumuksen antamiseen (esim. nk. työnhakijapoolien yhteydessä), käsittelemme suostumuksen kattamia henkilötietoja yksinomaan suostumuksen mukaisiin tarkoituksiin. Käsittely perustuu tietosuoja-asetuksen 6 artiklan 1 kohdan a) alakohtaan. Jos suostumus koskee tiettyjen erityisen tyyppisten henkilötietojen käsittelyä (kuten terveyttä koskevat tiedot), käsittely perustuu tietosuoja-asetuksen 9 artiklan 2 kohdan a) alakohtaan.
 
-You also have the right to lodge a complaint with a competent data protection supervisory authority, Article 77 GDPR.
+Huomaa, että
 
-**I. Who can I contact if I have any questions?**
+* suostumuksen antaminen on aina vapaaehtoista eikä suostumuksen antaminen tai sen myöhempi peruminen vaikuta negatiivisesti työnhakumenettelyn toteuttamiseen;
+* suostumuksen antamatta jättämisestä tai sen myöhemmästä perumisesta voi silti olla seurauksia, jos emme silloin voi enää suorittaa tiettyjä tietojenkäsittelymenettelyjä; sinua informoidaan näistä seurauksista ennen suostumuksen antamista, sekä
+* voit peruuttaa antamasi suostumuksen milloin tahansa tietojen tulevan käsittelyn osalta esim. ilmoittamalla siitä meille (tai suostumuksessa mainitu(i)lle Freudenberg-yhtiö(i)lle;
+* myös peruttuasi suostumuksen saatamme olla oikeutettuja jatkamaan kyseistä käsittelyä – mahdollisesti rajoitetussa määrin – lakiin perustuvalla luvalla.
 
-If you have any questions about your rights, the quickest way to reach us is via dataprotection-support@freudenberg.com.
+**E. Kuka saa henkilötietojasi?**
 
-The contact details of Freudenberg & Co. KG can be found at the beginning of this privacy statement.
+Henkilötietosi käsitellään periaatteessa Freudenberg-konsernin sisällä. Henkilötietojen luonteesta riippuen vain tietyt osastot tai organisaatioyksiköt saavat pääsyn henkilötietoihisi. Tähän kuuluvat Freudenbergillä erityisesti työnhakumenettelyjen parissa työskentelevät työntekijät.
 
-We will provide you with the contact details of the relevant Freudenberg Employer(s) in the course of the application process.
+Lisäksi toimitamme hakutietosi sille Freudenberg-työnantajayhtiölle, jonka on saatava ne tietoonsa työnhakumenettelyn edetessä.
+
+Rajoitamme yrityksemme sisällä tietoihin pääsyn rooli- ja lupajärjestelmällämme ainoastaan sellaisiin toimintoihin ja siihen laajuuteen kuin kyseisen käsittelytarkoituksen kohdalla on tarpeellista.
+
+Saatamme myös toimittaa hakutietoja lain sallimassa määrin muillekin yrityksemme ulkopuolisille kolmansille osapuolille. Tällaisia ulkopuolisia tietojen vastaanottajia ovat erityisesti
+
+* työnhakumenettelyn yhteydessä valtuuttamamme palveluntarjoajat, jotka tuottavat meille erityisen sopimuksen perusteella palveluja, mahdollisesti mukaan lukien henkilötietojen käsittelyä, sekä palveluntarjoajiemme meidän suostumuksellamme käyttämät alihankkijat, sekä
+* yksityiset ja julkiset tahot, mikäli meillä on lakisääteinen velvoite henkilötietojen toimittamiseen.
+
+**F. Toimitetaanko henkilötietoja EU:n tai ETA:n ulkopuolisille vastaanottajille?**
+
+Kyllä, Freudenberg-konsernin globaalin rakenteen vuoksi saatetaan henkilötietoja joutua siirtämään nk. kolmansissa maissa oleville vastaanottajille. Kolmannet maat ovat Euroopan unionin ja ETA-sopimuksen ulkopuolisia maita, joissa ei voida automaattisesti olettaa olevan Euroopan unionin tilanteeseen verrattavissa olevaa tietosuojatasoa.
+
+Ennen tällaista tietojen siirtoa tarkastamme aina, onko se luvallista jo pelkästään lainsäädännön (esim. yleisen tietosuoja-asetuksen 49 artiklan) perusteella. Lisäksi varmistamme ennen tällaista tietojen siirtoa, että kyseisessä kolmannessa maassa tai tuossa kolmannessa maassa olevalla vastaanottajalla tietosuojan riittävyys on varmistettu. Varmistuksena voi olla erityisesti Euroopan komission nk. "riittävyyttä koskeva päätös", jolla todetaan yleisesti tietyn kolmannen maan riittävä tietosuojan taso. Vaihtoehtoisesti voimme nojautua tietojen siirrossa myös vastaanottajan kanssa sovittuihin EU:n vakiosopimuslausekkeisiin.
+
+Toimitamme pyynnöstä mielellämme lisätietoja soveltuvista ja asianmukaisista riittävän tietosuojan tason noudattamisen takeista.
+
+**G. Säilytysaika**
+
+Säilytämme henkilötietojasi periaatteessa niin kauan kuin meillä on oikeutettu etu niiden tallentamiseen eikä sinun oikeutettu etusi tallentamisen lopettamiseen syrjäytä meidän etuamme.
+
+Yleensä työnhakutietoja säilytetään vähintään työnhakumenettelyn loppuun saakka. Jos saat kieltävän vastauksen, tietoja säilytetään lisäksi vielä kuusi kuukautta tai vastaavasti kyseisen Freudenberg-työnantajayhtiön sijaintimaassa säädetyn ajan kieltävän vastauksen saapumisesta.
+
+Jos solmitaan työsopimus, saat meiltä erityisen työntekijöiden tietosuojaselosteen, jos ja siinä määrin kuin kyseiseen Freudenberg-työnantajayhtiöön sovellettava lainsäädäntö sitä edellyttää.
+
+**H. Oikeutesi**
+
+Rekisteröitynä sinulla on oikeus
+
+* ­­­­saada tietoa tallennetuista henkilötiedoistasi, yleisen tietosuoja-asetuksen 15 artikla;
+* ­­­­saada virheelliset tai puutteelliset tiedot oikaistuksi, tietosuoja-asetuksen 16 artikla;
+* ­­saada henkilötiedot poistetuksi, tietosuoja-asetuksen 17 artikla;
+* ­­­saada käsittelyä rajoitettua, tietosuoja-asetuksen 18 artikla;
+* ­saada tiedot siirrettyä järjestelmästä toiseen, tie.tosuoja-asetuksen 20 artikla; ja
+* ­**­­­­vastustaa henkilötietojesi käsittelyä, tietosuoja-asetuksen 21 artikla.**
+
+
+Halutessasi käyttää näitä oikeuksia voit milloin tahansa ottaa yhteyttä meihin – esim. tämän tietosuojaselosteen alussa mainituilla yhteystiedoilla.
+
+Jos haluat kysyä henkilötietojesi käsittelystä, voit kääntyä tietosuojavastaavamme puoleen.
+
+Lisäksi sinulla on oikeus valittaa toimivaltaiselle tietosuojavalvontaviranomaiselle tietosuoja-asetuksen 77 artiklan perusteella.
+
+**I. Keneltä voin kysyä?**
+
+Oikeuksiasi koskevissa kysymyksissä meihin saa nopeimmin yhteyttä osoitteella dataprotection-support@freudenberg.com.
+
+Freudenberg & Co. KG:n yhteystiedot ovat tämän tietosuojaselosteen alussa.
+
+Kyseessä olevan Freudenberg-työnantajayhtiön yhteystiedot ilmoitamme sinulle työnhakumenettelyn kuluessa.
