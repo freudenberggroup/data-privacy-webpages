@@ -3,11 +3,12 @@ hr_systems:
   cs: Systémy HR
   da: HR-systemer
   de: HR Systeme
+  el: Συστήματα HR
   en: HR Systems
   es: Sistemas de RRHH
   et: HR-süsteemid
   fi: HR-järjestelmät
-  el: Συστήματα HR
+  fr: Systèmes RH
   hu: HR rendszerek
   it: Sistemi HR
   ja: HRシステム
@@ -30,11 +31,12 @@ websites:
   cs: Webové stránky
   da: Websteder
   de: Webseiten
+  el: Διαδικτυακές τοποθεσίες
   en: Websites
   es: Sitios web
   et: Veebisaidid
   fi: Verkkosivustot
-  el: Διαδικτυακές τοποθεσίες
+  fr: Sites Web
   hu: Webhelyek
   it: Siti web
   ja: ウェブサイト
@@ -57,11 +59,12 @@ newsletters:
   cs: Zpravodaje
   da: Nyhedsbreve
   de: Newsletter
+  el: Ενημερωτικά δελτία
   en: Newsletters
   es: Boletines
   et: Uudiskirjad
   fi: Uutiskirjeet
-  el: Ενημερωτικά δελτία
+  fr: Bulletins d'information
   hu: Hírlevelek
   it: Newsletter
   ja: ニュースレター

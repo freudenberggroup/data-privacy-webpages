@@ -54,7 +54,7 @@
                         <ul role="list" class="space-y-9">
                             {% for category in site.data.categories %}
                                 <li>
-                                    <h2 class="font-display font-medium text-slate-900 dark:text-white">{{ category[1].[page_language] }}</h2>
+                                    <h2 class="font-display font-medium text-slate-900 dark:text-white">{{ category[1][page_language] }}</h2>
                                     <ul role="list" class="mt-2 space-y-2 border-l-2 border-slate-100 dark:border-slate-800 lg:mt-4 lg:space-y-4 lg:border-slate-200">
                                         {% for pg in site.en %}
                                             {% if pg.category == category[0] %}
