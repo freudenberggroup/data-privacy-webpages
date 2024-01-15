@@ -1,5 +1,5 @@
-url: "https://freudenberggroup.github.io"
-baseurl: "/data-privacy-webpages"
+url: "https://data-privacy.freudenberg.ai"
+baseurl: ""
 
 title: "Freudenberg Group"
 plugins:
