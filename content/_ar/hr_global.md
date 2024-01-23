@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "النظام العالمي للموارد البشرية"
+title: "حماية البيانات"
 lang: ar
 translation_reference: "hr_global"
 category: hr_systems

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Globalni kadrovski sistem"
+title: "Varstvo Podatkov"
 lang: si
 translation_reference: "hr_global"
 category: hr_systems

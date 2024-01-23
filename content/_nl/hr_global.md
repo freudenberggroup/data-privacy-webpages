@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Globaal HR-systeem"
+title: "Gegevensbescherming"
 lang: nl
 translation_reference: "hr_global"
 category: hr_systems

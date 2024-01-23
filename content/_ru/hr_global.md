@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Глобальная система управления персоналом"
+title: "защита данных"
 lang: ru
 translation_reference: "hr_global"
 category: hr_systems

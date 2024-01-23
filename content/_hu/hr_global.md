@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Globális HR rendszer"
+title: "Adat Védelem"
 lang: hu
 translation_reference: "hr_global"
 category: hr_systems

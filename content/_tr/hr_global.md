@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Küresel İK Sistemi"
+title: "Veri Koruması"
 lang: tr
 translation_reference: "hr_global"
 category: hr_systems

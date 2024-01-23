@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Globalny system kadrowy"
+title: "Ochrona Danych"
 lang: pl
 translation_reference: "hr_global"
 category: hr_systems

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "HR System Global"
+title: "Datenschutz"
 lang: de
 translation_reference: "hr_global"
 category: hr_systems

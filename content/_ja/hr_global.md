@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "グローバル人事制度"
+title: "データ保護"
 lang: ja
 translation_reference: "hr_global"
 category: hr_systems

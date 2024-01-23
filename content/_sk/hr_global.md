@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Globálny HR systém"
+title: "Dataskydd"
 lang: sk
 translation_reference: "hr_global"
 category: hr_systems

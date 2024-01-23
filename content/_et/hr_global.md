@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Globaalne personalisüsteem"
+title: "Andmekaitse"
 lang: et
 translation_reference: "hr_global"
 category: hr_systems

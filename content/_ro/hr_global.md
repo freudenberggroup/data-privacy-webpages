@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Sistemul global de resurse umane"
+title: "Protejarea Datelor"
 lang: ro
 translation_reference: "hr_global"
 category: hr_systems

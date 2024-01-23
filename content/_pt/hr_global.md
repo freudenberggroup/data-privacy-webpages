@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Sistema Global de RH"
+title: "Proteção de Dados"
 lang: pt
 translation_reference: "hr_global"
 category: hr_systems

@@ -1,83 +1,83 @@
 hr_systems:
-  ar: أنظمة الموارد البشرية
-  cs: Systémy HR
-  da: HR-systemer
-  de: HR Systeme
-  el: Συστήματα HR
-  en: HR Systems
-  es: Sistemas de RRHH
-  et: HR-süsteemid
-  fi: HR-järjestelmät
-  fr: Systèmes RH
-  hu: HR rendszerek
-  it: Sistemi HR
-  ja: HRシステム
-  ko: HR 시스템
-  nl: HR-systemen
-  no: HR-systemer
-  pl: Systemy HR
-  pt: Sistemas de RH
-  ro: Sisteme HR
-  ru: Системы управления персоналом
-  si: HR sistemi
-  sk: Systémy HR
-  sv: HR-system
-  th: ระบบ HR
-  tr: İK sistemleri
-  zh: 人力资源系统
+  ar: حماية البيانات
+  cs: Ochrana Dat
+  da: Data Beskyttelse
+  de: Datenschutz
+  el: προστασία δεδομένων
+  en: Data Privacy
+  es: Protección de Datos
+  et: Andmekaitse
+  fi: Datan Suojelu
+  fr: Protection des Données
+  hu: Adat Védelem
+  it: Protezione Dati
+  ja: データ保護
+  ko: 데이터 보호
+  nl: Gegevensbescherming
+  no: Data Beskyttelse
+  pl: Ochrona Danych
+  pt: Proteção de Dados
+  ro: Protejarea Datelor
+  ru: защита данных
+  si: Varstvo Podatkov
+  sk: Dataskydd
+  sv: Ochrana Dát
+  th: การป้องกันข้อมูล
+  tr: Veri Koruması
+  zh: 数据保护
 
-websites:
-  ar: المواقع الإلكترونية
-  cs: Webové stránky
-  da: Websteder
-  de: Webseiten
-  el: Διαδικτυακές τοποθεσίες
-  en: Websites
-  es: Sitios web
-  et: Veebisaidid
-  fi: Verkkosivustot
-  fr: Sites Web
-  hu: Webhelyek
-  it: Siti web
-  ja: ウェブサイト
-  ko: 웹사이트
-  nl: Websites
-  no: Nettsteder
-  pl: Strony internetowe
-  pt: Sites
-  ro: Site-uri web
-  ru: Веб-сайты
-  si: Spletne strani
-  sk: Webové stránky
-  sv: Webbplatser
-  th: เว็บไซต์
-  tr: Web siteleri
-  zh: 网站
+# websites:
+#   ar: المواقع الإلكترونية
+#   cs: Webové stránky
+#   da: Websteder
+#   de: Webseiten
+#   el: Διαδικτυακές τοποθεσίες
+#   en: Websites
+#   es: Sitios web
+#   et: Veebisaidid
+#   fi: Verkkosivustot
+#   fr: Sites Web
+#   hu: Webhelyek
+#   it: Siti web
+#   ja: ウェブサイト
+#   ko: 웹사이트
+#   nl: Websites
+#   no: Nettsteder
+#   pl: Strony internetowe
+#   pt: Sites
+#   ro: Site-uri web
+#   ru: Веб-сайты
+#   si: Spletne strani
+#   sk: Webové stránky
+#   sv: Webbplatser
+#   th: เว็บไซต์
+#   tr: Web siteleri
+#   zh: 网站
 
-newsletters:
-  ar: النشرات الإخبارية
-  cs: Zpravodaje
-  da: Nyhedsbreve
-  de: Newsletter
-  el: Ενημερωτικά δελτία
-  en: Newsletters
-  es: Boletines
-  et: Uudiskirjad
-  fi: Uutiskirjeet
-  fr: Bulletins d'information
-  hu: Hírlevelek
-  it: Notiziario
-  ja: ニュースレター
-  ko: 뉴스레터
-  nl: Nieuwsbrieven
-  no: Nyhetsbrev
-  pl: Biuletyny
-  pt: Boletins informativos
-  ro: Buletine informative
-  ru: Информационные бюллетени
-  si: Newsletter
-  sk: Informačné bulletiny
-  sv: Nyhetsbrev
-  th: จดหมายข่าว
-  tr: Bültenler
-  zh: 通讯
+# newsletters:
+#   ar: النشرات الإخبارية
+#   cs: Zpravodaje
+#   da: Nyhedsbreve
+#   de: Newsletter
+#   el: Ενημερωτικά δελτία
+#   en: Newsletters
+#   es: Boletines
+#   et: Uudiskirjad
+#   fi: Uutiskirjeet
+#   fr: Bulletins d'information
+#   hu: Hírlevelek
+#   it: Notiziario
+#   ja: ニュースレター
+#   ko: 뉴스레터
+#   nl: Nieuwsbrieven
+#   no: Nyhetsbrev
+#   pl: Biuletyny
+#   pt: Boletins informativos
+#   ro: Buletine informative
+#   ru: Информационные бюллетени
+#   si: Newsletter
+#   sk: Informačné bulletiny
+#   sv: Nyhetsbrev
+#   th: จดหมายข่าว
+#   tr: Bültenler
+#   zh: 通讯

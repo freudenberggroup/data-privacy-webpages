@@ -1,145 +1,146 @@
 ---
 layout: default
-title: "ระบบทรัพยากรบุคคลทั่วโลก"
+title: "การป้องกันข้อมูล"
 lang: th
 translation_reference: "hr_global"
 category: hr_systems
 ---
 
-# Application process at Freudenberg
+# ขั้นตอนการสมัครที่บริษัทฟรอยเดนเบิร์ก
 
-The Freudenberg Group appreciates your visit to our job portal and your interest in the companies of the Freudenberg Group.
+กลุ่มบริษัทฟรอยเดนเบิร์ก มีความยินดีที่คุณกำลังเยี่ยมชมพอร์ทัลงานของเรา และคุณสนใจในบริษัทต่างๆ ของกลุ่มบริษัทฟรอยเดนเบิร์ก
 
-In this privacy statement, we provide you with the legally required information on the processing of your personal data and on your rights based on the applicable data protection provisions – in particular the EU General Data Protection Regulation ("**GDPR**") and the German Federal Data Protection Act (_Bundesdatenschutzgesetz_ – "**BDSG**").
+ในคำประกาศเรื่องการปกป้องข้อมูลนี้ เราให้ข้อมูลที่จำเป็นทางกฎหมายแก่คุณเกี่ยวกับการประมวลผลข้อมูลส่วนบุคคลของคุณ และเกี่ยวกับสิทธิ์ของคุณตามระเบียบข้อบังคับด้านการปกป้องข้อมูลที่เกี่ยวข้อง โดยเฉพาะอย่างยิ่ง „ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป“ และกฎหมายปกป้องข้อมูลของรัฐบาลกลาง
 
-This privacy statement relates to the processing of personal data for the purposes of the application process, both for external applications and for applications from employees who are already employed by a Freudenberg company ("**Internal Applications**").
+ประกาศเกี่ยวกับการปกป้องข้อมูลนี้ เกี่ยวข้องกับการประมวลผลข้อมูลส่วนบุคคล เพื่อวัตถุประสงค์ของขั้นตอนการสมัครทั้งสำหรับสมัครงานภายนอก และสำหรับสมัครงานจากพนักงานที่เป็นพนักงานบริษัทใดบริษัทหนึ่งที่บริษัทฟรอยเดนเบิร์ก (สมัครงานภายใน)
 
-**A. Who is responsible for the processing of personal data?**
+**1\. ใครเป็นผู้รับผิดชอบในการประมวลผลข้อมูลส่วนบุคคล**
 
-The controller under data protection law for the processing of your personal data is Freudenberg & Co. KG, which is responsible for central applicant management for all companies of the Freudenberg Group and, in this context, processes all applications received via the application channels provided centrally by the Freudenberg Group.
+บริษัทฟรอยเดนเบิร์ก มีหน้าที่รับผิดชอบในการประมวลผลข้อมูลส่วนบุคคลของคุณภายใต้กฎหมายปกป้องข้อมูล ซึ่งมีหน้าที่รับผิดชอบในการจัดการผู้สมัครสำหรับบริษัทต่างๆทั้งหมดในกลุ่มบริษัทฟรอยเดนเบิร์ก และในบริบทนี้การสมัครทั้งหมดที่ได้รับผ่านช่องทางการสมัครที่กลุ่มบริษัทฟรอยเดนเบิร์กได้รับจากส่วนกลางจะได้รับการประมวลผลข้อมูลส่วนบุคคล
 
-Freudenberg & Co. KG ("**Freudenberg**") can be reached by mail (Hoehnerweg 2-4, D-69469 Weinheim, Germany) or by e-mail (info@freudenberg.com).
+ติดต่อ บริษัทฟรอยเดนเบิร์ก ทางไปรษณีย์ ได้ที่ เลขที่ 2 ตรอกโฮเนอร์ เมืองไวนไฮม 69469 ประเทศเยอรมัน
 
-Where this data protection information refers to "we" or "us", this refers in each case to the aforementioned company.
+ที่มีการกล่าวถึงเราหรือพวกเราในข้อมูลการปกป้องข้อมูลนี้หมายถึงบริษัทดังที่ได้กล่าวมาแล้ว
 
-You can reach Freudenberg's data protection officer as follows: activeMind.legal Rechtsanwaltsgesellschaft m.b.H. – Data Protection Officer Freudenberg & Co. KG, Potsdamer Straße 3, 80802 München, Germany, e-mail: dataprotection-support@freudenberg.com.
+คุณสามารถติดต่อเจ้าหน้าที่ปกป้องข้อมูลของกลุ่มบริษัทฟรอยเดนเบิร์กได้ดังนี้ คุณสามารถติดต่อเจ้าหน้าที่ปกป้องข้อมูลของกลุ่มบริษัทฟรอยเดนเบิร์กได้ดังนี้เจ้าหน้าที่ปกป้องข้อมูลกลุ่มบริษัทฟรอยเดนเบิร์ก เลขที่ 3 ถนนพอทสดัม มิวนิค 80802 ประเทศเยอรมัน อีเมล dataprotection-support@freudenberg.com
 
-In addition to Freudenberg, other Freudenberg Group companies are also involved in the application process. This refers primarily to the company that has advertised a vacancy, to which you are making an unsolicited application for a position or which has a vacancy that matches your application ("Freudenberg Employer"). Please refer to Section E below for more information.
+นอกจากบริษัทฟรอยเดนเบิร์ก บริษัทอื่นๆในกลุ่มบริษัทฟรอยเดนเบิร์กก็มีส่วนร่วมในขั้นตอนการสมัครเช่นกัน นี่คือบริษัทที่เรียกให้สมัครต่อตำแหน่งงานว่างเป็นหลัก หรือคุณสมัครเองตำแหน่งที่ว่าง หรือตำแหน่งว่างที่ตรงกับที่คุณสมัคร (บริษัทฟรอยเดนเบิร์กเป็นนายจ้าง) ดูส่วน 5\. ด้านล่างสำหรับข้อมูลเพิ่มเติม
 
-**B. What personal data is processed for the application process?**
+**2\. ข้อมูลส่วนบุคคลใดบ้างที่ได้รับการประมวลผลสำหรับขั้นตอนการสมัคร**
 
-In order to process your application, we need to process personal data. This regularly involves so-called master and history data, which we refer to collectively as **Application Data**.
+เพื่อสามารถดำเนินการการสมัครของคุณได้เราต้องประมวลผลข้อมูลส่วนบุคคลสิ่งเหล่านี้มักเรียกว่าข้อมูลหลัก และประมวลผลซึ่งเราเรียกว่า ข้อมูลการสมัคร
 
-* By master data we mean basic data about you and the application process conducted, in particular
-    * all information that you provide to us during the application process or that we request from you (e.g. name, address, telephone number, e-mail address, date of birth, marital status, nationality, religious denomination, education, language skills, previous employment with other employers, reference contacts); as well as
-    * such data that we collect in connection with your possible hiring (such as, in particular, details of your possible position, the possible organizational integration into our company, the possible duration of the assignment and the proposed salary).
+* ­ คือข้อมูลหลัก เราหมายถึงข้อมูลพื้นฐานเกี่ยวกับคุณ และขั้นตอนการสมัครโดยเฉพาะ
+    * ข้อมูลทั้งหมดที่คุณให้กับเราในกระบวนการสมัครหรือที่เราขอจากคุณ (เช่น ชื่อ ที่อยู่ หมายเลขโทรศัพท์ ที่อยู่อีเมล วันเกิด สถานภาพสมรส สัญชาติ นิกาย การศึกษา ทักษะทางภาษา การทำงานก่อนหน้านี้ กับนายจ้างคนอื่นๆผู้ติดต่ออ้างอิง) และ
+    * ข้อมูลที่เรารวบรวมเกี่ยวกับการจ้างงานที่เป็นไปได้ของคุณกับเรา (เช่น ข้อมูลเกี่ยวกับตำแหน่งที่เป็นไปได้ของคุณการรวมองค์กรที่เป็นไปได้ในบริษัทของเราระยะเวลาที่เป็นไปได้ของการมอบหมาย และเงินเดือนที่เสนอ)
 
-* We define historical data to mean personal data that is collected in the course of your application process and that goes beyond a mere change in your master data, in particular
-    * information about the interviews held with you (esp. date, place, participants);
-    * information about any services we may provide, such as reimbursement of travel expenses;
-    * information that you provide to us in the course of your application process – either actively or in response to a request from us – and that goes beyond the master data mentioned above. This concerns, in particular, information on remuneration/fees in the context of previous employment with other employers;
-    * other personal data from you or, if applicable, from third parties that we receive from you in the course of the application process. Third party personal data includes, for example, the name, age and nature of the relationship with persons who may accompany you while you are working for us abroad.
+* ­ เราเข้าใจข้อมูลการประมวลผล หมายถึงข้อมูลส่วนบุคคลที่เกิดขึ้นระหว่างขั้นตอนการสมัครของคุณ และนอกเหนือไปจากการเปลี่ยนแปลงข้อมูลหลักของคุณโดยเฉพาะ
 
-Application Data also expressly includes special types of personal data, in particular data relating to your nationality, your health (e.g. a cancellation of an interview due to illness), any trade union membership you may have indicated, your religion or any disability you may have.
+* ข้อมูลเกี่ยวกับการสัมภาษณ์งานที่จัดขึ้นกับคุณ (โดยเฉพาะวันที่ สถานที่ ผู้เข้าร่วม)
+* ข้อมูลเกี่ยวกับบริการใดๆ ที่เราอาจมีให้ เช่น การชดใช้ค่าใช้จ่ายในการเดินทาง
+* ข้อมูลที่คุณให้กับเราในกระบวนการสมัครของคุณไม่ว่าจะเชิงรุกหรือเพื่อตอบสนองต่อคำขอจากเรา และนอกเหนือไปจากข้อมูลหลักที่กล่าวถึงข้างต้น สิ่งนี้ใช้กับข้อมูลเกี่ยวกับค่าตอบแทน หรือเบี้ยเลี้ยงในบริบทของการจ้างงานครั้งก่อนกับนายจ้างรายอื่น
+* ข้อมูลส่วนบุคคลเพิ่มเติมจากคุณหรือจากบุคคลที่สามที่เราได้รับจากคุณในระหว่างขั้นตอนการสมัครข้อมูลส่วนบุคคลของบุคคลภายนอกได้แก่ชื่อ อายุ และประเภทของความสัมพันธ์กับบุคคลที่คุณอาจเข้าร่วมในระหว่างกิจกรรมในต่างประเทศสำหรับเรา
 
-_Internal Applications: If you apply for a position within the Freudenberg Group as an employee of a Freudenberg Group company and submit your application to us via the system provided for this purpose (currently Workday), you may provide us with additional information via the system._
+ข้อมูลการสมัครยังรวมถึงข้อมูลส่วนบุคคลประเภทพิเศษโดยชัดแจ้ง โดยเฉพาะอย่างยิ่งข้อมูลที่เกี่ยวข้องกับสัญชาติของคุณ สุขภาพของคุณ (เช่นการปฏิเสธการสัมภาษณ์งานเนื่องจากการเจ็บป่วย)
 
-We usually receive the aforementioned personal data directly from you. In certain cases, Application Data may also include personal data that we collect from third parties in compliance with the applicable legal provisions (usually on your initiative, after informing you in advance or, where applicable, with your consent or approval); such as information that we receive from your previous employer(s), training organizations or so-called reference contacts.
+_การสมัครภายใน หากคุณในฐานะพนักงานในกลุ่มบริษัทฟรอยเดนเบิร์ก สมัครตำแหน่งภายในกลุ่มบริษัทฟรอยเดนเบิร์ก และส่งใบสมัครของคุณมาให้เราโดยใช้ระบบที่จัดเตรียมไว้สำหรับวัตถุประสงค์นี้ (ปัจจุบันเรียกว่าวันทำการ) หากต้องการ คุณสามารถให้ข้อมูลเพิ่มเติมแก่ระบบ_
 
-_Internal Applications: In case of Internal Applications, we may give you the opportunity to enable us to contact persons at your current Freudenberg Employer, e.g. by providing such reference contacts. In this case, the information received from these contacts will also be included in your master/history data._
+เรามักจะได้รับข้อมูลส่วนบุคคลดังกล่าวโดยตรงจากคุณในบางกรณีข้อมูลการสมัครอาจรวมถึงข้อมูลส่วนบุคคลดังกล่าวที่เรารวบรวมตามระเบียบกฎหมายที่บังคับใช้ (โดยปกติตามความคิดริเริ่มของคุณหลังจากที่คุณได้รับแจ้งล่วงหน้าหรือได้รับความยินยอมหรือยินยอมจากคุณหากมี) โดยรวมถึงการรวบรวมจากบุคคลที่สามเช่นข้อมูลที่เราได้รับจากนายจ้างคนก่อนของคุณศูนย์ฝึกอบรมหรือที่เรียกกันว่าผู้ติดต่ออ้างอิง
 
-Please note that the amount of Application Data may vary depending on the position you are applying for: Different Freudenberg employers may be obliged to comply with different (employment) law requirements; this may have an impact on the nature and scope of the processing of personal data in application processes. For this reason, you may be provided with supplementary information on the processing of personal data during the application process, both by us and by the relevant Freudenberg Employer.
+_การสมัครภายใน ในกรณีการสมัครภายในเราสามารถให้โอกาสคุณให้เราติดต่อบุคคลที่จ้างคุณปัจจุบันที่บริษัทฟรอยเดนเบิร์กโดยระบุรายชื่ออ้างอิงดังกล่าวในกรณีนี้ข้อมูลที่ได้รับจากผู้ติดต่อเหล่านี้จะรวมอยู่ในข้อมูลหลักข้อมูลกระบวนการของคุณ_
 
-**C. Are you obliged to provide personal data?**
+โปรดทราบว่าขอบเขตของข้อมูลการสมัครอาจแตกต่างกันไปขึ้นอยู่กับตำแหน่งที่คุณสมัคร นายจ้างในบริษัทฟรอยเดนเบิร์กที่แตกต่างกันอาจจำเป็นต้องปฏิบัติตามข้อกำหนดทางกฎหมาย (แรงงาน) ที่แตกต่างกันซึ่งอาจส่งผลต่อประเภท และขอบเขตของการประมวลผลข้อมูลส่วนบุคคลในขั้นตอนการสมัครด้วยเหตุผลนี้ทั้งเรา และนายจ้างในเครือบริษัทฟรอยเดนเบิร์ก จึงสามารถให้ข้อมูลเพิ่มเติมเกี่ยวกับการประมวลผลข้อมูลส่วนบุคคลในระหว่างขั้นตอนการสมัครได้
 
-The provision of the Application Data is necessary for conducting the application process and the possible resulting conclusion of an employment contract between you and us.
+**3\. คุณจำเป็นต้องให้ข้อมูลส่วนบุคคลหรือไม่**
 
-Should this not be the case with regard to some of the data, we will expressly point this out to you when collecting the respective data.
+การจัดหาข้อมูลการสมัครเป็นสิ่งจำเป็นสำหรับการดำเนินการตามขั้นตอนการสมัคร และการสรุปสัญญาการจ้างงานระหว่างคุณกับเรา
 
-Without the provision of the Application Data, we cannot conduct the application process with you and, therefore, cannot conclude an employment contract with you.
+หากไม่ใช่กรณีที่เกี่ยวข้องกับข้อมูลส่วนบุคคลเราจะแจ้งให้คุณทราบโดยชัดแจ้งเมื่อทำการรวบรวมข้อมูลที่เกี่ยวข้อง
 
-If we collect additional personal data from you, this will also generally only be done if the provision of this information is required by law or contract or is necessary for conducting the application process. We will inform you – e.g. by marking individual requested data – if its provision is voluntary.
+หากไม่มีข้อมูลการสมัครเราไม่สามารถดำเนินการตามขั้นตอนการสมัครกับคุณได้ดังนั้นจึงไม่สามารถสรุปสัญญาการจ้างงานกับคุณได้
 
-If you send us additional information without us having requested it from you and without it being necessary for the application process, we will not use this information for the purposes of the application process, but must nevertheless store it with your other Application Data for technical reasons and for verification purposes.
+หากเรารวบรวมข้อมูลส่วนบุคคลจากคุณ โดยปกติแล้วจะเกิดขึ้นก็ต่อเมื่อกฎหมายหรือสัญญากำหนดว่าการให้ข้อมูลนี้จำเป็น หรือจำเป็นสำหรับการดำเนินการตามขั้นตอนการสมัคร เราจะแจ้งให้คุณทราบ ตัวอย่างเช่นโดยการทำเครื่องหมายแต่ละข้อมูลที่ร้องขอ หากข้อกำหนดของพวกเขาเป็นไปโดยสมัครใจ
 
-**D. On what legal basis is your personal data processed?**
+หากคุณส่งข้อมูลเพิ่มเติมถึงเราโดยที่เราไม่ได้ร้องขอจากคุณและโดยไม่จำเป็นสำหรับขั้นตอนการสมัคร เราจะไม่ใช้ข้อมูลนี้เพื่อวัตถุประสงค์ของขั้นตอนการสมัคร แต่อย่างไรก็ตาม เราต้องบันทึกข้อมูลนั้นด้วยเหตุผลทางเทคนิคและเพื่อวัตถุประสงค์ในการตรวจสอบ บันทึกข้อมูลแอปพลิเคชันอื่นๆ ของคุณ
 
-We process your Application Data for our own applications for positions at Freudenberg on the basis of Article 6(1)(b) GDPR, and otherwise on behalf of the respective Freudenberg Employer who processes Application Data on the basis of Article 6(1)(b) GDPR or a comparable legal basis under the applicable law in countries outside the EU/EEA, namely on the basis of Article 6(1)(f) GDPR to safeguard Freudenberg Group's legitimate interest in an efficient group-wide application process.
+**4\. ข้อมูลส่วนบุคคลของคุณได้รับการประมวลผลตามหลักกฎหมายใด**
 
-We also process Application Data to comply with legal obligations by which we are bound; this is done on the basis of Article 6(1)(c) GDPR. These legal obligations include, in particular, the notifications to social insurance carriers and (tax) authorities that are prescribed for us, the audits that may be prescribed for us (e.g. against so-called "sanctions lists") and the fulfillment of existing record-keeping obligations for certain information.
+เราประมวลผลข้อมูลการสมัครของคุณสำหรับการสมัครของเราสำหรับตำแหน่งที่บริษัทฟรอยเดนเบิร์ก ตามมาตรา 6 วรรค 1 ข) ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป หรือในนามของนายจ้างในเครือบริษัทฟรอยเดนเบิร์ก ข้อมูลการสมัครตามมาตรา 6 วรรค 1 ข) ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป หรือการประมวลผลบนพื้นฐานของกฎหมายที่เปรียบเทียบได้ตามกฎหมายที่ใช้บังคับในประเทศนอก รัฐสมาชิกของสหภาพยุโรป เขตเศรษฐกิจยุโรป บนพื้นฐานของมาตรา 6 วรรค 1 ฆ) ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรปเพื่อปกป้องผลประโยชน์ที่ชอบด้วยกฎหมายของกลุ่มบริษัทฟรอยเดนเบิร์ก ในกระบวนการสมัครทั่วทั้งกลุ่มที่มีประสิทธิภาพ
 
-To the extent necessary, we also process your data beyond conducting the application procedure and the fulfillment of legal obligations in order to protect our legitimate interests or the interests of third parties; this is done on the basis of Article 6(1)(f) GDPR. Our legitimate interests include, among other things:
+นอกจากนี้เรายังประมวลผลข้อมูลการสมัครเพื่อปฏิบัติตามภาระผูกพันทางกฎหมายที่เราอยู่ภายใต้ สิ่งนี้ทำบนพื้นฐานของมาตรา 6 วรรค 1 ฃ) ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป ภาระผูกพันทางกฎหมายเหล่านี้รวมถึงโดยเฉพาะอย่างยิ่งการแจ้งเตือนไปยังหน่วยงานประกันสังคมและหน่วยงานเช่นภาษที่กำหนดไว้สำหรับเรา การตรวจสอบที่เราอาจจะต้องดำเนินการ เช่นกับสิ่งที่เรียกว่า „รายการคว่ำบาตร“ และการปฏิบัติตามที่มีอยู่ ภาระผูกพันในการจัดเก็บสำหรับข้อมูลบางอย่าง
 
-* group-wide processes for the internal administration of Application Data;
-* the assertion of legal claims and the defense in legal disputes;
-* the prevention and investigation of criminal offences such as so-called "application fraud";
-* ensuring the security of the IT systems we use;
-* the further development, expansion and administration of the IT systems we use, including test operations;
-* the management and further development of our business activities, including risk management.
+หากจำเป็น เราจะประมวลผลข้อมูลของคุณนอกเหนือจากการดำเนินการตามขั้นตอนการสมัครและการปฏิบัติตามภาระผูกพันทางกฎหมาย เพื่อปกป้องผลประโยชน์โดยชอบด้วยกฎหมายของเราหรือผลประโยชน์ของบุคคลที่สาม สิ่งนี้ทำบนพื้นฐานของมาตรา 6 วรรค 1 ฆ) ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป ผลประโยชน์ที่ชอบด้วยกฎหมายของเรารวมถึง ตัวอย่างเช่น
 
-
-To the extent the Application Data contains special types of personal data (such as health data, data relating to religion and data relating to your racial and ethnic origin), we process these for our own applications for the purposes of the obligations incumbent upon us under employment law and social security law to the extent provided for by law; this is done on the basis of Article 9(2)(b) GDPR; otherwise, we do this on behalf of the respective Freudenberg Employer.
-
-Where we give you the opportunity to give your consent in the course of the application process (e.g. in connection with applicant pools), we process the personal data covered by the consent exclusively for the purposes stated in the consent declaration. This is done on the basis of Article 6(1)(a) GDPR. Where consent relates to the processing of special types of personal data (such as health data), the processing is based on Article 9(2)(a) GDPR.
-
-Please note that
-
-* the granting of consent is always voluntary and neither the granting nor the subsequent withdrawal of consent has negative consequences for conducting your application process;
-* that not granting consent or its subsequent withdrawal may nevertheless entail consequences if we are then no longer able to carry out certain data processing operations; we will inform you of such consequences before granting consent, and
-* that you may withdraw any consent given at any time with effect for the future, e.g. by notifying us (or the Freudenberg company or companies named in the consent);
-* that even in the event of withdrawal of consent, we may be entitled to continue the processing in question – possibly to a reduced extent – on the basis of a statutory permission.
-
-**E. Who receives your personal data?**
-
-Your personal data will generally be processed within Freudenberg. Depending on the type of personal data, only certain departments / organizational units will have access to your personal data. In particular, this includes employees at Freudenberg who are involved in the application process.
-
-We will also forward your Application Data to the Freudenberg Employer(s) who need to know the Application Data in order to conduct the further application process.
-
-By means of a role and authorization concept, access within our company is limited to those functions and to that extent which are necessary for the respective purpose of processing.
-
-In addition, we may also transfer Application Data to other third parties outside our company to the extent permitted by law. These external recipients include, in particular:
-
-* the service providers commissioned by us in connection with the application process, who provide services to us on a separate contractual basis, which may also include the processing of personal data, as well as the subcontractors of our service providers engaged with our consent, as well as
-* non-public and public bodies, to the extent we are obliged to transfer your personal data due to legal obligations.
-
-**F. Is personal data transferred to recipients outside the EU/EEA?**
-
-Yes, due to the global structure of the Freudenberg Group, it may also be necessary to transfer personal data to recipients in so-called "third countries". "Third countries" are countries outside the European Union or the Agreement on the European Economic Area where a level of data protection comparable to that in the European Union cannot be readily assumed.
-
-However, before such a transfer, we always check whether it is already permitted on the basis of a legal provision (e.g. on the basis of Article 49 GDPR). Furthermore, prior to such a transfer, we ensure that the required adequate level of data protection is guaranteed in the respective third country or at the recipient in the third country. This can result, in particular, from a so-called "adequacy decision" of the European Commission, which establishes an adequate level of data protection for a specific third country as a whole. Alternatively, we can also base the data transfer on the so-called "EU standard contractual clauses" agreed with a recipient.
-
-We are happy to provide you with further information on the appropriate and adequate safeguards to ensure an adequate level of data protection upon request.
-
-**G. Storage period**
-
-Generally, we store your personal data as long as we have a legitimate interest in such storage and your interests in the discontinuation of the storage do not outweigh our interests.
-
-As a rule, your Application Data will be stored at least until the end of the application process. In the event of a rejection, the data will furthermore be stored for a period of six months or in accordance with the prescribed periods in the country of the respective Freudenberg Employer after receipt of the rejection letter.
-
-When concluding an employment contract, we will provide you with a separate privacy statement for employees if and to the extent required by the law applicable to the respective Freudenberg Employer.
-
-**H. Your rights**
-
-As a data subject, you have the following rights:
-
-* ­right to information on the personal data stored about you, Article 15 GDPR;
-* ­right to rectification of inaccurate or incomplete data, Article 16 GDPR;
-* ­right to erasure of personal data, Article 17 GDPR;
-* ­right to restriction of processing, Article 18 GDPR;
-* ­right to data portability, Article 20 GDPR, and
-* ­**right to object to the processing of personal data concerning you, Article 21 GDPR.**
+* ­กระบวนการทั้งกลุ่มสำหรับการบริหารข้อมูลสมัครงานภายใน
+* ­การยืนยันข้อเรียกร้องทางกฎหมาย และการต่อสู้คดีในข้อพิพาททางกฎหมาย
+* ­การป้องกันและสอบสวนความผิดทางอาญา เช่นที่เรียกว่า "ทุจริตการสมัคร"
+* ­รับรองความปลอดภัยของระบบไอทีที่เราใช้
+* ­การพัฒนา การขยาย และการบริหารระบบไอทีที่เราใช้ต่อไป รวมถึงการดำเนินการทดสอบ
+* ­การจัดการและพัฒนากิจกรรมทางธุรกิจของเราต่อไปรวมถึงการบริหารความเสี่ยง
 
 
-To exercise these rights, you can contact us at any time – e.g. via one of the contact channels indicated at the beginning of this data protection information.
+ตราบเท่าที่ข้อมูลการสมัครมีข้อมูลส่วนบุคคลประเภทพิเศษ (เช่น ข้อมูลด้านสุขภาพ ข้อมูลทางศาสนา และข้อมูลเกี่ยวกับแหล่งกำเนิดทางเชื้อชาติและชาติพันธุ์ของคุณ) เราประมวลผลข้อมูลเหล่านี้สำหรับการสมัครชันของเราเองเพื่อวัตถุประสงค์ในภาระหน้าที่ของเราภายใต้กฎหมายแรงงานและสังคม กฎหมายความมั่นคงตามที่กฎหมายกำหนด ขอบเขต สิ่งนี้ทำบนพื้นฐานของมาตรา 9 วรรค 2 ข) ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป มิฉะนั้นในนามของนายจ้างในเครือบริษัทฟรอยเดนเบิร์กที่เกี่ยวข้อง
 
-If you have any questions regarding the processing of your data, you can also contact our data protection officer.
+ตราบเท่าที่เราให้โอกาสคุณในการให้ความยินยอมในกระบวนการสมัคร (เช่น ในส่วนที่เกี่ยวข้องกับกลุ่มผู้สมัคร) เราจะประมวลผลข้อมูลส่วนบุคคลที่รวมอยู่ในความยินยอมเพื่อวัตถุประสงค์ที่ระบุไว้ในความยินยอมเท่านั้น สิ่งนี้ทำบนพื้นฐานของมาตรา 6 วรรค 1 ก) ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป หากความยินยอมเกี่ยวข้องกับการประมวลผลข้อมูลส่วนบุคคลประเภทพิเศษ (เช่นข้อมูลด้านสุขภาพ) การประมวลผลจะเกิดขึ้นตามมาตรา 9 วรรค 2 ก) ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป
 
-You also have the right to lodge a complaint with a competent data protection supervisory authority, Article 77 GDPR.
+โปรดทราบว่า
 
-**I. Who can I contact if I have any questions?**
+* การให้ความยินยอมเป็นไปโดยสมัครใจเสมอ และการอนุญาตหรือการเพิกถอนความยินยอมในภายหลังจะไม่ส่งผลในทางลบต่อการดำเนินการตามขั้นตอนการสมัครของคุณ
+* การไม่ให้ความยินยอมหรือการเพิกถอนในภายหลังอาจมีผลตามมา หากเราไม่สามารถดำเนินการประมวลผลข้อมูลบางอย่างได้อีกต่อไป เราจะแจ้งให้คุณทราบถึงผลที่ตามมาเหล่านี้ก่อนที่จะให้ความยินยอมจากคุณ และ
+* คุณสามารถเพิกถอนความยินยอมของคุณได้ตลอดเวลาโดยมีผลในอนาคตเช่น โดยแจ้งให้เราทราบ (หรือบริษัทฟรอยเดนเบิร์ก ที่มีชื่ออยู่ในความยินยอม)
+* แม้ว่าความยินยอมจะถูกเพิกถอน เราอาจมีสิทธิ์ดำเนินการประมวลผลที่เกี่ยวข้องต่อไป อาจอยู่ในขอบเขตที่ลดลง บนพื้นฐานของการอนุญาตทางกฎหมาย
 
-If you have any questions about your rights, the quickest way to reach us is via dataprotection-support@freudenberg.com.
+**5\. ใครจะได้รับข้อมูลส่วนบุคคลของคุณ**
 
-The contact details of Freudenberg & Co. KG can be found at the beginning of this privacy statement.
+โดยทั่วไปข้อมูลส่วนบุคคลของคุณจะถูกประมวลผลภายในบริษัทฟรอยเดนเบิร์ก ขึ้นอยู่กับประเภทของข้อมูลส่วนบุคคล เฉพาะบางแผนก หรือหน่วยขององค์กรเท่านั้นที่สามารถเข้าถึงข้อมูลส่วนบุคคลของคุณได้ ซึ่งรวมถึงโดยเฉพาะอย่างยิ่งพนักงานที่บริษัทฟรอยเดนเบิร์ก ซึ่งดำเนินการตามขั้นตอนการสมัคร
 
-We will provide you with the contact details of the relevant Freudenberg Employer(s) in the course of the application process.
+นอกจากนี้เรายังส่งข้อมูลการสมัครของคุณไปยังนายจ้างของบริษัทฟรอยเดนเบิร์ก ซึ่งจะต้องทราบข้อมูลการสมัครเพื่อดำเนินการตามขั้นตอนการสมัครต่อไป
+
+ผ่านแนวคิดเรื่องบทบาทและการอนุญาต การเข้าถึงภายในบริษัทของเราจะถูกจำกัดเฉพาะหน้าที่เหล่านั้นและขอบเขตที่จำเป็นสำหรับวัตถุประสงค์ในการประมวลผลตามลำดับ
+
+นอกจากนี้ เรายังสามารถถ่ายโอนข้อมูลแอปพลิเคชันไปยังบุคคลภายนอกอื่นๆ ภายนอกบริษัทของเราตามขอบเขตที่กฎหมายอนุญาต ผู้รับภายนอกเหล่านี้รวมถึงโดยเฉพาะ
+
+* ผู้ให้บริการที่ได้รับมอบหมายจากเราเกี่ยวกับขั้นตอนการสมัครซึ่งให้บริการแก่เราตามสัญญาแยกต่างหาก ซึ่งอาจรวมถึงการประมวลผลข้อมูลส่วนบุคคล เช่นเดียวกับผู้รับเหมาช่วงของผู้ให้บริการของเราที่ได้รับความยินยอมจากเรา
+* หน่วยงานที่ไม่ใช่สาธารณะและสาธารณะ ตราบเท่าที่เราจำเป็นต้องส่งข้อมูลส่วนบุคคลของคุณเนื่องจากภาระผูกพันทางกฎหมาย
+
+**6\. ข้อมูลส่วนบุคคลถูกส่งไปยังผู้รับนอก สหภาพยุโรป หรือ เขตเศรษฐกิจยุโรป หรือไม่?**
+
+ใช่ เนื่องจากโครงสร้างระดับโลกของกลุ่มบริษัทฟรอยเดนเบิร์ก จึงอาจจำเป็นต้องถ่ายโอนข้อมูลส่วนบุคคลไปยังผู้รับใน "ประเทศที่สาม" "ประเทศที่สาม" คือประเทศที่อยู่นอกสหภาพยุโรปหรือความตกลงว่าด้วยเขตเศรษฐกิจยุโรป ซึ่งระดับของการปกป้องข้อมูลไม่สามารถสันนิษฐานได้ง่ายๆ ว่าเทียบได้กับสหภาพยุโรป
+
+อย่างไรก็ตาม ก่อนการส่งดังกล่าว เราจะตรวจสอบเสมอว่าสิ่งนี้ได้รับอนุญาตแล้วหรือไม่โดยอิงตามข้อกำหนดทางกฎหมาย (เช่น ตามมาตรา 49 ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป) อนึ่ง ก่อนการถ่ายโอนดังกล่าว เรารับรองว่าการปกป้องข้อมูลในระดับที่จำเป็นได้รับการประกันในประเทศที่สามตามลำดับหรือสำหรับผู้รับในประเทศที่สาม ซึ่งอาจส่งผลโดยเฉพาะอย่างยิ่งจากสิ่งที่เรียกว่า "การตัดสินใจที่เพียงพอ" ของคณะกรรมาธิการยุโรป โดยจะมีการกำหนดระดับการปกป้องข้อมูลที่เพียงพอสำหรับประเทศที่สามโดยรวม อีกทางหนึ่ง เราสามารถฐานการส่งข้อมูลตามสิ่งที่เรียกว่า "ข้อสัญญามาตรฐานของสหภาพยุโรป" ที่ตกลงกับผู้รับ
+
+เรายินดีที่จะให้ข้อมูลเพิ่มเติมแก่คุณเกี่ยวกับการรับประกันที่เหมาะสมและเหมาะสมสำหรับการรักษาระดับการปกป้องข้อมูลที่เพียงพอตามคำขอ
+
+**7\. ระยะเวลาการจัดเก็บข้อมูล**
+
+โดยทั่วไปเราจัดเก็บข้อมูลส่วนบุคคลของคุณตราบเท่าที่เรามีผลประโยชน์โดยชอบด้วยกฎหมายในการจัดเก็บนี้ และความสนใจของคุณที่จะไม่ดำเนินการจัดเก็บข้อมูลต่อไปจะไม่มีผลเหนือกว่า
+
+ตามกฎแล้ว ข้อมูลการสมัคร ของคุณจะถูกเก็บไว้อย่างน้อยจนกว่าจะสิ้นสุดขั้นตอนการสมัคร ในกรณีที่ถูกปฏิเสธ ข้อมูลจะถูกเก็บไว้เป็นระยะเวลาหกเดือนหรือตามกำหนดเวลาที่กำหนดในประเทศของนายจ้างของบริษัทฟรอยเดนเบิร์ก ตามลำดับหลังจากได้รับจดหมายปฏิเสธ
+
+เมื่อคุณทำสัญญาจ้างงาน เราจะให้คำประกาศการคุ้มครองข้อมูลแยกต่างหากสำหรับพนักงาน หากกฎหมายบังคับใช้กับนายจ้างของบริษัทฟรอยเดนเบิร์ก และในขอบเขตที่กฎหมายกำหนด
+
+**8\. สิทธิของคุณ**
+
+ในฐานะเจ้าของข้อมูล คุณมีสิทธิ์
+
+* ­ได้รับข้อมูลเกี่ยวกับข้อมูลส่วนบุคคลที่จัดเก็บเกี่ยวกับคุณ มาตรา 15 ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป
+* ­แก้ไขข้อมูลที่ไม่ถูกต้องหรือไม่สมบูรณ์ มาตรา 16 ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป
+* ­สำหรับการลบข้อมูลส่วนบุคคล มาตรา 17 ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป
+* ­ในการจำกัดการประมวลผล มาตรา 18 ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป
+* ­เรื่องการเคลื่อนย้ายข้อมูล มาตรา 20 ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป
+* ­**­เพื่อคัดค้านการประมวลผลข้อมูลส่วนบุคคลของคุณ มาตรา 21 ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป**
+
+
+­คุณสามารถใช้สิทธิเหล่านี้ในเวลาใดก็ได้โดยติดต่อเรา ตัวอย่างเช่นผ่านช่องทางการติดต่อที่ระบุไว้ในตอนต้นของข้อมูลการป้องกันข้อมูลนี้
+
+หากคุณมีคำถามใดๆ เกี่ยวกับการประมวลผลข้อมูลของคุณ คุณสามารถติดต่อเจ้าหน้าที่คุ้มครองข้อมูลของเราได้
+
+คุณยังมีสิทธิยื่นคำร้องต่อหน่วยงานกำกับดูแลด้านการคุ้มครองข้อมูลที่มีอำนาจ มาตรา 77 ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป
+
+**9\. ข้าพเจ้าสามารถติดต่อใครได้บ้างหากมีคำถาม**
+
+หากคุณมีคำถามใดๆ เกี่ยวกับสิทธิ์ของคุณ วิธีที่เร็วที่สุดในการติดต่อเราคือทาง อีเมลdataprotection-support@freudenberg.com
+
+คุณจะพบรายละเอียดการติดต่อของบริษัทฟรอยเดนเบิร์ก ห้างหุ้นส่วนจำกัดในตอนต้นของการประกาศการปกป้องข้อมูลนี้
+
+เราจะให้รายละเอียดการติดต่อของนายจ้างของบริษัทฟรอยเดนเบิร์ก ที่เกี่ยวข้องแก่คุณในระหว่างขั้นตอนการสมัคร

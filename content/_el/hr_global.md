@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Παγκόσμιο Σύστημα Ανθρώπινου Δυναμικού"
+title: "προστασία δεδομένων"
 lang: el
 translation_reference: "hr_global"
 category: hr_systems

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "글로벌 HR 시스템"
+title: "데이터 보호"
 lang: ko
 translation_reference: "hr_global"
 category: hr_systems

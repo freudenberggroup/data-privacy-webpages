@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Globaali HR-järjestelmä"
+title: "Datan Suojelu"
 lang: fi
 translation_reference: "hr_global"
 category: hr_systems

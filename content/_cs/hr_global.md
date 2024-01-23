@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Globální HR systém"
+title: "Ochrana Dat"
 lang: cs
 translation_reference: "hr_global"
 category: hr_systems

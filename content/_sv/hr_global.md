@@ -6,141 +6,141 @@ translation_reference: "hr_global"
 category: hr_systems
 ---
 
-# ขั้นตอนการสมัครที่บริษัทฟรอยเดนเบิร์ก
+# Prijavni postopek pri Freudenbergu
 
-กลุ่มบริษัทฟรอยเดนเบิร์ก มีความยินดีที่คุณกำลังเยี่ยมชมพอร์ทัลงานของเรา และคุณสนใจในบริษัทต่างๆ ของกลุ่มบริษัทฟรอยเดนเบิร์ก
+Skupina Freudenberg se veseli vašega obiska na našem zaposlitvenem portalu in zanimanja za podjetje skupine Freudenberg.
 
-ในคำประกาศเรื่องการปกป้องข้อมูลนี้ เราให้ข้อมูลที่จำเป็นทางกฎหมายแก่คุณเกี่ยวกับการประมวลผลข้อมูลส่วนบุคคลของคุณ และเกี่ยวกับสิทธิ์ของคุณตามระเบียบข้อบังคับด้านการปกป้องข้อมูลที่เกี่ยวข้อง โดยเฉพาะอย่างยิ่ง „ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป“ และกฎหมายปกป้องข้อมูลของรัฐบาลกลาง
+V tej izjavi o varstvu podatkov vam dajemo zakonsko predpisane informacije o obdelavi vaših osebnih podatkov in vaših pravicah na podlagi veljavnih predpisov o varstvu podatkov - zlasti Splošne uredbe EU o varstvu podatkov (**"GDPR"**) in Zveznega zakona o varstvu podatkov (**"BDSG"**).
 
-ประกาศเกี่ยวกับการปกป้องข้อมูลนี้ เกี่ยวข้องกับการประมวลผลข้อมูลส่วนบุคคล เพื่อวัตถุประสงค์ของขั้นตอนการสมัครทั้งสำหรับสมัครงานภายนอก และสำหรับสมัครงานจากพนักงานที่เป็นพนักงานบริษัทใดบริษัทหนึ่งที่บริษัทฟรอยเดนเบิร์ก (สมัครงานภายใน)
+Ta izjava o varstvu podatkov se nanaša na obdelavo osebnih podatkov v namen prijavnega postopka, tako za zunanje prijave kot tudi za prijave zaposlenih, ki so že zaposleni v eni izmed družb Freudenberg (**"interne prijave"**).
 
-**1\. ใครเป็นผู้รับผิดชอบในการประมวลผลข้อมูลส่วนบุคคล**
+**A. Kdo je odgovoren za obdelavo osebnih podatkov?**
 
-บริษัทฟรอยเดนเบิร์ก มีหน้าที่รับผิดชอบในการประมวลผลข้อมูลส่วนบุคคลของคุณภายใต้กฎหมายปกป้องข้อมูล ซึ่งมีหน้าที่รับผิดชอบในการจัดการผู้สมัครสำหรับบริษัทต่างๆทั้งหมดในกลุ่มบริษัทฟรอยเดนเบิร์ก และในบริบทนี้การสมัครทั้งหมดที่ได้รับผ่านช่องทางการสมัครที่กลุ่มบริษัทฟรอยเดนเบิร์กได้รับจากส่วนกลางจะได้รับการประมวลผลข้อมูลส่วนบุคคล
+Freudenberg & Co. KG je odgovorna za obdelavo vaših osebnih podatkov v skladu z zakonodajo o varstvu podatkov, ki je odgovorna za centralno upravljanje prijavnih prosilcev za vsa podjetja v skupini Freudenberg in v tem okviru obdeluje vse prijave, prejete prek prijavnih kanalov, ki jih centralno zagotavlja skupina Freudenberg.
 
-ติดต่อ บริษัทฟรอยเดนเบิร์ก ทางไปรษณีย์ ได้ที่ เลขที่ 2 ตรอกโฮเนอร์ เมืองไวนไฮม 69469 ประเทศเยอรมัน
+Freudenberg & Co. KG (**"Freudenberg"**) lahko kontaktirate po pošti (Hoehnerweg 2-4, D-69469 Weinheim, Nemčija) ali po e-pošti (info@freudenberg.com).
 
-ที่มีการกล่าวถึงเราหรือพวกเราในข้อมูลการปกป้องข้อมูลนี้หมายถึงบริษัทดังที่ได้กล่าวมาแล้ว
+Kolikor smo v teh informacijah o varstvu podatkov omenjeni "mi" ali "nas", se to nanaša na omenjeno družbo.
 
-คุณสามารถติดต่อเจ้าหน้าที่ปกป้องข้อมูลของกลุ่มบริษัทฟรอยเดนเบิร์กได้ดังนี้ คุณสามารถติดต่อเจ้าหน้าที่ปกป้องข้อมูลของกลุ่มบริษัทฟรอยเดนเบิร์กได้ดังนี้เจ้าหน้าที่ปกป้องข้อมูลกลุ่มบริษัทฟรอยเดนเบิร์ก เลขที่ 3 ถนนพอทสดัม มิวนิค 80802 ประเทศเยอรมัน อีเมล dataprotection-support@freudenberg.com
+S pooblaščeno osebo za varstvo podatkov Freudenberga lahko stopite v stik kot sledi: active-Mind.legal Rechtsanwaltsgesellschaft m.b.H.– Pooblaščena oseba za varstvo podatkov Freudenberg & Co. KG, Potsdamer Straße 3, 80802 München, Nemčija, telefon +49 2202 28 941-0, e-pošta dataprotection-support@freudenberg.com.
 
-นอกจากบริษัทฟรอยเดนเบิร์ก บริษัทอื่นๆในกลุ่มบริษัทฟรอยเดนเบิร์กก็มีส่วนร่วมในขั้นตอนการสมัครเช่นกัน นี่คือบริษัทที่เรียกให้สมัครต่อตำแหน่งงานว่างเป็นหลัก หรือคุณสมัครเองตำแหน่งที่ว่าง หรือตำแหน่งว่างที่ตรงกับที่คุณสมัคร (บริษัทฟรอยเดนเบิร์กเป็นนายจ้าง) ดูส่วน 5\. ด้านล่างสำหรับข้อมูลเพิ่มเติม
+V nadaljni postopek prijave so poleg Freudenberga vključena tudi druge družbe v skupini Freudenberg. To je predvsem družba, ki je objavila prosto delovno mesto, na katerega se inciativno prijavljate za razpis ali ki ima prosto delovno mesto, ki ustreza vaši prijavi ("delodajalec iz Freudenberga"). Za več informacij glejte razdelek E. spodaj.
 
-**2\. ข้อมูลส่วนบุคคลใดบ้างที่ได้รับการประมวลผลสำหรับขั้นตอนการสมัคร**
+**B. Kateri osebni podatki se obdelujejo za postopek prijave?**
 
-เพื่อสามารถดำเนินการการสมัครของคุณได้เราต้องประมวลผลข้อมูลส่วนบุคคลสิ่งเหล่านี้มักเรียกว่าข้อมูลหลัก และประมวลผลซึ่งเราเรียกว่า ข้อมูลการสมัคร
+Da bi lahko obdelali vašo prijavo, moramo obdelati vaše osebne podatke. To so običajno tako imenovani glavni in procesni podatki, ki jih imenujemo **prijavni podatki.**
 
-* ­ คือข้อมูลหลัก เราหมายถึงข้อมูลพื้นฐานเกี่ยวกับคุณ และขั้นตอนการสมัครโดยเฉพาะ
-    * ข้อมูลทั้งหมดที่คุณให้กับเราในกระบวนการสมัครหรือที่เราขอจากคุณ (เช่น ชื่อ ที่อยู่ หมายเลขโทรศัพท์ ที่อยู่อีเมล วันเกิด สถานภาพสมรส สัญชาติ นิกาย การศึกษา ทักษะทางภาษา การทำงานก่อนหน้านี้ กับนายจ้างคนอื่นๆผู้ติดต่ออ้างอิง) และ
-    * ข้อมูลที่เรารวบรวมเกี่ยวกับการจ้างงานที่เป็นไปได้ของคุณกับเรา (เช่น ข้อมูลเกี่ยวกับตำแหน่งที่เป็นไปได้ของคุณการรวมองค์กรที่เป็นไปได้ในบริษัทของเราระยะเวลาที่เป็นไปได้ของการมอบหมาย และเงินเดือนที่เสนอ)
+* Za glavne podatke smatramo osnovne podatke o vas in zlasti opravljenem prijavnem postopku, še posebej
 
-* ­ เราเข้าใจข้อมูลการประมวลผล หมายถึงข้อมูลส่วนบุคคลที่เกิดขึ้นระหว่างขั้นตอนการสมัครของคุณ และนอกเหนือไปจากการเปลี่ยนแปลงข้อมูลหลักของคุณโดยเฉพาะ
-
-* ข้อมูลเกี่ยวกับการสัมภาษณ์งานที่จัดขึ้นกับคุณ (โดยเฉพาะวันที่ สถานที่ ผู้เข้าร่วม)
-* ข้อมูลเกี่ยวกับบริการใดๆ ที่เราอาจมีให้ เช่น การชดใช้ค่าใช้จ่ายในการเดินทาง
-* ข้อมูลที่คุณให้กับเราในกระบวนการสมัครของคุณไม่ว่าจะเชิงรุกหรือเพื่อตอบสนองต่อคำขอจากเรา และนอกเหนือไปจากข้อมูลหลักที่กล่าวถึงข้างต้น สิ่งนี้ใช้กับข้อมูลเกี่ยวกับค่าตอบแทน หรือเบี้ยเลี้ยงในบริบทของการจ้างงานครั้งก่อนกับนายจ้างรายอื่น
-* ข้อมูลส่วนบุคคลเพิ่มเติมจากคุณหรือจากบุคคลที่สามที่เราได้รับจากคุณในระหว่างขั้นตอนการสมัครข้อมูลส่วนบุคคลของบุคคลภายนอกได้แก่ชื่อ อายุ และประเภทของความสัมพันธ์กับบุคคลที่คุณอาจเข้าร่วมในระหว่างกิจกรรมในต่างประเทศสำหรับเรา
-
-ข้อมูลการสมัครยังรวมถึงข้อมูลส่วนบุคคลประเภทพิเศษโดยชัดแจ้ง โดยเฉพาะอย่างยิ่งข้อมูลที่เกี่ยวข้องกับสัญชาติของคุณ สุขภาพของคุณ (เช่นการปฏิเสธการสัมภาษณ์งานเนื่องจากการเจ็บป่วย)
-
-_การสมัครภายใน หากคุณในฐานะพนักงานในกลุ่มบริษัทฟรอยเดนเบิร์ก สมัครตำแหน่งภายในกลุ่มบริษัทฟรอยเดนเบิร์ก และส่งใบสมัครของคุณมาให้เราโดยใช้ระบบที่จัดเตรียมไว้สำหรับวัตถุประสงค์นี้ (ปัจจุบันเรียกว่าวันทำการ) หากต้องการ คุณสามารถให้ข้อมูลเพิ่มเติมแก่ระบบ_
-
-เรามักจะได้รับข้อมูลส่วนบุคคลดังกล่าวโดยตรงจากคุณในบางกรณีข้อมูลการสมัครอาจรวมถึงข้อมูลส่วนบุคคลดังกล่าวที่เรารวบรวมตามระเบียบกฎหมายที่บังคับใช้ (โดยปกติตามความคิดริเริ่มของคุณหลังจากที่คุณได้รับแจ้งล่วงหน้าหรือได้รับความยินยอมหรือยินยอมจากคุณหากมี) โดยรวมถึงการรวบรวมจากบุคคลที่สามเช่นข้อมูลที่เราได้รับจากนายจ้างคนก่อนของคุณศูนย์ฝึกอบรมหรือที่เรียกกันว่าผู้ติดต่ออ้างอิง
-
-_การสมัครภายใน ในกรณีการสมัครภายในเราสามารถให้โอกาสคุณให้เราติดต่อบุคคลที่จ้างคุณปัจจุบันที่บริษัทฟรอยเดนเบิร์กโดยระบุรายชื่ออ้างอิงดังกล่าวในกรณีนี้ข้อมูลที่ได้รับจากผู้ติดต่อเหล่านี้จะรวมอยู่ในข้อมูลหลักข้อมูลกระบวนการของคุณ_
-
-โปรดทราบว่าขอบเขตของข้อมูลการสมัครอาจแตกต่างกันไปขึ้นอยู่กับตำแหน่งที่คุณสมัคร นายจ้างในบริษัทฟรอยเดนเบิร์กที่แตกต่างกันอาจจำเป็นต้องปฏิบัติตามข้อกำหนดทางกฎหมาย (แรงงาน) ที่แตกต่างกันซึ่งอาจส่งผลต่อประเภท และขอบเขตของการประมวลผลข้อมูลส่วนบุคคลในขั้นตอนการสมัครด้วยเหตุผลนี้ทั้งเรา และนายจ้างในเครือบริษัทฟรอยเดนเบิร์ก จึงสามารถให้ข้อมูลเพิ่มเติมเกี่ยวกับการประมวลผลข้อมูลส่วนบุคคลในระหว่างขั้นตอนการสมัครได้
-
-**3\. คุณจำเป็นต้องให้ข้อมูลส่วนบุคคลหรือไม่**
-
-การจัดหาข้อมูลการสมัครเป็นสิ่งจำเป็นสำหรับการดำเนินการตามขั้นตอนการสมัคร และการสรุปสัญญาการจ้างงานระหว่างคุณกับเรา
-
-หากไม่ใช่กรณีที่เกี่ยวข้องกับข้อมูลส่วนบุคคลเราจะแจ้งให้คุณทราบโดยชัดแจ้งเมื่อทำการรวบรวมข้อมูลที่เกี่ยวข้อง
-
-หากไม่มีข้อมูลการสมัครเราไม่สามารถดำเนินการตามขั้นตอนการสมัครกับคุณได้ดังนั้นจึงไม่สามารถสรุปสัญญาการจ้างงานกับคุณได้
-
-หากเรารวบรวมข้อมูลส่วนบุคคลจากคุณ โดยปกติแล้วจะเกิดขึ้นก็ต่อเมื่อกฎหมายหรือสัญญากำหนดว่าการให้ข้อมูลนี้จำเป็น หรือจำเป็นสำหรับการดำเนินการตามขั้นตอนการสมัคร เราจะแจ้งให้คุณทราบ ตัวอย่างเช่นโดยการทำเครื่องหมายแต่ละข้อมูลที่ร้องขอ หากข้อกำหนดของพวกเขาเป็นไปโดยสมัครใจ
-
-หากคุณส่งข้อมูลเพิ่มเติมถึงเราโดยที่เราไม่ได้ร้องขอจากคุณและโดยไม่จำเป็นสำหรับขั้นตอนการสมัคร เราจะไม่ใช้ข้อมูลนี้เพื่อวัตถุประสงค์ของขั้นตอนการสมัคร แต่อย่างไรก็ตาม เราต้องบันทึกข้อมูลนั้นด้วยเหตุผลทางเทคนิคและเพื่อวัตถุประสงค์ในการตรวจสอบ บันทึกข้อมูลแอปพลิเคชันอื่นๆ ของคุณ
-
-**4\. ข้อมูลส่วนบุคคลของคุณได้รับการประมวลผลตามหลักกฎหมายใด**
-
-เราประมวลผลข้อมูลการสมัครของคุณสำหรับการสมัครของเราสำหรับตำแหน่งที่บริษัทฟรอยเดนเบิร์ก ตามมาตรา 6 วรรค 1 ข) ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป หรือในนามของนายจ้างในเครือบริษัทฟรอยเดนเบิร์ก ข้อมูลการสมัครตามมาตรา 6 วรรค 1 ข) ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป หรือการประมวลผลบนพื้นฐานของกฎหมายที่เปรียบเทียบได้ตามกฎหมายที่ใช้บังคับในประเทศนอก รัฐสมาชิกของสหภาพยุโรป เขตเศรษฐกิจยุโรป บนพื้นฐานของมาตรา 6 วรรค 1 ฆ) ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรปเพื่อปกป้องผลประโยชน์ที่ชอบด้วยกฎหมายของกลุ่มบริษัทฟรอยเดนเบิร์ก ในกระบวนการสมัครทั่วทั้งกลุ่มที่มีประสิทธิภาพ
-
-นอกจากนี้เรายังประมวลผลข้อมูลการสมัครเพื่อปฏิบัติตามภาระผูกพันทางกฎหมายที่เราอยู่ภายใต้ สิ่งนี้ทำบนพื้นฐานของมาตรา 6 วรรค 1 ฃ) ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป ภาระผูกพันทางกฎหมายเหล่านี้รวมถึงโดยเฉพาะอย่างยิ่งการแจ้งเตือนไปยังหน่วยงานประกันสังคมและหน่วยงานเช่นภาษที่กำหนดไว้สำหรับเรา การตรวจสอบที่เราอาจจะต้องดำเนินการ เช่นกับสิ่งที่เรียกว่า „รายการคว่ำบาตร“ และการปฏิบัติตามที่มีอยู่ ภาระผูกพันในการจัดเก็บสำหรับข้อมูลบางอย่าง
-
-หากจำเป็น เราจะประมวลผลข้อมูลของคุณนอกเหนือจากการดำเนินการตามขั้นตอนการสมัครและการปฏิบัติตามภาระผูกพันทางกฎหมาย เพื่อปกป้องผลประโยชน์โดยชอบด้วยกฎหมายของเราหรือผลประโยชน์ของบุคคลที่สาม สิ่งนี้ทำบนพื้นฐานของมาตรา 6 วรรค 1 ฆ) ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป ผลประโยชน์ที่ชอบด้วยกฎหมายของเรารวมถึง ตัวอย่างเช่น
-
-* ­กระบวนการทั้งกลุ่มสำหรับการบริหารข้อมูลสมัครงานภายใน
-* ­การยืนยันข้อเรียกร้องทางกฎหมาย และการต่อสู้คดีในข้อพิพาททางกฎหมาย
-* ­การป้องกันและสอบสวนความผิดทางอาญา เช่นที่เรียกว่า "ทุจริตการสมัคร"
-* ­รับรองความปลอดภัยของระบบไอทีที่เราใช้
-* ­การพัฒนา การขยาย และการบริหารระบบไอทีที่เราใช้ต่อไป รวมถึงการดำเนินการทดสอบ
-* ­การจัดการและพัฒนากิจกรรมทางธุรกิจของเราต่อไปรวมถึงการบริหารความเสี่ยง
+* vse informacije, ki nam jih posredujete med prijavnim postopkom ali ki jih zahtevamo od vas (npr. ime, naslov, telefonska številka, e-poštni naslov, datum rojstva, zakonski stan, državljanstvo, veroizpoved, izobrazba, jezikovno znanje, predhodna zaposlitev pri drugih delodajalcih, reference); kot tudi
+* podatke, ki jih zbiramo v zvezi z vašo morebitno zaposlitvijo pri nas (kot so zlasti podatki o vašem možnem položaju, morebitni organizacijski integraciji v naše podjetje, možnem trajanju razporeditve in predlagani plači).
 
 
-ตราบเท่าที่ข้อมูลการสมัครมีข้อมูลส่วนบุคคลประเภทพิเศษ (เช่น ข้อมูลด้านสุขภาพ ข้อมูลทางศาสนา และข้อมูลเกี่ยวกับแหล่งกำเนิดทางเชื้อชาติและชาติพันธุ์ของคุณ) เราประมวลผลข้อมูลเหล่านี้สำหรับการสมัครชันของเราเองเพื่อวัตถุประสงค์ในภาระหน้าที่ของเราภายใต้กฎหมายแรงงานและสังคม กฎหมายความมั่นคงตามที่กฎหมายกำหนด ขอบเขต สิ่งนี้ทำบนพื้นฐานของมาตรา 9 วรรค 2 ข) ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป มิฉะนั้นในนามของนายจ้างในเครือบริษัทฟรอยเดนเบิร์กที่เกี่ยวข้อง
+* \- Kot procesne podatke razumemo osebne podatke, ki nastanejo med postopkom prijave in presegajo zgolj spreminjanje vaših glavnih podatkov, zlasti
 
-ตราบเท่าที่เราให้โอกาสคุณในการให้ความยินยอมในกระบวนการสมัคร (เช่น ในส่วนที่เกี่ยวข้องกับกลุ่มผู้สมัคร) เราจะประมวลผลข้อมูลส่วนบุคคลที่รวมอยู่ในความยินยอมเพื่อวัตถุประสงค์ที่ระบุไว้ในความยินยอมเท่านั้น สิ่งนี้ทำบนพื้นฐานของมาตรา 6 วรรค 1 ก) ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป หากความยินยอมเกี่ยวข้องกับการประมวลผลข้อมูลส่วนบุคคลประเภทพิเศษ (เช่นข้อมูลด้านสุขภาพ) การประมวลผลจะเกิดขึ้นตามมาตรา 9 วรรค 2 ก) ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป
+* informacije o delovnih razgovorih z vami (zlasti datum, kraj, udeleženci);
+* informacije o kakršnih koli storitvah, ki smo jih morda opravili, na primer povračilo potnih stroškov;
+* informacije, ki nam jih posredujete med postopkom prijave - bodisi aktivno bodisi kot odziv na našo zahtevo - in presegajo zgoraj omenjene glavne podatke. To velja zlasti za informacije o prejemkih/honorarjih v okviru prejšnje zaposlitve pri drugih delodajalcih;
+* nadaljnje osebne podatke o vas ali, če je potrebno, o tretjih osebah, ki jih od vas prejmemo med postopkom prijave. Osebni podatki tretjih oseb vključujejo na primer ime, starost in vrsto odnosa z ljudmi, ki vas bodo morebiti spremljali med službo za nas v tujini.
 
-โปรดทราบว่า
+Podatki o prijavi izrecno vključujejo tudi posebne vrste osebnih podatkov, zlasti informacije v zvezi z vašo narodnostjo, zdravjem (npr. zavrnitev razgovora za službo zaradi bolezni), morebitno navedeno članstvo v sindikatu, vašo vero ali kakršno koli invalidnost.
 
-* การให้ความยินยอมเป็นไปโดยสมัครใจเสมอ และการอนุญาตหรือการเพิกถอนความยินยอมในภายหลังจะไม่ส่งผลในทางลบต่อการดำเนินการตามขั้นตอนการสมัครของคุณ
-* การไม่ให้ความยินยอมหรือการเพิกถอนในภายหลังอาจมีผลตามมา หากเราไม่สามารถดำเนินการประมวลผลข้อมูลบางอย่างได้อีกต่อไป เราจะแจ้งให้คุณทราบถึงผลที่ตามมาเหล่านี้ก่อนที่จะให้ความยินยอมจากคุณ และ
-* คุณสามารถเพิกถอนความยินยอมของคุณได้ตลอดเวลาโดยมีผลในอนาคตเช่น โดยแจ้งให้เราทราบ (หรือบริษัทฟรอยเดนเบิร์ก ที่มีชื่ออยู่ในความยินยอม)
-* แม้ว่าความยินยอมจะถูกเพิกถอน เราอาจมีสิทธิ์ดำเนินการประมวลผลที่เกี่ยวข้องต่อไป อาจอยู่ในขอบเขตที่ลดลง บนพื้นฐานของการอนุญาตทางกฎหมาย
+_Interne prijave: Če se kot zaposleni v podjetju v skupini Freudenberg prijavite na delovno mesto v skupini Freudenberg in nam pošljete svojo prijavo s sistemom, ki je predviden v ta namen (trenutno v Workday), nam lahko po potrebi prek sistema pošljete dodatne informacije._
 
-**5\. ใครจะได้รับข้อมูลส่วนบุคคลของคุณ**
+Zgoraj omenjene osebne podatke običajno prejmemo neposredno od vas. V nekaterih primerih lahko podatki o prijavi vključujejo tudi osebne podatke, ki jih zbiramo o tretjih osebah v skladu z veljavnimi zakonskimi določbami (običajno na vašo pobudo, potem ko ste bili vnaprej obveščeni ali, če je primerno, z vašim dovoljenjem ali soglasjem); na primer informacije, ki jih dobimo od vaših predhodnih delodajalcev, centrov za usposabljanje ali tako imenovanih referenčnih kontaktov.
 
-โดยทั่วไปข้อมูลส่วนบุคคลของคุณจะถูกประมวลผลภายในบริษัทฟรอยเดนเบิร์ก ขึ้นอยู่กับประเภทของข้อมูลส่วนบุคคล เฉพาะบางแผนก หรือหน่วยขององค์กรเท่านั้นที่สามารถเข้าถึงข้อมูลส่วนบุคคลของคุณได้ ซึ่งรวมถึงโดยเฉพาะอย่างยิ่งพนักงานที่บริษัทฟรอยเดนเบิร์ก ซึ่งดำเนินการตามขั้นตอนการสมัคร
+_Interne prijave: V primeru internih prijav vam lahko damo priložnost, da se obrnete na kontaktne osebe pri predhodnem delodajalcu v Freudenbergu, npr. z navedbo takšnih referenčnih kontaktov. V tem primeru se bodo informacije, ki jih prejmemo s strani teh kontaktnih osebe, stekale v vaše glavne/procesne podatke._
 
-นอกจากนี้เรายังส่งข้อมูลการสมัครของคุณไปยังนายจ้างของบริษัทฟรอยเดนเบิร์ก ซึ่งจะต้องทราบข้อมูลการสมัครเพื่อดำเนินการตามขั้นตอนการสมัครต่อไป
+Upoštevajte, da se lahko obseg prijavnih podatkov razlikuje glede na delovno mesto, na katerega se prijavljate: različni delodajalci v Freudenbergu bodo morda morali upoštevati različne (delovne) zakonske zahteve; to lahko vpliva na vrsto in obseg obdelave osebnih podatkov v prijavnih postopkih. Iz tega razloga vam lahko mi kot zadevni delodajalec v Freudenbergu med postopkom prijave zagotovi dodatne informacije o obdelavi osebnih podatkov.
 
-ผ่านแนวคิดเรื่องบทบาทและการอนุญาต การเข้าถึงภายในบริษัทของเราจะถูกจำกัดเฉพาะหน้าที่เหล่านั้นและขอบเขตที่จำเป็นสำหรับวัตถุประสงค์ในการประมวลผลตามลำดับ
+**C. Ste dolžni posredovati osebne podatke?**
 
-นอกจากนี้ เรายังสามารถถ่ายโอนข้อมูลแอปพลิเคชันไปยังบุคคลภายนอกอื่นๆ ภายนอกบริษัทของเราตามขอบเขตที่กฎหมายอนุญาต ผู้รับภายนอกเหล่านี้รวมถึงโดยเฉพาะ
+Navedba prijavnih podatkov je potrebna za izvedbo prijavnega postopka in sklenitev pogodbe o zaposlitvi med vami in nami.
 
-* ผู้ให้บริการที่ได้รับมอบหมายจากเราเกี่ยวกับขั้นตอนการสมัครซึ่งให้บริการแก่เราตามสัญญาแยกต่างหาก ซึ่งอาจรวมถึงการประมวลผลข้อมูลส่วนบุคคล เช่นเดียวกับผู้รับเหมาช่วงของผู้ให้บริการของเราที่ได้รับความยินยอมจากเรา
-* หน่วยงานที่ไม่ใช่สาธารณะและสาธารณะ ตราบเท่าที่เราจำเป็นต้องส่งข้อมูลส่วนบุคคลของคุณเนื่องจากภาระผูกพันทางกฎหมาย
+Če to ne velja za posamezne podatke, vas bomo na to pri zbiranju ustreznih podatkov izrecno opozorili.
 
-**6\. ข้อมูลส่วนบุคคลถูกส่งไปยังผู้รับนอก สหภาพยุโรป หรือ เขตเศรษฐกิจยุโรป หรือไม่?**
+Če zbiramo osebne podatke o vas, ki presegajo ta okvir, se to običajno zgodi le, če zagotavljanje teh podatkov zahteva zakon ali pogodba ali je to potrebno za izvajanje prijavnega postopka. Obveščali vas bomo – npr. z označevanjem posameznih zahtevanih podatkov - če je njihovo razkritje prostovoljno.
 
-ใช่ เนื่องจากโครงสร้างระดับโลกของกลุ่มบริษัทฟรอยเดนเบิร์ก จึงอาจจำเป็นต้องถ่ายโอนข้อมูลส่วนบุคคลไปยังผู้รับใน "ประเทศที่สาม" "ประเทศที่สาม" คือประเทศที่อยู่นอกสหภาพยุโรปหรือความตกลงว่าด้วยเขตเศรษฐกิจยุโรป ซึ่งระดับของการปกป้องข้อมูลไม่สามารถสันนิษฐานได้ง่ายๆ ว่าเทียบได้กับสหภาพยุโรป
+Če nam posredujete dodatne podatke, ne da bi jih od vas zahtevali in ne da bi bile potrebni za postopek prijave, teh podatkov ne bomo uporabili za namene prijavnega postopka, vendar jih moramo zaradi tehničnih razlogov in zaradi preverjanja vseeno shraniti skupaj z vašimi preostalimi prijavnimi podatki.
 
-อย่างไรก็ตาม ก่อนการส่งดังกล่าว เราจะตรวจสอบเสมอว่าสิ่งนี้ได้รับอนุญาตแล้วหรือไม่โดยอิงตามข้อกำหนดทางกฎหมาย (เช่น ตามมาตรา 49 ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป) อนึ่ง ก่อนการถ่ายโอนดังกล่าว เรารับรองว่าการปกป้องข้อมูลในระดับที่จำเป็นได้รับการประกันในประเทศที่สามตามลำดับหรือสำหรับผู้รับในประเทศที่สาม ซึ่งอาจส่งผลโดยเฉพาะอย่างยิ่งจากสิ่งที่เรียกว่า "การตัดสินใจที่เพียงพอ" ของคณะกรรมาธิการยุโรป โดยจะมีการกำหนดระดับการปกป้องข้อมูลที่เพียงพอสำหรับประเทศที่สามโดยรวม อีกทางหนึ่ง เราสามารถฐานการส่งข้อมูลตามสิ่งที่เรียกว่า "ข้อสัญญามาตรฐานของสหภาพยุโรป" ที่ตกลงกับผู้รับ
+**D. Na kateri pravni podlagi obdelujemo vaše osebne podatke?**
 
-เรายินดีที่จะให้ข้อมูลเพิ่มเติมแก่คุณเกี่ยวกับการรับประกันที่เหมาะสมและเหมาะสมสำหรับการรักษาระดับการปกป้องข้อมูลที่เพียงพอตามคำขอ
+Obdelava vaših prijavnih podatkov za vaše lastne prijave na delovna mesta v Freudenbergu poteka na podlagi 1b odstavka 6. člena GDPR, sicer pa poteka obdelava prijavnih podatkov v imenu zadevnega delodajalca v Freudenbergu na podlagi 1b odstavka 6. člena GDPR ali na primerljivi pravni podlagi v skladu z veljavno zakonodajo v državah zunaj EU/EGP na podlagi prvega odstavka 6. člena GDPR, da se zaščiti zakoniti interes skupine Freudenberg v učinkovitem postopku prijave v celotni skupini.
 
-**7\. ระยะเวลาการจัดเก็บข้อมูล**
+Prijavne podatke obdelujemo tudi za izpolnjevanje zakonskih obveznosti, ki smo jim zavezani; to se izvaja na podlagi 1c odstavka 6. člena GDPR. Te zakonske obveznosti vključujejo zlasti poročila, ki jih moramo predložiti agencijam za socialno varnost in (davčnim) organom, preglede, ki jih bomo morda morali opraviti (npr. glede tako imenovanih "seznamov sankcij"), in izpolnitev obstoječe obveze hranjenja za nekatere informacije.
 
-โดยทั่วไปเราจัดเก็บข้อมูลส่วนบุคคลของคุณตราบเท่าที่เรามีผลประโยชน์โดยชอบด้วยกฎหมายในการจัดเก็บนี้ และความสนใจของคุณที่จะไม่ดำเนินการจัดเก็บข้อมูลต่อไปจะไม่มีผลเหนือกว่า
+Po potrebi obdelujemo vaše podatke poleg izvajanja prijavnega postopka in izpolnjevanja zakonskih obveznosti, tudi za zaščito naših zakonitih interesov ali interesov tretjih oseb; to se stori na podlagi člena 1f odstavka 6. člena GDPR. Naši legitimni interesi vključujejo na primer
 
-ตามกฎแล้ว ข้อมูลการสมัคร ของคุณจะถูกเก็บไว้อย่างน้อยจนกว่าจะสิ้นสุดขั้นตอนการสมัคร ในกรณีที่ถูกปฏิเสธ ข้อมูลจะถูกเก็บไว้เป็นระยะเวลาหกเดือนหรือตามกำหนดเวลาที่กำหนดในประเทศของนายจ้างของบริษัทฟรอยเดนเบิร์ก ตามลำดับหลังจากได้รับจดหมายปฏิเสธ
-
-เมื่อคุณทำสัญญาจ้างงาน เราจะให้คำประกาศการคุ้มครองข้อมูลแยกต่างหากสำหรับพนักงาน หากกฎหมายบังคับใช้กับนายจ้างของบริษัทฟรอยเดนเบิร์ก และในขอบเขตที่กฎหมายกำหนด
-
-**8\. สิทธิของคุณ**
-
-ในฐานะเจ้าของข้อมูล คุณมีสิทธิ์
-
-* ­ได้รับข้อมูลเกี่ยวกับข้อมูลส่วนบุคคลที่จัดเก็บเกี่ยวกับคุณ มาตรา 15 ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป
-* ­แก้ไขข้อมูลที่ไม่ถูกต้องหรือไม่สมบูรณ์ มาตรา 16 ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป
-* ­สำหรับการลบข้อมูลส่วนบุคคล มาตรา 17 ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป
-* ­ในการจำกัดการประมวลผล มาตรา 18 ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป
-* ­เรื่องการเคลื่อนย้ายข้อมูล มาตรา 20 ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป
-* ­**­เพื่อคัดค้านการประมวลผลข้อมูลส่วนบุคคลของคุณ มาตรา 21 ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป**
+* skupinski procesi za interno upravljanje aplikacijskih podatkov;
+* uveljavljanje pravnih zahtevkov in obramba v pravnih sporih;
+* preprečevanje in preiskovanje kaznivih dejanj, kot so npr. tako imenovana "prevara pri prijavi";
+* zagotavljanje varnosti informacijskih sistemov, ki jih uporabljamo;
+* nadaljnji razvoj, razširitev in upravljanje informacijskih sistemov, ki jih uporabljamo, vključno s preizkusnimi operacijami;
+* upravljanje in nadaljnji razvoj naših poslovnih dejavnosti, vključno z obvladovanjem tveganj.
 
 
-­คุณสามารถใช้สิทธิเหล่านี้ในเวลาใดก็ได้โดยติดต่อเรา ตัวอย่างเช่นผ่านช่องทางการติดต่อที่ระบุไว้ในตอนต้นของข้อมูลการป้องกันข้อมูลนี้
+Če vsebujejo prijavni podatki posebne vrste osebnih podatkov (kot so zdravstveni podatki, verski podatki in podatki o vašem rasnem in etničnem poreklu), jih obdelujemo za lastne prijave v namen izvajanja obveznosti, ki jih imamo po delovnopravni in zakonodaji socialnega varstva, ki jih določa zakon; to se stori na podlagi 2a odstavka 9. člena GDPR; sicer v imenu zadevnega delodajalca v Freudenbergu.
 
-หากคุณมีคำถามใดๆ เกี่ยวกับการประมวลผลข้อมูลของคุณ คุณสามารถติดต่อเจ้าหน้าที่คุ้มครองข้อมูลของเราได้
+V kolikor vam damo možnost, da med postopkom prijave dodelite soglasje (npr. v povezavi s skupinami prosilcev), potem vaše osebne podatke, ki so vključeni v soglasje, obdelujemo izključno za namene, ki so navedeni v soglasju. To se naredi na podlagi 1a odstavka 6. člena GDPR. Če se soglasje nanaša na obdelavo posebnih vrst osebnih podatkov (na primer zdravstvenih podatkov), poteka obdelava podatkov na podlagi 2a odstavka 9. člena GDPR.
 
-คุณยังมีสิทธิยื่นคำร้องต่อหน่วยงานกำกับดูแลด้านการคุ้มครองข้อมูลที่มีอำนาจ มาตรา 77 ระเบียบว่าด้วยการปกป้องข้อมูลทั่วไปของสหภาพยุโรป
+Prosimo, upoštevajte
 
-**9\. ข้าพเจ้าสามารถติดต่อใครได้บ้างหากมีคำถาม**
+* dodelitev soglasja je vedno prostovoljna in niti odobritev niti kaznejši preklic soglasja nimata negativnih posledic na potek vašega prijavnega postopka;
+* da je lahko neododelitev soglasja ali njen kasnejši preklic kljub temu povezana s posledicami, če po tem ne bomo več mogli izvajati nekaterih postopkov obdelave podatkov; o teh posledicah vas bomo obvestili pred privolitvijo in
+* da lahko svojo privolitev kadar koli prekličete z učinkom za naprej, npr. tako, da nas o tem obvestite (ali podjetja Freudenberga, navedena v soglasju);
+* tudi če je vaša privolitev umaknjena, smo lahko upravičeni do nadaljevanja ustrezne obdelave podatkov - po možnosti v manjši meri - na podlagi zakonitega dovoljenja.
 
-หากคุณมีคำถามใดๆ เกี่ยวกับสิทธิ์ของคุณ วิธีที่เร็วที่สุดในการติดต่อเราคือทาง อีเมลdataprotection-support@freudenberg.com
+**E. Kdo bo prejel vaše osebne podatke?**
 
-คุณจะพบรายละเอียดการติดต่อของบริษัทฟรอยเดนเบิร์ก ห้างหุ้นส่วนจำกัดในตอนต้นของการประกาศการปกป้องข้อมูลนี้
+Vaši osebni podatki se običajno obdelujejo v Freudenbergu. Dostop do vaših osebnih podatkov imajo glede na vrsto osebnih podatkov le določeni oddelki/organizacijske enote. To vključuje zlasti zaposlene v Freudenbergu, ki izvajajo prijavne postopke.
 
-เราจะให้รายละเอียดการติดต่อของนายจ้างของบริษัทฟรอยเดนเบิร์ก ที่เกี่ยวข้องแก่คุณในระหว่างขั้นตอนการสมัคร
+Vaše prijavne podatke posredujemo tudi delodajalcu (delodajalcem) iz Freudenberga, ki mora (-jo) biti seznanjen (-i) s podatki za prijavo, da lahko izvede (-jo) nadaljnji prijavni postopek.
+
+S konceptom vloge in pooblastila je dostop do vaših podatkov znotraj našega podjetja omejen na tiste funkcije in obseg, ki sta potrebna za posamezen namen obdelave.
+
+Poleg tega lahko podatke o prijavi prenesemo tudi drugim tretjim osebam zunaj našega podjetja v obsegu, ki ga dovoljuje zakon. Ti zunanji prejemniki vključujejo zlasti
+
+* ponudnike storitev, ki smo jih pooblastili v zvezi s prijavnim postopkom, ki za nas opra-vljajo storitve na ločeni pogodbeni podlagi, ki lahko vključuje tudi obdelavo osebnih podatkov, pa tudi podizvajalci naših ponudnikov storitev, ki so sodelovali z našim soglasjem, tako dobro, kot
+* nejavne in javne organe, v kolikor smo jim zaradi zakonskih obveznosti dolžni posredovati vaše osebne podatke.
+
+**F. Ali se osebni podatki prenašajo prejemnikom zunaj EU/EGP?**
+
+Da, zaradi globalne strukture skupine Freudenberg bo morda treba tudi osebne podatke prenašati prejemnikom v tako imenovanih "tretjih državah". "Tretje države" so države zunaj Evropske unije ali Sporazuma o Evropskem gospodarskem prostoru, pri katerih ni mogoče preprosto domnevati ravni varstva podatkov, primerljive s tisto v Evropski uniji.
+
+Pred takim prenosom pa vedno preverimo, ali je to na podlagi zakonske določbe že dovoljeno (npr. na podlagi 49. člena GDPR). Poleg tega pred takim prenosom zagotovimo, da je potrebna ustrezna raven varstva podatkov zagotovljena v zadevni tretji državi ali pri prejemniku v tretji državi. To je lahko zlasti posledica tako imenovane "odločbe o ustreznosti"Evropske komisije, s katero se na splošno določi ustrezna raven varstva podatkov za določeno tretjo državo. Lahko pa tudi prenos podatkov utemeljimo na tako imenovanih "standardnih pogodbenih klavzulah EU", dogovorjenih s prejemnikom.
+
+Z veseljem vam bomo na zahtevo posredovali dodatne informacije o primernih in ustreznih garancijah za vzdrževanje ustrezne ravni varstva podatkov.
+
+**G. Obdobje hranjenja**
+
+Vaše osebne podatke običajno hranimo, če imamo legitimen interes za to hranjenje in če vaši interesi, da ne nadaljujete s hranjenjem, ne odtehtajo vaših interesov.
+
+Podatki o prijavi bodo praviloma shranjeni vsaj do konca prijavnega postopka. V primeru zavrnitve se bodo podatki hranili tudi še šest mesecev po prejemu zavrnilnega pisma ali v skladu s predpisanimi roki v državi zadevnega delodajalca v Freudenbergu.
+
+Ob sklenitvi pogodbe o zaposlitvi vam bomo posredovali ločeno izjavo o varstvu podatkov za zaposlene, če in v kolikor to zahteva zakonodaja, ki velja za zadevnega delodajalca v Freudenbergu.
+
+**H. Vaše pravice**
+
+Kot posameznik, na katerega se nanašajo osebni podatki, imate pravico
+
+* ­­­­­do informacij o osebnih podatkih, shranjenih o vas, 15. člen GDPR;
+* ­­­­­­­­­­­popraviti napačne ali nepopolne podatke, 16. člen GDPR;
+* do izbrisa osebnih podatkov 17. člen GDPR;
+* do omejitve obdelave, 18. člen GDPR;
+* ­­­­­­­do prenosljivosti podatkov, 20. člen GDPR in
+* ­**da nasprotujete obdelavi vaših osebnih podatkov, 21. člen GDPR.**
+
+
+Za uveljavljanje teh pravic nas lahko stopite z nami v stik kadar koli - npr. prek enega od kontaktnih kanalov, določenih na začetku teh informacij o varstvu podatkov.
+
+Če imate kakršna koli vprašanja glede obdelave vaših podatkov, se lahko obrnete tudi na našega uradnika za varstvo podatkov.
+
+Prav tako ste upravičeni do pritožbe pri pristojnem nadzornem organu za varstvo podatkov, 77. člen GDPR.
+
+**I. Na koga se lahko obrnem, če imam kakršna koli vprašanja?**
+
+Če imate kakršna koli vprašanja o svojih pravicah, se najhitreje obrnite na nas preko dataprotection-support@freudenberg.com.
+
+Kontaktne podatke za podjetje Freudenberg & Co. KG najdete na začetku te izjave o varstvu podatkov.
+
+Med prijavnim postopkom vam bomo posredovali kontaktne podatke zadevnih delodajalcev v Freudenbergu.
