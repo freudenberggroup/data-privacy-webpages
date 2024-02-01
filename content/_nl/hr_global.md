@@ -22,7 +22,7 @@ U bereikt de Freudenberg & Co. KG (**"Freudenberg"**) per post (Hoehnerweg 2-4, 
 
 Voor zover in deze informatie over gegevensbescherming sprake is van "wij" of "ons” wordt daarmee steeds het voornoemde bedrijf bedoeld.
 
-De functionaris voor gegevensbescherming van Freudenberg kunt u als volgt bereiken: activeMind.legal Rechtsanwaltsgesellschaft m.b.H. – Datenschutzbeauftragter Freu-denberg & Co. KG, Potsdamer Straße 3, 80802 München, Duitsland, e-mail datapro-tection-support@freudenberg.com.
+De functionaris voor gegevensbescherming van Freudenberg kunt u als volgt bereiken: activeMind.legal Rechtsanwaltsgesellschaft m.b.H. – Datenschutzbeauftragter Freudenberg & Co. KG, Potsdamer Straße 3, 80802 München, Duitsland, e-mail datapro-tection-support@freudenberg.com.
 
 Naast Freudenberg zijn ook andere bedrijven van de Freudenberg Group bij de sollicitatieprocedure betrokken. Het gaat dan met name om dat bedrijf dat een vacature heeft, waarbij u open solliciteert, of dat een vacature heeft die aansluit bij uw sollicitatie ("Freudenberg-werkgever"). Voor meer informatie, zie de paragraaf E. hieronder.
 

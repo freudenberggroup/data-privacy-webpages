@@ -22,7 +22,7 @@ Die Freudenberg & Co. KG ("**Freudenberg**") erreichen Sie per Post (Hoehnerweg 
 
 Soweit in dieser Datenschutzinformation von „wir“ oder „uns“ die Rede ist, bezieht sich dies jeweils auf die vorgenannte Gesellschaft.
 
-Den Datenschutzbeauftragten von Freudenberg erreichen Sie wie folgt: activeMind.legal Rechtsanwaltsgesellschaft m.b.H.– Datenschutzbeauftragter Freu-denberg & Co. KG, Potsdamer Straße 3, 80802 München, Deutschland, E-Mail dataprotection-support@freudenberg.com.
+Den Datenschutzbeauftragten von Freudenberg erreichen Sie wie folgt: activeMind.legal Rechtsanwaltsgesellschaft m.b.H.– Datenschutzbeauftragter Freudenberg & Co. KG, Potsdamer Straße 3, 80802 München, Deutschland, E-Mail dataprotection-support@freudenberg.com.
 
 Im weiterem Verlauf sind neben Freudenberg auch weitere Gesellschaften der Freudenberg-Gruppe in das Bewerbungsverfahren eingebunden. Hierbei handelt es sich vor allem um diejenige Gesellschaft, die eine freie Stelle ausgeschrieben hat, bei der Sie sich initiativ auf eine Stelle bewerben oder die eine auf Ihre Bewerbung passende freie Stelle hat ("Freudenberg-Arbeitgeber"). Weitere Informationen hierzu finden Sie im Abschnitt E. unten.
 

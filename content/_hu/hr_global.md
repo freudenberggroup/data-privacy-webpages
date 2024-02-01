@@ -96,7 +96,7 @@ Kérjük vegye figyelembe, hogy
 
 **E. Ki férhet hozzá a személyes adataihoz?**
 
-A személyes adatait alapvetően a Freudenberg társaságon belül kezeljük. A szemé-lyes adatok jellegétől függően csak bizonyos részlegek/ szervezeti egységek férhetnek hozzá a személyes adataihoz. Ezekhez tartoznak különösen a Freuden-berg társaságnál a pályázati eljárások lefolytatásával megbízott foglalkoztatottak.
+A személyes adatait alapvetően a Freudenberg társaságon belül kezeljük. A szemé-lyes adatok jellegétől függően csak bizonyos részlegek/ szervezeti egységek férhetnek hozzá a személyes adataihoz. Ezekhez tartoznak különösen a Freudenberg társaságnál a pályázati eljárások lefolytatásával megbízott foglalkoztatottak.
 
 Ezen túl megküldjük a pályázati adatait annak/ azoknak a Freudenberg munkaadó(k)nak is, amely(ek)nek a pályázati eljárás további lefolytatásához szüksége van a pályázati adatok ismeretére.
 
