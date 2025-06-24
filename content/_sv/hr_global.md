@@ -1,14 +1,12 @@
 ---
 layout: default
-title: "Globalt HR-system"
+title: "Dataskyddsförklaring"
 lang: sv
 translation_reference: "hr_global"
 category: hr_systems
 ---
 
-# Dataskyddsförklaring
-
-## Ansökningsförfarande hos Freudenberg
+# Ansökningsförfarande hos Freudenberg
 
 Företagsgruppen Freudenberg gläder sig över att du besöker vår jobbportal och att du är intresserad av företagen i Freudenberg-gruppen.
 
